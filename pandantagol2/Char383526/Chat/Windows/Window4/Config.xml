@@ -1,0 +1,35 @@
+<Archive code="0">
+    <Array name="selected_group_ids">
+        <Int64 value="1073741826" />
+        <Int64 value="60391547858" />
+    </Array>
+    <Array name="selected_group_names">
+        <String value='&quot;Vicinity&quot;' />
+        <String value='&quot;Sojustream&quot;' />
+    </Array>
+    <Archive code="0" name="log_window_config" />
+    <Archive code="0" name="chat_window_config">
+        <Bool name="is_frontmost" value="false" />
+        <Bool name="is_backmost" value="false" />
+        <Rect name="WindowFrame" value="Rect(717.000000,726.000000,1196.000000,821.000000)" />
+    </Archive>
+    <Archive code="0" name="chat_view_config" />
+    <Int32 name="visual_mode" value="2" />
+    <String name="output_group" value='&quot;#0000000040000002#&quot;' />
+    <Float name="window_transparency_inactive" value="0.300000" />
+    <Float name="window_transparency_active" value="0.800000" />
+    <Bool name="show_timestamps" value="true" />
+    <Bool name="hide_input_when_inactive" value="false" />
+    <Bool name="deactivate_on_send" value="true" />
+    <Bool name="is_textinput_enabled" value="false" />
+    <Bool name="is_clickthrough" value="false" />
+    <Bool name="is_logged" value="false" />
+    <Bool name="is_message_fading_enabled" value="false" />
+    <Bool name="is_autosubscribe_window" value="false" />
+    <Bool name="is_window_open" value="false" />
+    <Int32 name="tab_index" value="0" />
+    <String name="window_name" value='&quot;Window4&quot;' />
+    <Bool name="is_default_window" value="false" />
+    <Bool name="is_startup_window" value="false" />
+    <String name="name" value='&quot;Vicinity&quot;' />
+</Archive>

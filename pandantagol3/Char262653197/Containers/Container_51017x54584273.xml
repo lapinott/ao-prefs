@@ -1,0 +1,67 @@
+<Archive code="0">
+    <String name="DockableViewDockName" value='&quot;DockArea33&quot;' />
+    <Point name="scroll_offset" value="Point(0.000000,0.000000)" />
+    <Archive code="0" name="listview_config">
+        <Array name="col_id">
+            <Int32 value="0" />
+            <Int32 value="1" />
+            <Int32 value="2" />
+            <Int32 value="4" />
+        </Array>
+        <Array name="col_flags">
+            <Int32 value="8" />
+            <Int32 value="14" />
+            <Int32 value="14" />
+            <Int32 value="14" />
+        </Array>
+        <Array name="col_width">
+            <Float value="16.000000" />
+            <Float value="200.000000" />
+            <Float value="30.000000" />
+            <Float value="100.000000" />
+        </Array>
+        <Int32 name="list_sort_column" value="1" />
+        <Int32 name="list_sort_order" value="0" />
+        <Bool name="listview_mode" value="false" />
+    </Archive>
+    <Archive code="0" name="item_position_map">
+        <Array name="item_id">
+            <Identity value="Identity(107,6881280)" />
+            <Identity value="Identity(107,6881281)" />
+            <Identity value="Identity(107,6881282)" />
+            <Identity value="Identity(107,6881283)" />
+            <Identity value="Identity(107,6881284)" />
+            <Identity value="Identity(107,6881285)" />
+            <Identity value="Identity(107,6881286)" />
+            <Identity value="Identity(107,6881287)" />
+            <Identity value="Identity(107,6881288)" />
+            <Identity value="Identity(107,6881289)" />
+            <Identity value="Identity(107,6881290)" />
+            <Identity value="Identity(107,6881291)" />
+            <Identity value="Identity(107,6881292)" />
+            <Identity value="Identity(107,6881293)" />
+            <Identity value="Identity(107,6881294)" />
+            <Identity value="Identity(107,6881295)" />
+            <Identity value="Identity(107,6881296)" />
+        </Array>
+        <Array name="item_pos">
+            <IPoint value="IPoint(0,0)" />
+            <IPoint value="IPoint(1,0)" />
+            <IPoint value="IPoint(2,0)" />
+            <IPoint value="IPoint(0,1)" />
+            <IPoint value="IPoint(2,1)" />
+            <IPoint value="IPoint(1,1)" />
+            <IPoint value="IPoint(0,2)" />
+            <IPoint value="IPoint(1,2)" />
+            <IPoint value="IPoint(2,2)" />
+            <IPoint value="IPoint(0,3)" />
+            <IPoint value="IPoint(1,3)" />
+            <IPoint value="IPoint(2,3)" />
+            <IPoint value="IPoint(0,4)" />
+            <IPoint value="IPoint(1,4)" />
+            <IPoint value="IPoint(2,4)" />
+            <IPoint value="IPoint(0,5)" />
+            <IPoint value="IPoint(1,5)" />
+        </Array>
+    </Archive>
+</Archive>

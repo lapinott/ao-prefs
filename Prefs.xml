@@ -1,0 +1,41 @@
+<Root>
+    <Value name="ChatFilterEnabled" value="false" />
+    <Archive name="ChatFilterRules" code="0" />
+    <Value name="ChatFontName" value='&quot;Verdana&quot;' />
+    <Value name="ChatFontSize" value="140" />
+    <Value name="ChatFontStyle" value='&quot;Regular&quot;' />
+    <Value name="DimensionNetworkTimeout" value="30" />
+    <Value name="DisplayBitsPerPixel" value="32" />
+    <Value name="DisplayBorderless" value="1" />
+    <Value name="DisplayCompressedTextures" value="0" />
+    <Value name="DisplayDeviceGUID" value='&quot;f5049e78-4861-11d2-a407-00a0c90629a8&quot;' />
+    <Value name="DisplayDriverGUID" value='&quot;00000000-0000-0000-0000-000000000000&quot;' />
+    <Value name="DisplayFullscreen" value="false" />
+    <Value name="DisplayHeight" value="1080" />
+    <Value name="DisplayOtherTextureQuality" value="3" />
+    <Value name="DisplayTextureResolution" value="2" />
+    <Value name="DisplayWBuffer" value="false" />
+    <Value name="DisplayWidth" value="1920" />
+    <Value name="EnableWebBrowser" value="false" />
+    <Value name="ExpansionFlags" value="171" />
+    <Value name="GUIName" value='&quot;Default&quot;' />
+    <Value name="GeneralNetworkTimeout" value="90" />
+    <Value name="GroundTextureQuality" value="2" />
+    <Value name="HardwareSurvey" value="0" />
+    <Archive name="LauncherConfig" code="0">
+        <Bool name="FirstLaunch" value="false" />
+        <String name="SelectedDimension" value='&quot;&quot;' />
+        <Int16 name="DisplayXPos" value="473" />
+        <Int16 name="DisplayYPos" value="229" />
+        <Int16 name="NumAccounts" value="5" />
+        <String name="Account0" value='&quot;pandantagol&quot;' />
+        <String name="Account1" value='&quot;pandantagol2&quot;' />
+        <String name="Account2" value='&quot;pandantagol3&quot;' />
+        <String name="Account3" value='&quot;thrangor&quot;' />
+        <String name="Account4" value='&quot;cerro1&quot;' />
+        <Int16 name="SelectedAccount" value="0" />
+    </Archive>
+    <Value name="PlayIntro" value="0" />
+    <Value name="SendDisconnectInfo" value="1" />
+    <Value name="SoundOnOff" value="true" />
+</Root>

@@ -1,0 +1,11 @@
+<Archive code="0">
+    <Archive code="0" name="dock_config">
+        <Archive code="0" name="dock_node_configs" />
+        <String name="docked_view_identities" value='&quot;planetmap_window&quot;' />
+        <Bool name="WindowPinButtonState" value="true" />
+        <Rect name="WindowFrame" value="Rect(100.000000,100.000000,887.000000,857.000000)" />
+        <Int32 name="selected_tab" value="-1" />
+    </Archive>
+    <String name="dock_type" value='&quot;DockTabbedWindow&quot;' />
+    <String name="dock_name" value='&quot;PlanetMapViewConfig&quot;' />
+</Archive>

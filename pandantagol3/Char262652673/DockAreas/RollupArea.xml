@@ -1,0 +1,12 @@
+<Archive code="0">
+    <Archive code="0" name="dock_config">
+        <Archive code="0" name="dock_node_configs">
+            <Bool name="is_page_expanded" value="true" />
+            <Float name="page_height" value="205.000000" />
+        </Archive>
+        <String name="docked_view_identities" value='&quot;nano_window&quot;' />
+        <Float name="scroll_offset" value="0.000000" />
+    </Archive>
+    <String name="dock_type" value='&quot;RollupController&quot;' />
+    <String name="dock_name" value='&quot;RollupArea&quot;' />
+</Archive>

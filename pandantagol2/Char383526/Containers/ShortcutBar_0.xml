@@ -1,0 +1,90 @@
+<Archive code="0">
+    <Rect name="WindowFrame" value="Rect(1164.000000,88.000000,1566.000000,125.000000)" />
+    <Bool name="IsPrimary" value="true" />
+    <Archive code="0" name="position_map">
+        <Array name="item_id">
+            <Identity value="Identity(57008,82210)" />
+            <Identity value="Identity(57008,82214)" />
+            <Identity value="Identity(53019,287042)" />
+            <Identity value="Identity(53019,287044)" />
+            <Identity value="Identity(53019,223380)" />
+            <Identity value="Identity(53019,223372)" />
+            <Identity value="Identity(51081,4)" />
+            <Identity value="Identity(51081,6)" />
+            <Identity value="Identity(53019,95708)" />
+            <Identity value="Identity(53019,273320)" />
+            <Identity value="Identity(53019,273320)" />
+            <Identity value="Identity(57008,129082)" />
+            <Identity value="Identity(53019,29652)" />
+            <Identity value="Identity(53019,29649)" />
+            <Identity value="Identity(53019,223360)" />
+            <Identity value="Identity(53019,215264)" />
+            <Identity value="Identity(53019,273629)" />
+            <Identity value="Identity(51081,8)" />
+            <Identity value="Identity(51081,9)" />
+            <Identity value="Identity(53019,223348)" />
+            <Identity value="Identity(53019,223364)" />
+            <Identity value="Identity(53019,269460)" />
+            <Identity value="Identity(53019,275833)" />
+            <Identity value="Identity(53019,275830)" />
+            <Identity value="Identity(53019,55751)" />
+            <Identity value="Identity(53019,270786)" />
+            <Identity value="Identity(53019,275014)" />
+            <Identity value="Identity(53019,273322)" />
+            <Identity value="Identity(53019,202846)" />
+            <Identity value="Identity(53019,223372)" />
+            <Identity value="Identity(53019,226281)" />
+            <Identity value="Identity(53019,296793)" />
+            <Identity value="Identity(53019,287046)" />
+            <Identity value="Identity(53019,26451)" />
+            <Identity value="Identity(53019,27177)" />
+            <Identity value="Identity(115,58)" />
+            <Identity value="Identity(101,1)" />
+            <Identity value="Identity(104,86)" />
+            <Identity value="Identity(115,60)" />
+        </Array>
+        <Array name="item_pos">
+            <IPoint value="IPoint(0,0)" />
+            <IPoint value="IPoint(1,0)" />
+            <IPoint value="IPoint(2,8)" />
+            <IPoint value="IPoint(3,8)" />
+            <IPoint value="IPoint(5,9)" />
+            <IPoint value="IPoint(4,8)" />
+            <IPoint value="IPoint(8,7)" />
+            <IPoint value="IPoint(9,7)" />
+            <IPoint value="IPoint(1,8)" />
+            <IPoint value="IPoint(2,1)" />
+            <IPoint value="IPoint(0,9)" />
+            <IPoint value="IPoint(2,0)" />
+            <IPoint value="IPoint(4,9)" />
+            <IPoint value="IPoint(3,9)" />
+            <IPoint value="IPoint(8,9)" />
+            <IPoint value="IPoint(9,9)" />
+            <IPoint value="IPoint(1,9)" />
+            <IPoint value="IPoint(0,2)" />
+            <IPoint value="IPoint(0,3)" />
+            <IPoint value="IPoint(5,8)" />
+            <IPoint value="IPoint(6,8)" />
+            <IPoint value="IPoint(2,9)" />
+            <IPoint value="IPoint(3,0)" />
+            <IPoint value="IPoint(5,0)" />
+            <IPoint value="IPoint(0,8)" />
+            <IPoint value="IPoint(4,0)" />
+            <IPoint value="IPoint(6,0)" />
+            <IPoint value="IPoint(1,1)" />
+            <IPoint value="IPoint(6,9)" />
+            <IPoint value="IPoint(7,9)" />
+            <IPoint value="IPoint(0,1)" />
+            <IPoint value="IPoint(3,1)" />
+            <IPoint value="IPoint(9,8)" />
+            <IPoint value="IPoint(8,8)" />
+            <IPoint value="IPoint(7,8)" />
+            <IPoint value="IPoint(4,1)" />
+            <IPoint value="IPoint(9,0)" />
+            <IPoint value="IPoint(7,0)" />
+            <IPoint value="IPoint(8,0)" />
+        </Array>
+    </Archive>
+    <Int32 name="selected_bar" value="0" />
+    <Int32 name="bar_orientation" value="0" />
+</Archive>

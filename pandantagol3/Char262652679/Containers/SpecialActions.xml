@@ -1,0 +1,31 @@
+<Archive code="0">
+    <Archive code="0" name="item_position_map">
+        <Array name="item_id">
+            <Identity value="Identity(57008,49570)" />
+            <Identity value="Identity(57008,49571)" />
+            <Identity value="Identity(57008,49573)" />
+            <Identity value="Identity(57008,49574)" />
+            <Identity value="Identity(57008,49575)" />
+            <Identity value="Identity(57008,49578)" />
+            <Identity value="Identity(57008,82210)" />
+            <Identity value="Identity(57008,82213)" />
+            <Identity value="Identity(57008,82219)" />
+            <Identity value="Identity(57008,121303)" />
+            <Identity value="Identity(57008,236669)" />
+        </Array>
+        <Array name="item_pos">
+            <IPoint value="IPoint(1,1)" />
+            <IPoint value="IPoint(0,0)" />
+            <IPoint value="IPoint(2,0)" />
+            <IPoint value="IPoint(0,1)" />
+            <IPoint value="IPoint(2,1)" />
+            <IPoint value="IPoint(1,0)" />
+            <IPoint value="IPoint(1,3)" />
+            <IPoint value="IPoint(0,3)" />
+            <IPoint value="IPoint(0,2)" />
+            <IPoint value="IPoint(2,2)" />
+            <IPoint value="IPoint(1,2)" />
+        </Array>
+    </Archive>
+    <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
+</Archive>

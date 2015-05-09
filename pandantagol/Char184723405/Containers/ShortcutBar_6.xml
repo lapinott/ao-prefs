@@ -1,0 +1,7 @@
+<Archive code="0">
+    <Rect name="WindowFrame" value="Rect(20.000000,20.000000,422.000000,57.000000)" />
+    <Bool name="IsPrimary" value="false" />
+    <Archive code="0" name="position_map" />
+    <Int32 name="selected_bar" value="0" />
+    <Int32 name="bar_orientation" value="0" />
+</Archive>

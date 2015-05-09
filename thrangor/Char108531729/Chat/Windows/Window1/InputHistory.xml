@@ -1,0 +1,15 @@
+<Root>
+    <TextLine text="/claim" />
+    <TextLine text="/command claim" />
+    <TextLine text="/petition" />
+    <TextLine text="/tell Odonoptera hello" />
+    <TextLine text="/tell Odonoptera I can speak about petition" />
+    <TextLine text="/tell Odonoptera im in a safe area :)" />
+    <TextLine text="/tell Odonoptera yes" />
+    <TextLine text="/tell Odonoptera ok :(" />
+    <TextLine text="/tell Odonoptera just wondered because this account dates to 2001" />
+    <TextLine text="/tell Odonoptera ty for the answer" />
+    <TextLine text="/tell Odonoptera nope thax" />
+    <TextLine text="/tell Odonoptera thx*" cursor_pos="22" />
+    <TextLine text="/tell Odonoptera ty bb" />
+</Root>

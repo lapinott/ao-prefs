@@ -1,0 +1,1897 @@
+<Root>
+    <Value name="AutoCloseWindows" value="false" />
+    <Value name="AutoPetRenaming" value="true" />
+    <Archive name="BattlestationConfig" code="0">
+        <Rect name="WindowFrame" value="Rect(864.000000,30.000000,1056.000000,222.000000)" />
+    </Archive>
+    <Archive name="BrowserWindowConfig" code="0" />
+    <Archive name="CCAlienXPBarConfig" code="0">
+        <Rect name="WindowFrame" value="Rect(13.000000,144.000000,23.000000,268.000000)" />
+    </Archive>
+    <Archive name="CCFriendlyHealthBarConfig" code="0">
+        <Rect name="WindowFrame" value="Rect(311.000000,37.000000,1124.000000,60.000000)" />
+    </Archive>
+    <Archive name="CCHealthBarConfig" code="0">
+        <Rect name="WindowFrame" value="Rect(0.000000,0.000000,10.000000,124.000000)" />
+    </Archive>
+    <Archive name="CCHostileHealthBarConfig" code="0">
+        <Rect name="WindowFrame" value="Rect(322.000000,45.000000,1135.000000,92.000000)" />
+    </Archive>
+    <Archive name="CCNanoBarConfig" code="0">
+        <Rect name="WindowFrame" value="Rect(0.000000,144.000000,10.000000,268.000000)" />
+    </Archive>
+    <Archive name="CCXPBarConfig" code="0">
+        <Rect name="WindowFrame" value="Rect(13.000000,0.000000,23.000000,124.000000)" />
+    </Archive>
+    <Archive name="ChatGroupWindowConfig" code="0">
+        <String name="selected_chat_window" value='&quot;Window1&quot;' />
+        <Bool name="is_normal_groups_folder_open" value="true" />
+        <Bool name="is_private_groups_folder_open" value="true" />
+        <Bool name="is_combat_groups_folder_open" value="false" />
+        <Float name="group_list_scroll_offset" value="-196.000000" />
+        <Rect name="WindowFrame" value="Rect(788.000000,286.000000,1188.000000,667.000000)" />
+        <Bool name="WindowPinButtonState" value="false" />
+    </Archive>
+    <Value name="ChatLastActiveWindow" value='&quot;Window1&quot;' />
+    <Value name="ChatPGInviteAction" value="1" />
+    <Value name="ChatTextShadowOffset" value="1" />
+    <Value name="ChatWarnWhenSpeakingToUnsubGroups" value="true" />
+    <Archive name="CityTerminalBuyDlgConfig" code="0">
+        <Rect name="WindowFrame" value="Rect(629.000000,351.000000,1290.000000,728.000000)" />
+    </Archive>
+    <Archive name="CityTerminalWindowConfig" code="0">
+        <Rect name="WindowFrame" value="Rect(160.000000,170.000000,1255.000000,865.000000)" />
+    </Archive>
+    <Archive name="CompassWindowConfig" code="0">
+        <Rect name="WindowFrame" value="Rect(890.000000,0.000000,1026.000000,21.000000)" />
+    </Archive>
+    <Value name="CurrentTipOfTheDay" value="1" />
+    <Value name="DisableInspect" value="false" />
+    <Archive name="EquipmentLocks" code="0">
+        <Array name="Locks">
+            <Identity value="Identity(102,20)" />
+            <Identity value="Identity(102,22)" />
+            <Identity value="Identity(102,18)" />
+            <Identity value="Identity(102,23)" />
+            <Identity value="Identity(102,25)" />
+            <Identity value="Identity(102,27)" />
+            <Identity value="Identity(103,33)" />
+            <Identity value="Identity(103,34)" />
+            <Identity value="Identity(103,35)" />
+            <Identity value="Identity(103,38)" />
+            <Identity value="Identity(103,37)" />
+            <Identity value="Identity(103,36)" />
+            <Identity value="Identity(103,39)" />
+            <Identity value="Identity(103,40)" />
+            <Identity value="Identity(103,41)" />
+            <Identity value="Identity(103,44)" />
+            <Identity value="Identity(103,43)" />
+            <Identity value="Identity(103,45)" />
+            <Identity value="Identity(103,42)" />
+        </Array>
+    </Archive>
+    <Archive name="FactionWindowConfig" code="0">
+        <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
+    </Archive>
+    <Archive name="FightTargetNCUWindowConfig" code="0">
+        <Archive code="0" name="listview_config">
+            <Int32 name="ncu_listview_flags" value="1" />
+            <Array name="col_id">
+                <Int32 value="0" />
+                <Int32 value="1" />
+                <Int32 value="12" />
+            </Array>
+            <Array name="col_flags">
+                <Int32 value="8" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+            </Array>
+            <Array name="col_width">
+                <Float value="16.000000" />
+                <Float value="200.000000" />
+                <Float value="55.000000" />
+            </Array>
+            <Int32 name="grid_sort_column" value="12" />
+            <Int32 name="grid_sort_order" value="0" />
+            <Int32 name="list_sort_column" value="12" />
+            <Int32 name="list_sort_order" value="0" />
+            <Bool name="listview_mode" value="true" />
+        </Archive>
+        <Rect name="WindowFrame" value="Rect(1523.000000,676.000000,1690.000000,788.000000)" />
+        <Bool name="borderless" value="false" />
+    </Archive>
+    <Archive name="FriendsWindowConfig" code="0">
+        <Bool name="is_chat_window_list_open" value="true" />
+        <Bool name="is_online_list_open" value="true" />
+        <Bool name="is_offline_list_open" value="true" />
+        <Bool name="is_recent_list_open" value="true" />
+        <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
+    </Archive>
+    <Archive name="HelpButtonWindowConfig" code="0">
+        <Rect name="WindowFrame" value="Rect(692.000000,262.000000,752.000000,308.000000)" />
+    </Archive>
+    <Value name="IconTimerText" value="true" />
+    <Value name="IconTimers" value="true" />
+    <Archive name="InfoViewConfig" code="0">
+        <String name="DockableViewDockName" value='&quot;DockArea2&quot;' />
+    </Archive>
+    <Archive name="InspectViewConfig" code="0">
+        <Int32 name="selected_tab" value="3" />
+        <Bool name="labels_on_top" value="true" />
+        <String name="DockableViewDockName" value='&quot;DockArea17&quot;' />
+    </Archive>
+    <Archive name="ItemShopWindowConfig" code="0">
+        <Rect name="WindowFrame" value="Rect(570.000000,238.000000,1349.000000,840.000000)" />
+        <Bool name="WindowPinButtonState" value="false" />
+    </Archive>
+    <Archive name="KeyBindings" code="0">
+        <Int32 name="Version" value="7" />
+        <Array name="Bind">
+            <Archive code="0">
+                <Int32 name="Input" value="9" />
+                <Int64 name="Provider" value="587315832" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="23" />
+                <Int64 name="Provider" value="3327044188" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="25" />
+                <Int64 name="Provider" value="1638838618" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="32" />
+                <Int64 name="Provider" value="2860728372" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="33" />
+                <Int64 name="Provider" value="222161492" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="34" />
+                <Int64 name="Provider" value="1539102526" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="35" />
+                <Int64 name="Provider" value="4062287708" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="37" />
+                <Array name="Provider">
+                    <Int64 value="2251903391" />
+                    <Int64 value="1004526338" />
+                </Array>
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="38" />
+                <Array name="Provider">
+                    <Int64 value="2252251752" />
+                    <Int64 value="534860460" />
+                </Array>
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="39" />
+                <Int64 name="Provider" value="3510739413" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="40" />
+                <Int64 name="Provider" value="3498773440" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="41" />
+                <Int64 name="Provider" value="3498773455" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="42" />
+                <Int64 name="Provider" value="3498773454" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="43" />
+                <Int64 name="Provider" value="3498773453" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="44" />
+                <Int64 name="Provider" value="3498773452" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="46" />
+                <Int64 name="Provider" value="1761045068" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="48" />
+                <Int64 name="Provider" value="895166679" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="50" />
+                <Int64 name="Provider" value="2317916614" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="70" />
+                <Int64 name="Provider" value="1890955209" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="80" />
+                <Int64 name="Provider" value="1982719787" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="82" />
+                <Int64 name="Provider" value="2721508740" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="83" />
+                <Array name="Provider">
+                    <Int64 value="2252251753" />
+                    <Int64 value="16645647" />
+                </Array>
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="84" />
+                <Int64 name="Provider" value="4210727988" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="85" />
+                <Int64 name="Provider" value="963391295" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="86" />
+                <Int64 name="Provider" value="1158519264" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="87" />
+                <Int64 name="Provider" value="2252243144" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="88" />
+                <Array name="Provider">
+                    <Int64 value="2251903382" />
+                    <Int64 value="2251903385" />
+                    <Int64 value="692969829" />
+                </Array>
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="89" />
+                <Array name="Provider">
+                    <Int64 value="2251903384" />
+                    <Int64 value="2251903387" />
+                </Array>
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="90" />
+                <Int64 name="Provider" value="2789818176" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="91" />
+                <Int64 name="Provider" value="1986051157" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="92" />
+                <Array name="Provider">
+                    <Int64 value="2251903386" />
+                    <Int64 value="2251903389" />
+                    <Int64 value="2592067435" />
+                </Array>
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="93" />
+                <Array name="Provider">
+                    <Int64 value="2252251757" />
+                    <Int64 value="2252251756" />
+                    <Int64 value="2252243141" />
+                    <Int64 value="2252243142" />
+                    <Int64 value="2252243143" />
+                    <Int64 value="2252251755" />
+                    <Int64 value="2587801857" />
+                </Array>
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="94" />
+                <Array name="Provider">
+                    <Int64 value="3209627451" />
+                    <Int64 value="2376032" />
+                </Array>
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="95" />
+                <Array name="Provider">
+                    <Int64 value="2251903380" />
+                    <Int64 value="2251903383" />
+                    <Int64 value="1988349168" />
+                </Array>
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="96" />
+                <Array name="Provider">
+                    <Int64 value="2252251754" />
+                    <Int64 value="3376408180" />
+                </Array>
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="97" />
+                <Array name="Provider">
+                    <Int64 value="2252251745" />
+                    <Int64 value="2252251744" />
+                    <Int64 value="2252251759" />
+                    <Int64 value="2252251758" />
+                </Array>
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="98" />
+                <Int64 name="Provider" value="2408879660" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="99" />
+                <Array name="Provider">
+                    <Int64 value="2251903388" />
+                    <Int64 value="1709500677" />
+                </Array>
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="100" />
+                <Int64 name="Provider" value="1512255076" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="101" />
+                <Int64 name="Provider" value="2236999259" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="102" />
+                <Int64 name="Provider" value="2942668761" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="103" />
+                <Int64 name="Provider" value="2392319808" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="104" />
+                <Int64 name="Provider" value="587315832" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="105" />
+                <Int64 name="Provider" value="1158512185" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="106" />
+                <Int64 name="Provider" value="3825191610" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="107" />
+                <Int64 name="Provider" value="1143926568" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="108" />
+                <Int64 name="Provider" value="3551010340" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="109" />
+                <Int64 name="Provider" value="3551010523" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="110" />
+                <Int64 name="Provider" value="3551010522" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="111" />
+                <Int64 name="Provider" value="3551010521" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="112" />
+                <Int64 name="Provider" value="3551010520" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="113" />
+                <Int64 name="Provider" value="3551010527" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="114" />
+                <Int64 name="Provider" value="3551010526" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="115" />
+                <Int64 name="Provider" value="3551010525" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="116" />
+                <Int64 name="Provider" value="3551010524" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="117" />
+                <Int64 name="Provider" value="3551010515" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="131111" />
+                <Int64 name="Provider" value="3506857647" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="131112" />
+                <Int64 name="Provider" value="3506857646" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="131113" />
+                <Int64 name="Provider" value="3506857641" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="131114" />
+                <Int64 name="Provider" value="3506857640" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="131115" />
+                <Int64 name="Provider" value="3506857643" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="131116" />
+                <Int64 name="Provider" value="3506857642" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="131118" />
+                <Int64 name="Provider" value="364833833" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="131159" />
+                <Int64 name="Provider" value="3659642999" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="131168" />
+                <Int64 name="Provider" value="4237151846" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="131170" />
+                <Int64 name="Provider" value="1866476120" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="131173" />
+                <Int64 name="Provider" value="2073189714" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="131180" />
+                <Int64 name="Provider" value="1294912203" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="131181" />
+                <Int64 name="Provider" value="1294912202" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="131182" />
+                <Int64 name="Provider" value="1294912201" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="131183" />
+                <Int64 name="Provider" value="1294912200" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="131184" />
+                <Int64 name="Provider" value="1294912199" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="131185" />
+                <Int64 name="Provider" value="1294912198" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="131186" />
+                <Int64 name="Provider" value="1294912197" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="131187" />
+                <Int64 name="Provider" value="1294912196" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="131188" />
+                <Int64 name="Provider" value="1294912195" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="131189" />
+                <Int64 name="Provider" value="1294912194" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="262170" />
+                <Int64 name="Provider" value="2163638453" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="262190" />
+                <Int64 name="Provider" value="353628307" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="262228" />
+                <Int64 name="Provider" value="2163638453" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="262252" />
+                <Int64 name="Provider" value="2266018827" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="262253" />
+                <Int64 name="Provider" value="3413164166" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="262254" />
+                <Int64 name="Provider" value="2303259040" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="262255" />
+                <Int64 name="Provider" value="1713902610" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="262256" />
+                <Int64 name="Provider" value="2267824004" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="262257" />
+                <Int64 name="Provider" value="3659557731" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="262258" />
+                <Int64 name="Provider" value="4097068974" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="262259" />
+                <Int64 name="Provider" value="2263234052" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="262260" />
+                <Int64 name="Provider" value="2267100332" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="262261" />
+                <Int64 name="Provider" value="3659537614" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="393315" />
+                <Int64 name="Provider" value="2266439993" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="524396" />
+                <Int64 name="Provider" value="1699313230" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="524397" />
+                <Int64 name="Provider" value="1699313229" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="524398" />
+                <Int64 name="Provider" value="1699313228" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="524399" />
+                <Int64 name="Provider" value="1699313267" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="524400" />
+                <Int64 name="Provider" value="1699313266" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="524401" />
+                <Int64 name="Provider" value="1699313265" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="524402" />
+                <Int64 name="Provider" value="1699313264" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="524403" />
+                <Int64 name="Provider" value="1699313271" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="524404" />
+                <Int64 name="Provider" value="1699313270" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="524405" />
+                <Int64 name="Provider" value="1699313269" />
+            </Archive>
+        </Array>
+    </Archive>
+    <Archive name="KnowledgeViewConfig" code="0">
+        <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
+        <Array name="item_id">
+            <Identity value="Identity(50000,2499584343)" />
+            <Identity value="Identity(50000,2226179264)" />
+            <Identity value="Identity(50000,3342170517)" />
+            <Identity value="Identity(50000,3309059089)" />
+            <Identity value="Identity(51080,5)" />
+            <Identity value="Identity(51080,6)" />
+            <Identity value="Identity(51080,7)" />
+            <Identity value="Identity(51080,8)" />
+            <Identity value="Identity(51080,9)" />
+            <Identity value="Identity(51080,10)" />
+            <Identity value="Identity(51080,11)" />
+            <Identity value="Identity(51080,12)" />
+            <Identity value="Identity(51080,13)" />
+            <Identity value="Identity(51080,14)" />
+            <Identity value="Identity(50000,1553375)" />
+            <Identity value="Identity(50000,313540)" />
+            <Identity value="Identity(50000,309672)" />
+            <Identity value="Identity(50000,339636)" />
+            <Identity value="Identity(51080,15)" />
+            <Identity value="Identity(51080,16)" />
+        </Array>
+        <Array name="item_pos">
+            <IPoint value="IPoint(0,0)" />
+            <IPoint value="IPoint(1,0)" />
+            <IPoint value="IPoint(2,0)" />
+            <IPoint value="IPoint(0,1)" />
+            <IPoint value="IPoint(1,1)" />
+            <IPoint value="IPoint(2,1)" />
+            <IPoint value="IPoint(0,2)" />
+            <IPoint value="IPoint(1,2)" />
+            <IPoint value="IPoint(2,2)" />
+            <IPoint value="IPoint(0,3)" />
+            <IPoint value="IPoint(1,3)" />
+            <IPoint value="IPoint(2,3)" />
+            <IPoint value="IPoint(0,4)" />
+            <IPoint value="IPoint(1,4)" />
+            <IPoint value="IPoint(2,4)" />
+            <IPoint value="IPoint(0,5)" />
+            <IPoint value="IPoint(1,5)" />
+            <IPoint value="IPoint(2,5)" />
+            <IPoint value="IPoint(0,6)" />
+            <IPoint value="IPoint(1,6)" />
+        </Array>
+    </Archive>
+    <Archive name="LFTWindowConfig" code="0">
+        <Int32 name="SelectedSide" value="7" />
+        <Int32 name="SelectedLocation" value="1" />
+        <Int32 name="SelectedProfession" value="16" />
+        <String name="TeamDesc" value='&quot;Father time&quot;' />
+        <Float name="NameColWidth" value="120.000000" />
+        <Float name="LevelColWidth" value="30.000000" />
+        <Float name="SideColWidth" value="50.000000" />
+        <Float name="ProfColWidth" value="60.000000" />
+        <Float name="LocationColWidth" value="178.000000" />
+        <Float name="DescColWidth" value="428.000000" />
+        <Rect name="WindowFrame" value="Rect(485.000000,245.000000,1415.000000,781.000000)" />
+        <Bool name="WindowPinButtonState" value="true" />
+    </Archive>
+    <Archive name="LaserTargetConfig" code="0" />
+    <Value name="LockEquipment" value="false" />
+    <Value name="LockHotbars" value="true" />
+    <Value name="LockRaidBars" value="false" />
+    <Archive name="MailIconWindowConfig" code="0">
+        <Rect name="WindowFrame" value="Rect(45.000000,13.000000,76.000000,32.000000)" />
+    </Archive>
+    <Archive name="MailWindowConfig" code="0">
+        <Archive code="0" name="listview_config">
+            <Array name="col_id">
+                <Int32 value="0" />
+                <Int32 value="1" />
+                <Int32 value="2" />
+                <Int32 value="3" />
+                <Int32 value="4" />
+            </Array>
+            <Array name="col_flags">
+                <Int32 value="8" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+            </Array>
+            <Array name="col_width">
+                <Float value="16.000000" />
+                <Float value="96.000000" />
+                <Float value="164.000000" />
+                <Float value="96.000000" />
+                <Float value="96.000000" />
+            </Array>
+            <Int32 name="sort_column" value="2" />
+            <Int32 name="sort_order" value="1" />
+        </Archive>
+        <Rect name="WindowFrame" value="Rect(784.000000,279.000000,1134.000000,799.000000)" />
+        <Bool name="WindowPinButtonState" value="false" />
+    </Archive>
+    <Archive name="MarketWindowConfig" code="0">
+        <Rect name="WindowFrame" value="Rect(597.000000,256.000000,1321.000000,823.000000)" />
+        <Bool name="WindowPinButtonState" value="true" />
+    </Archive>
+    <Archive name="MechSelectConfig" code="0">
+        <Rect name="WindowFrame" value="Rect(634.000000,279.000000,1284.000000,799.000000)" />
+        <Bool name="WindowPinButtonState" value="false" />
+    </Archive>
+    <Archive name="MissionSelectionViewConfig" code="0">
+        <String name="DockableViewDockName" value='&quot;DockArea34&quot;' />
+        <Bool name="show_advanced_options" value="true" />
+        <Int32 name="difficulty" value="0" />
+        <Int32 name="dim_good" value="-100" />
+        <Int32 name="dim_ctrl" value="100" />
+        <Int32 name="dim_secret" value="-100" />
+        <Int32 name="dim_mystery" value="0" />
+        <Int32 name="dim_stealth" value="0" />
+        <Int32 name="dim_reward" value="0" />
+    </Archive>
+    <Archive name="MissionViewConfig" code="0">
+        <Archive code="0" name="listview_config">
+            <Array name="col_id">
+                <Int32 value="0" />
+                <Int32 value="1" />
+                <Int32 value="15" />
+            </Array>
+            <Array name="col_flags">
+                <Int32 value="8" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+            </Array>
+            <Array name="col_width">
+                <Float value="16.000000" />
+                <Float value="200.000000" />
+                <Float value="55.000000" />
+            </Array>
+            <Int32 name="grid_sort_column" value="15" />
+            <Int32 name="grid_sort_order" value="0" />
+            <Int32 name="list_sort_column" value="0" />
+            <Int32 name="list_sort_order" value="0" />
+            <Bool name="listview_mode" value="true" />
+        </Archive>
+        <String name="DockableViewDockName" value='&quot;DockArea12&quot;' />
+    </Archive>
+    <Archive name="MutedChatGroups" code="0" />
+    <Archive name="NCUWindowConfig" code="0">
+        <Archive code="0" name="listview_config">
+            <Int32 name="ncu_listview_flags" value="0" />
+            <Array name="col_id">
+                <Int32 value="0" />
+                <Int32 value="1" />
+                <Int32 value="8" />
+                <Int32 value="9" />
+                <Int32 value="10" />
+                <Int32 value="13" />
+                <Int32 value="12" />
+                <Int32 value="11" />
+                <Int32 value="5" />
+                <Int32 value="6" />
+                <Int32 value="7" />
+            </Array>
+            <Array name="col_flags">
+                <Int32 value="8" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+            </Array>
+            <Array name="col_width">
+                <Float value="16.000000" />
+                <Float value="200.000000" />
+                <Float value="50.000000" />
+                <Float value="60.000000" />
+                <Float value="60.000000" />
+                <Float value="55.000000" />
+                <Float value="55.000000" />
+                <Float value="60.000000" />
+                <Float value="60.000000" />
+                <Float value="55.000000" />
+                <Float value="55.000000" />
+            </Array>
+            <Int32 name="grid_sort_column" value="12" />
+            <Int32 name="grid_sort_order" value="0" />
+            <Int32 name="list_sort_column" value="12" />
+            <Int32 name="list_sort_order" value="0" />
+            <Bool name="listview_mode" value="false" />
+        </Archive>
+        <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
+    </Archive>
+    <Archive name="NPCChatWindowConfig" code="0">
+        <Float name="text_split_proportion" value="0.700000" />
+        <Rect name="WindowFrame" value="Rect(740.000000,348.000000,1137.000000,647.000000)" />
+        <Bool name="WindowPinButtonState" value="true" />
+    </Archive>
+    <Archive name="NanoTargetNCUWindowConfig" code="0">
+        <Archive code="0" name="listview_config">
+            <Int32 name="ncu_listview_flags" value="1" />
+            <Array name="col_id">
+                <Int32 value="0" />
+                <Int32 value="1" />
+                <Int32 value="12" />
+            </Array>
+            <Array name="col_flags">
+                <Int32 value="8" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+            </Array>
+            <Array name="col_width">
+                <Float value="16.000000" />
+                <Float value="183.000000" />
+                <Float value="55.000000" />
+            </Array>
+            <Int32 name="grid_sort_column" value="12" />
+            <Int32 name="grid_sort_order" value="0" />
+            <Int32 name="list_sort_column" value="1" />
+            <Int32 name="list_sort_order" value="1" />
+            <Bool name="listview_mode" value="true" />
+        </Archive>
+        <Rect name="WindowFrame" value="Rect(1389.000000,660.000000,1662.000000,809.000000)" />
+        <Bool name="borderless" value="false" />
+    </Archive>
+    <Archive name="NanoViewConfig" code="0">
+        <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
+        <Int32 name="selected_school" value="1" />
+        <Bool name="listview_mode" value="false" />
+        <Archive code="0" name="listview_config0">
+            <Array name="col_id">
+                <Int32 value="0" />
+                <Int32 value="1" />
+                <Int32 value="9" />
+                <Int32 value="10" />
+                <Int32 value="13" />
+                <Int32 value="11" />
+                <Int32 value="5" />
+                <Int32 value="6" />
+                <Int32 value="7" />
+                <Int32 value="16" />
+            </Array>
+            <Array name="col_flags">
+                <Int32 value="8" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+            </Array>
+            <Array name="col_width">
+                <Float value="16.000000" />
+                <Float value="200.000000" />
+                <Float value="60.000000" />
+                <Float value="60.000000" />
+                <Float value="55.000000" />
+                <Float value="60.000000" />
+                <Float value="60.000000" />
+                <Float value="55.000000" />
+                <Float value="55.000000" />
+                <Float value="200.000000" />
+            </Array>
+            <Int32 name="list_sort_column" value="1" />
+            <Int32 name="list_sort_order" value="0" />
+        </Archive>
+        <Archive code="0" name="listview_config1">
+            <Array name="col_id">
+                <Int32 value="0" />
+                <Int32 value="1" />
+                <Int32 value="9" />
+                <Int32 value="10" />
+                <Int32 value="13" />
+                <Int32 value="11" />
+                <Int32 value="5" />
+                <Int32 value="6" />
+                <Int32 value="7" />
+                <Int32 value="16" />
+            </Array>
+            <Array name="col_flags">
+                <Int32 value="8" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+            </Array>
+            <Array name="col_width">
+                <Float value="16.000000" />
+                <Float value="200.000000" />
+                <Float value="60.000000" />
+                <Float value="60.000000" />
+                <Float value="55.000000" />
+                <Float value="60.000000" />
+                <Float value="60.000000" />
+                <Float value="55.000000" />
+                <Float value="55.000000" />
+                <Float value="200.000000" />
+            </Array>
+            <Int32 name="list_sort_column" value="1" />
+            <Int32 name="list_sort_order" value="0" />
+        </Archive>
+        <Archive code="0" name="listview_config2">
+            <Array name="col_id">
+                <Int32 value="0" />
+                <Int32 value="1" />
+                <Int32 value="9" />
+                <Int32 value="10" />
+                <Int32 value="13" />
+                <Int32 value="11" />
+                <Int32 value="5" />
+                <Int32 value="6" />
+                <Int32 value="7" />
+                <Int32 value="16" />
+            </Array>
+            <Array name="col_flags">
+                <Int32 value="8" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+            </Array>
+            <Array name="col_width">
+                <Float value="16.000000" />
+                <Float value="200.000000" />
+                <Float value="60.000000" />
+                <Float value="60.000000" />
+                <Float value="55.000000" />
+                <Float value="60.000000" />
+                <Float value="60.000000" />
+                <Float value="55.000000" />
+                <Float value="55.000000" />
+                <Float value="200.000000" />
+            </Array>
+            <Int32 name="list_sort_column" value="1" />
+            <Int32 name="list_sort_order" value="0" />
+        </Archive>
+        <Archive code="0" name="listview_config3">
+            <Array name="col_id">
+                <Int32 value="0" />
+                <Int32 value="1" />
+                <Int32 value="9" />
+                <Int32 value="10" />
+                <Int32 value="13" />
+                <Int32 value="11" />
+                <Int32 value="5" />
+                <Int32 value="6" />
+                <Int32 value="7" />
+                <Int32 value="16" />
+            </Array>
+            <Array name="col_flags">
+                <Int32 value="8" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+            </Array>
+            <Array name="col_width">
+                <Float value="16.000000" />
+                <Float value="200.000000" />
+                <Float value="60.000000" />
+                <Float value="60.000000" />
+                <Float value="55.000000" />
+                <Float value="60.000000" />
+                <Float value="60.000000" />
+                <Float value="55.000000" />
+                <Float value="55.000000" />
+                <Float value="200.000000" />
+            </Array>
+            <Int32 name="list_sort_column" value="1" />
+            <Int32 name="list_sort_order" value="0" />
+        </Archive>
+        <Archive code="0" name="listview_config4">
+            <Array name="col_id">
+                <Int32 value="0" />
+                <Int32 value="1" />
+                <Int32 value="9" />
+                <Int32 value="10" />
+                <Int32 value="13" />
+                <Int32 value="11" />
+                <Int32 value="5" />
+                <Int32 value="6" />
+                <Int32 value="7" />
+                <Int32 value="16" />
+            </Array>
+            <Array name="col_flags">
+                <Int32 value="8" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+            </Array>
+            <Array name="col_width">
+                <Float value="16.000000" />
+                <Float value="200.000000" />
+                <Float value="60.000000" />
+                <Float value="60.000000" />
+                <Float value="55.000000" />
+                <Float value="60.000000" />
+                <Float value="60.000000" />
+                <Float value="55.000000" />
+                <Float value="55.000000" />
+                <Float value="200.000000" />
+            </Array>
+            <Int32 name="list_sort_column" value="1" />
+            <Int32 name="list_sort_order" value="0" />
+        </Archive>
+        <Archive code="0" name="listview_config5">
+            <Array name="col_id">
+                <Int32 value="0" />
+                <Int32 value="1" />
+                <Int32 value="9" />
+                <Int32 value="10" />
+                <Int32 value="13" />
+                <Int32 value="11" />
+                <Int32 value="5" />
+                <Int32 value="6" />
+                <Int32 value="7" />
+                <Int32 value="16" />
+            </Array>
+            <Array name="col_flags">
+                <Int32 value="8" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+            </Array>
+            <Array name="col_width">
+                <Float value="16.000000" />
+                <Float value="200.000000" />
+                <Float value="60.000000" />
+                <Float value="60.000000" />
+                <Float value="55.000000" />
+                <Float value="60.000000" />
+                <Float value="60.000000" />
+                <Float value="55.000000" />
+                <Float value="55.000000" />
+                <Float value="200.000000" />
+            </Array>
+            <Int32 name="list_sort_column" value="1" />
+            <Int32 name="list_sort_order" value="0" />
+        </Archive>
+        <Archive code="0" name="listview_config6">
+            <Array name="col_id">
+                <Int32 value="0" />
+                <Int32 value="1" />
+                <Int32 value="9" />
+                <Int32 value="10" />
+                <Int32 value="13" />
+                <Int32 value="11" />
+                <Int32 value="5" />
+                <Int32 value="6" />
+                <Int32 value="7" />
+                <Int32 value="16" />
+            </Array>
+            <Array name="col_flags">
+                <Int32 value="8" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+            </Array>
+            <Array name="col_width">
+                <Float value="16.000000" />
+                <Float value="200.000000" />
+                <Float value="60.000000" />
+                <Float value="60.000000" />
+                <Float value="55.000000" />
+                <Float value="60.000000" />
+                <Float value="60.000000" />
+                <Float value="55.000000" />
+                <Float value="55.000000" />
+                <Float value="200.000000" />
+            </Array>
+            <Int32 name="list_sort_column" value="1" />
+            <Int32 name="list_sort_order" value="0" />
+        </Archive>
+        <Archive code="0" name="item_position_map">
+            <Array name="item_id">
+                <Identity value="Identity(53019,294174)" />
+                <Identity value="Identity(53019,28622)" />
+                <Identity value="Identity(53019,266282)" />
+                <Identity value="Identity(53019,254437)" />
+                <Identity value="Identity(53019,254439)" />
+                <Identity value="Identity(53019,254441)" />
+                <Identity value="Identity(53019,259354)" />
+                <Identity value="Identity(53019,275692)" />
+                <Identity value="Identity(53019,266293)" />
+                <Identity value="Identity(53019,266287)" />
+                <Identity value="Identity(53019,266281)" />
+                <Identity value="Identity(53019,259365)" />
+                <Identity value="Identity(53019,259364)" />
+                <Identity value="Identity(53019,259377)" />
+                <Identity value="Identity(53019,259376)" />
+                <Identity value="Identity(53019,45920)" />
+                <Identity value="Identity(53019,218168)" />
+                <Identity value="Identity(53019,266288)" />
+                <Identity value="Identity(53019,28618)" />
+                <Identity value="Identity(53019,266289)" />
+                <Identity value="Identity(53019,259375)" />
+                <Identity value="Identity(53019,259374)" />
+                <Identity value="Identity(53019,259363)" />
+                <Identity value="Identity(53019,259362)" />
+                <Identity value="Identity(53019,218138)" />
+                <Identity value="Identity(53019,269473)" />
+                <Identity value="Identity(53019,259367)" />
+                <Identity value="Identity(53019,259366)" />
+                <Identity value="Identity(53019,259373)" />
+                <Identity value="Identity(53019,259372)" />
+                <Identity value="Identity(53019,28596)" />
+                <Identity value="Identity(53019,100443)" />
+                <Identity value="Identity(53019,218134)" />
+                <Identity value="Identity(53019,218132)" />
+                <Identity value="Identity(53019,56028)" />
+                <Identity value="Identity(53019,28620)" />
+                <Identity value="Identity(53019,259338)" />
+                <Identity value="Identity(53019,259337)" />
+                <Identity value="Identity(53019,259336)" />
+                <Identity value="Identity(53019,259335)" />
+                <Identity value="Identity(53019,45226)" />
+                <Identity value="Identity(53019,28604)" />
+                <Identity value="Identity(53019,45233)" />
+                <Identity value="Identity(53019,28638)" />
+                <Identity value="Identity(53019,28616)" />
+                <Identity value="Identity(53019,45247)" />
+                <Identity value="Identity(53019,45239)" />
+                <Identity value="Identity(53019,45884)" />
+                <Identity value="Identity(53019,45245)" />
+                <Identity value="Identity(53019,45909)" />
+                <Identity value="Identity(53019,45228)" />
+                <Identity value="Identity(53019,45203)" />
+                <Identity value="Identity(53019,28593)" />
+                <Identity value="Identity(53019,45940)" />
+                <Identity value="Identity(53019,45224)" />
+                <Identity value="Identity(53019,56025)" />
+                <Identity value="Identity(53019,45205)" />
+                <Identity value="Identity(53019,100442)" />
+                <Identity value="Identity(53019,45246)" />
+                <Identity value="Identity(53019,45227)" />
+                <Identity value="Identity(53019,45900)" />
+                <Identity value="Identity(53019,45191)" />
+                <Identity value="Identity(53019,28610)" />
+                <Identity value="Identity(53019,45253)" />
+                <Identity value="Identity(53019,45259)" />
+                <Identity value="Identity(53019,45193)" />
+                <Identity value="Identity(53019,45244)" />
+                <Identity value="Identity(53019,100440)" />
+                <Identity value="Identity(53019,45232)" />
+                <Identity value="Identity(53019,45229)" />
+                <Identity value="Identity(53019,56027)" />
+                <Identity value="Identity(53019,45231)" />
+                <Identity value="Identity(53019,45139)" />
+                <Identity value="Identity(53019,28627)" />
+                <Identity value="Identity(53019,45255)" />
+                <Identity value="Identity(53019,42541)" />
+                <Identity value="Identity(53019,28631)" />
+                <Identity value="Identity(53019,42542)" />
+                <Identity value="Identity(53019,42539)" />
+                <Identity value="Identity(53019,45930)" />
+                <Identity value="Identity(53019,45879)" />
+                <Identity value="Identity(53019,28612)" />
+                <Identity value="Identity(53019,42110)" />
+                <Identity value="Identity(53019,223372)" />
+                <Identity value="Identity(53019,275024)" />
+                <Identity value="Identity(53019,273382)" />
+                <Identity value="Identity(53019,220349)" />
+                <Identity value="Identity(53019,220347)" />
+                <Identity value="Identity(53019,27154)" />
+                <Identity value="Identity(53019,220345)" />
+                <Identity value="Identity(53019,95417)" />
+                <Identity value="Identity(53019,26342)" />
+                <Identity value="Identity(53019,27168)" />
+                <Identity value="Identity(53019,27169)" />
+                <Identity value="Identity(53019,95414)" />
+                <Identity value="Identity(53019,95415)" />
+                <Identity value="Identity(53019,27086)" />
+                <Identity value="Identity(53019,27134)" />
+                <Identity value="Identity(53019,95407)" />
+                <Identity value="Identity(53019,302074)" />
+                <Identity value="Identity(53019,150502)" />
+                <Identity value="Identity(53019,150631)" />
+                <Identity value="Identity(53019,273388)" />
+                <Identity value="Identity(53019,273386)" />
+                <Identity value="Identity(53019,270356)" />
+                <Identity value="Identity(53019,117678)" />
+                <Identity value="Identity(53019,117679)" />
+                <Identity value="Identity(53019,302274)" />
+                <Identity value="Identity(53019,300850)" />
+                <Identity value="Identity(53019,287044)" />
+                <Identity value="Identity(53019,300806)" />
+                <Identity value="Identity(53019,287042)" />
+                <Identity value="Identity(53019,287040)" />
+                <Identity value="Identity(53019,300803)" />
+                <Identity value="Identity(53019,290122)" />
+                <Identity value="Identity(53019,289971)" />
+                <Identity value="Identity(53019,290062)" />
+                <Identity value="Identity(53019,287160)" />
+                <Identity value="Identity(53019,223364)" />
+                <Identity value="Identity(53019,223348)" />
+                <Identity value="Identity(53019,227514)" />
+                <Identity value="Identity(53019,215264)" />
+                <Identity value="Identity(53019,223360)" />
+                <Identity value="Identity(53019,296513)" />
+                <Identity value="Identity(53019,285056)" />
+                <Identity value="Identity(53019,285678)" />
+                <Identity value="Identity(53019,288561)" />
+                <Identity value="Identity(53019,26432)" />
+                <Identity value="Identity(53019,27164)" />
+                <Identity value="Identity(53019,27094)" />
+                <Identity value="Identity(53019,26375)" />
+                <Identity value="Identity(53019,27072)" />
+                <Identity value="Identity(53019,275697)" />
+                <Identity value="Identity(53019,27110)" />
+                <Identity value="Identity(53019,277450)" />
+                <Identity value="Identity(53019,270802)" />
+                <Identity value="Identity(53019,253384)" />
+                <Identity value="Identity(53019,26387)" />
+                <Identity value="Identity(53019,26420)" />
+                <Identity value="Identity(53019,201523)" />
+                <Identity value="Identity(53019,83959)" />
+                <Identity value="Identity(53019,223380)" />
+                <Identity value="Identity(53019,83947)" />
+                <Identity value="Identity(53019,27115)" />
+                <Identity value="Identity(53019,227508)" />
+                <Identity value="Identity(53019,26425)" />
+                <Identity value="Identity(53019,83955)" />
+                <Identity value="Identity(53019,28603)" />
+                <Identity value="Identity(53019,83957)" />
+                <Identity value="Identity(53019,83958)" />
+                <Identity value="Identity(53019,27175)" />
+                <Identity value="Identity(53019,83942)" />
+                <Identity value="Identity(53019,27141)" />
+                <Identity value="Identity(53019,83964)" />
+                <Identity value="Identity(53019,83943)" />
+                <Identity value="Identity(53019,27098)" />
+                <Identity value="Identity(53019,83944)" />
+                <Identity value="Identity(53019,300846)" />
+                <Identity value="Identity(53019,290584)" />
+                <Identity value="Identity(53019,290473)" />
+                <Identity value="Identity(53019,288774)" />
+                <Identity value="Identity(53019,270731)" />
+                <Identity value="Identity(53019,270738)" />
+                <Identity value="Identity(53019,270986)" />
+                <Identity value="Identity(53019,260758)" />
+                <Identity value="Identity(53019,205443)" />
+                <Identity value="Identity(53019,90406)" />
+                <Identity value="Identity(53019,95443)" />
+                <Identity value="Identity(53019,230416)" />
+                <Identity value="Identity(53019,90402)" />
+                <Identity value="Identity(53019,95446)" />
+                <Identity value="Identity(53019,203805)" />
+                <Identity value="Identity(53019,90403)" />
+                <Identity value="Identity(53019,90404)" />
+                <Identity value="Identity(53019,95445)" />
+                <Identity value="Identity(53019,95444)" />
+                <Identity value="Identity(53019,95447)" />
+                <Identity value="Identity(53019,90405)" />
+                <Identity value="Identity(53019,90400)" />
+                <Identity value="Identity(53019,202262)" />
+            </Array>
+            <Array name="item_pos">
+                <IPoint value="IPoint(0,0)" />
+                <IPoint value="IPoint(3,1)" />
+                <IPoint value="IPoint(0,2)" />
+                <IPoint value="IPoint(1,0)" />
+                <IPoint value="IPoint(2,0)" />
+                <IPoint value="IPoint(0,1)" />
+                <IPoint value="IPoint(1,1)" />
+                <IPoint value="IPoint(2,1)" />
+                <IPoint value="IPoint(1,2)" />
+                <IPoint value="IPoint(3,0)" />
+                <IPoint value="IPoint(2,2)" />
+                <IPoint value="IPoint(0,3)" />
+                <IPoint value="IPoint(1,3)" />
+                <IPoint value="IPoint(2,3)" />
+                <IPoint value="IPoint(0,4)" />
+                <IPoint value="IPoint(1,4)" />
+                <IPoint value="IPoint(2,4)" />
+                <IPoint value="IPoint(0,5)" />
+                <IPoint value="IPoint(1,5)" />
+                <IPoint value="IPoint(2,5)" />
+                <IPoint value="IPoint(0,6)" />
+                <IPoint value="IPoint(1,6)" />
+                <IPoint value="IPoint(2,6)" />
+                <IPoint value="IPoint(0,7)" />
+                <IPoint value="IPoint(1,7)" />
+                <IPoint value="IPoint(2,7)" />
+                <IPoint value="IPoint(0,8)" />
+                <IPoint value="IPoint(1,8)" />
+                <IPoint value="IPoint(2,8)" />
+                <IPoint value="IPoint(0,9)" />
+                <IPoint value="IPoint(1,9)" />
+                <IPoint value="IPoint(2,9)" />
+                <IPoint value="IPoint(0,10)" />
+                <IPoint value="IPoint(1,10)" />
+                <IPoint value="IPoint(2,10)" />
+                <IPoint value="IPoint(0,11)" />
+                <IPoint value="IPoint(1,11)" />
+                <IPoint value="IPoint(2,11)" />
+                <IPoint value="IPoint(0,12)" />
+                <IPoint value="IPoint(1,12)" />
+                <IPoint value="IPoint(2,12)" />
+                <IPoint value="IPoint(0,13)" />
+                <IPoint value="IPoint(1,13)" />
+                <IPoint value="IPoint(2,13)" />
+                <IPoint value="IPoint(0,14)" />
+                <IPoint value="IPoint(1,14)" />
+                <IPoint value="IPoint(2,14)" />
+                <IPoint value="IPoint(0,15)" />
+                <IPoint value="IPoint(1,15)" />
+                <IPoint value="IPoint(2,15)" />
+                <IPoint value="IPoint(0,16)" />
+                <IPoint value="IPoint(1,16)" />
+                <IPoint value="IPoint(2,16)" />
+                <IPoint value="IPoint(0,17)" />
+                <IPoint value="IPoint(2,17)" />
+                <IPoint value="IPoint(0,18)" />
+                <IPoint value="IPoint(1,18)" />
+                <IPoint value="IPoint(2,18)" />
+                <IPoint value="IPoint(0,19)" />
+                <IPoint value="IPoint(1,19)" />
+                <IPoint value="IPoint(2,19)" />
+                <IPoint value="IPoint(0,20)" />
+                <IPoint value="IPoint(1,20)" />
+                <IPoint value="IPoint(2,20)" />
+                <IPoint value="IPoint(0,21)" />
+                <IPoint value="IPoint(1,21)" />
+                <IPoint value="IPoint(2,21)" />
+                <IPoint value="IPoint(0,22)" />
+                <IPoint value="IPoint(1,22)" />
+                <IPoint value="IPoint(2,22)" />
+                <IPoint value="IPoint(0,23)" />
+                <IPoint value="IPoint(1,23)" />
+                <IPoint value="IPoint(2,23)" />
+                <IPoint value="IPoint(0,24)" />
+                <IPoint value="IPoint(1,24)" />
+                <IPoint value="IPoint(2,24)" />
+                <IPoint value="IPoint(0,25)" />
+                <IPoint value="IPoint(1,25)" />
+                <IPoint value="IPoint(2,25)" />
+                <IPoint value="IPoint(0,26)" />
+                <IPoint value="IPoint(1,26)" />
+                <IPoint value="IPoint(2,26)" />
+                <IPoint value="IPoint(0,27)" />
+                <IPoint value="IPoint(0,0)" />
+                <IPoint value="IPoint(3,0)" />
+                <IPoint value="IPoint(1,0)" />
+                <IPoint value="IPoint(2,0)" />
+                <IPoint value="IPoint(0,1)" />
+                <IPoint value="IPoint(1,1)" />
+                <IPoint value="IPoint(2,1)" />
+                <IPoint value="IPoint(0,2)" />
+                <IPoint value="IPoint(1,2)" />
+                <IPoint value="IPoint(2,2)" />
+                <IPoint value="IPoint(0,3)" />
+                <IPoint value="IPoint(1,3)" />
+                <IPoint value="IPoint(2,3)" />
+                <IPoint value="IPoint(0,4)" />
+                <IPoint value="IPoint(1,4)" />
+                <IPoint value="IPoint(2,4)" />
+                <IPoint value="IPoint(0,0)" />
+                <IPoint value="IPoint(3,0)" />
+                <IPoint value="IPoint(1,0)" />
+                <IPoint value="IPoint(2,0)" />
+                <IPoint value="IPoint(1,1)" />
+                <IPoint value="IPoint(2,1)" />
+                <IPoint value="IPoint(0,1)" />
+                <IPoint value="IPoint(0,2)" />
+                <IPoint value="IPoint(3,6)" />
+                <IPoint value="IPoint(0,0)" />
+                <IPoint value="IPoint(3,5)" />
+                <IPoint value="IPoint(1,0)" />
+                <IPoint value="IPoint(3,4)" />
+                <IPoint value="IPoint(2,0)" />
+                <IPoint value="IPoint(0,1)" />
+                <IPoint value="IPoint(3,3)" />
+                <IPoint value="IPoint(3,2)" />
+                <IPoint value="IPoint(1,1)" />
+                <IPoint value="IPoint(2,1)" />
+                <IPoint value="IPoint(3,1)" />
+                <IPoint value="IPoint(0,2)" />
+                <IPoint value="IPoint(1,2)" />
+                <IPoint value="IPoint(3,0)" />
+                <IPoint value="IPoint(2,2)" />
+                <IPoint value="IPoint(0,3)" />
+                <IPoint value="IPoint(1,3)" />
+                <IPoint value="IPoint(2,3)" />
+                <IPoint value="IPoint(0,4)" />
+                <IPoint value="IPoint(1,4)" />
+                <IPoint value="IPoint(2,4)" />
+                <IPoint value="IPoint(0,5)" />
+                <IPoint value="IPoint(1,5)" />
+                <IPoint value="IPoint(2,5)" />
+                <IPoint value="IPoint(0,6)" />
+                <IPoint value="IPoint(1,6)" />
+                <IPoint value="IPoint(2,6)" />
+                <IPoint value="IPoint(0,7)" />
+                <IPoint value="IPoint(1,7)" />
+                <IPoint value="IPoint(2,7)" />
+                <IPoint value="IPoint(0,8)" />
+                <IPoint value="IPoint(1,8)" />
+                <IPoint value="IPoint(2,8)" />
+                <IPoint value="IPoint(0,9)" />
+                <IPoint value="IPoint(1,9)" />
+                <IPoint value="IPoint(2,9)" />
+                <IPoint value="IPoint(0,10)" />
+                <IPoint value="IPoint(1,10)" />
+                <IPoint value="IPoint(2,10)" />
+                <IPoint value="IPoint(0,11)" />
+                <IPoint value="IPoint(1,11)" />
+                <IPoint value="IPoint(2,11)" />
+                <IPoint value="IPoint(0,12)" />
+                <IPoint value="IPoint(1,12)" />
+                <IPoint value="IPoint(2,12)" />
+                <IPoint value="IPoint(0,13)" />
+                <IPoint value="IPoint(1,13)" />
+                <IPoint value="IPoint(2,13)" />
+                <IPoint value="IPoint(0,14)" />
+                <IPoint value="IPoint(2,7)" />
+                <IPoint value="IPoint(0,0)" />
+                <IPoint value="IPoint(1,0)" />
+                <IPoint value="IPoint(2,0)" />
+                <IPoint value="IPoint(1,1)" />
+                <IPoint value="IPoint(2,1)" />
+                <IPoint value="IPoint(0,2)" />
+                <IPoint value="IPoint(3,0)" />
+                <IPoint value="IPoint(1,2)" />
+                <IPoint value="IPoint(2,2)" />
+                <IPoint value="IPoint(0,3)" />
+                <IPoint value="IPoint(2,3)" />
+                <IPoint value="IPoint(1,4)" />
+                <IPoint value="IPoint(2,4)" />
+                <IPoint value="IPoint(0,5)" />
+                <IPoint value="IPoint(1,5)" />
+                <IPoint value="IPoint(2,5)" />
+                <IPoint value="IPoint(0,6)" />
+                <IPoint value="IPoint(1,6)" />
+                <IPoint value="IPoint(2,6)" />
+                <IPoint value="IPoint(0,7)" />
+                <IPoint value="IPoint(1,7)" />
+                <IPoint value="IPoint(0,0)" />
+            </Array>
+            <Array name="item_school">
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="1" />
+                <Int32 value="1" />
+                <Int32 value="1" />
+                <Int32 value="1" />
+                <Int32 value="1" />
+                <Int32 value="1" />
+                <Int32 value="1" />
+                <Int32 value="1" />
+                <Int32 value="1" />
+                <Int32 value="1" />
+                <Int32 value="1" />
+                <Int32 value="1" />
+                <Int32 value="1" />
+                <Int32 value="1" />
+                <Int32 value="1" />
+                <Int32 value="1" />
+                <Int32 value="2" />
+                <Int32 value="2" />
+                <Int32 value="2" />
+                <Int32 value="2" />
+                <Int32 value="2" />
+                <Int32 value="2" />
+                <Int32 value="2" />
+                <Int32 value="2" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="4" />
+                <Int32 value="4" />
+                <Int32 value="4" />
+                <Int32 value="4" />
+                <Int32 value="4" />
+                <Int32 value="4" />
+                <Int32 value="4" />
+                <Int32 value="4" />
+                <Int32 value="4" />
+                <Int32 value="4" />
+                <Int32 value="4" />
+                <Int32 value="4" />
+                <Int32 value="4" />
+                <Int32 value="4" />
+                <Int32 value="4" />
+                <Int32 value="4" />
+                <Int32 value="4" />
+                <Int32 value="4" />
+                <Int32 value="4" />
+                <Int32 value="4" />
+                <Int32 value="4" />
+                <Int32 value="4" />
+                <Int32 value="5" />
+            </Array>
+        </Archive>
+    </Archive>
+    <Archive name="NotificationWindowConfig" code="0">
+        <Bool name="ClickableLinks" value="true" />
+        <Rect name="WindowFrame" value="Rect(42.000000,31.000000,300.000000,497.000000)" />
+    </Archive>
+    <Value name="NotificationWindowVisibility" value="false" />
+    <Value name="NumHotbars" value="4.608048" />
+    <Archive name="OptionWindowConfig" code="0">
+        <Rect name="WindowFrame" value="Rect(305.000000,294.000000,1226.000000,744.000000)" />
+        <Bool name="WindowPinButtonState" value="false" />
+        <String name="selected_panel" value='&quot;GUIControl Center&quot;' />
+        <Array name="open_panel_folders">
+            <String value='&quot;Audio&quot;' />
+            <String value='&quot;Video&quot;' />
+            <String value='&quot;GUI&quot;' />
+            <String value='&quot;Controls&quot;' />
+            <String value='&quot;Behaviour&quot;' />
+        </Array>
+        <Int32 name="selected_tab" value="0" />
+        <Float name="panel_list_scroll_offset" value="0.000000" />
+        <Archive code="0" name="hotkey_config">
+            <Array name="open_hotkey_folders">
+                <String value='&quot;&lt;font color=green&gt;Fixed keys&lt;/font&gt;&quot;' />
+                <String value='&quot;&lt;font color=green&gt;Fixed keys&lt;/font&gt;/Chat&quot;' />
+                <String value='&quot;&lt;font color=green&gt;Fixed keys&lt;/font&gt;/Targeting&quot;' />
+                <String value='&quot;&lt;font color=green&gt;Fixed keys&lt;/font&gt;/Camera keys 3rd person&quot;' />
+            </Array>
+            <Float name="list_scroll_offset" value="0.000000" />
+        </Archive>
+    </Archive>
+    <Archive name="PFMapWindowConfig" code="0">
+        <Bool name="ShowButtons" value="false" />
+        <Bool name="RenderLandControlData" value="true" />
+        <String name="DockableViewDockName" value='&quot;DockArea55&quot;' />
+    </Archive>
+    <Archive name="PerkWindowConfig" code="0">
+        <Int32 name="SelectedTab" value="0" />
+        <Rect name="WindowFrame" value="Rect(600.000000,395.000000,1336.000000,687.000000)" />
+        <Bool name="WindowPinButtonState" value="false" />
+    </Archive>
+    <Value name="PetName1" value='&quot;&quot;' />
+    <Value name="PetName2" value='&quot;&quot;' />
+    <Value name="PetName3" value='&quot;&quot;' />
+    <Value name="PetName4" value='&quot;&quot;' />
+    <Value name="PetName5" value='&quot;&quot;' />
+    <Value name="PetName6" value='&quot;&quot;' />
+    <Archive name="PetWindowConfig" code="0" />
+    <Archive name="PetitionWindowConfig" code="0">
+        <Rect name="WindowFrame" value="Rect(559.000000,239.000000,1359.000000,839.000000)" />
+        <Bool name="WindowPinButtonState" value="false" />
+    </Archive>
+    <Archive name="PlanetMapViewConfig" code="0">
+        <Int32 name="ZoomLev" value="2" />
+        <Bool name="FirstTime" value="false" />
+        <Bool name="ShowButtons" value="true" />
+        <String name="DockableViewDockName" value='&quot;PlanetMapViewConfig&quot;' />
+    </Archive>
+    <Archive name="RaidBarConfig" code="0">
+        <Archive code="0" name="Configt0p3">
+            <Rect name="WindowFrame" value="Rect(1388.000000,382.000000,1556.000000,413.000000)" />
+        </Archive>
+        <Bool name="t0p3Enabled" value="false" />
+        <Archive code="0" name="Configt4p4">
+            <Rect name="WindowFrame" value="Rect(437.000000,459.000000,605.000000,490.000000)" />
+        </Archive>
+        <Bool name="t4p4Enabled" value="false" />
+        <Archive code="0" name="Configt3p0">
+            <Rect name="WindowFrame" value="Rect(1285.000000,497.000000,1453.000000,528.000000)" />
+        </Archive>
+        <Bool name="t3p0Enabled" value="false" />
+        <Archive code="0" name="Configt1p0">
+            <Rect name="WindowFrame" value="Rect(1349.000000,358.000000,1517.000000,389.000000)" />
+        </Archive>
+        <Bool name="t1p0Enabled" value="false" />
+        <Archive code="0" name="Configt0p0">
+            <Rect name="WindowFrame" value="Rect(1466.000000,120.000000,1634.000000,151.000000)" />
+        </Archive>
+        <Bool name="t0p0Enabled" value="false" />
+        <Archive code="0" name="Configt1p1">
+            <Rect name="WindowFrame" value="Rect(1527.000000,265.000000,1695.000000,296.000000)" />
+        </Archive>
+        <Bool name="t1p1Enabled" value="false" />
+        <Archive code="0" name="Configt0p5">
+            <Rect name="WindowFrame" value="Rect(302.000000,391.000000,470.000000,422.000000)" />
+        </Archive>
+        <Bool name="t0p5Enabled" value="false" />
+    </Archive>
+    <Archive name="RaidConfig" code="0">
+        <Rect name="WindowFrame" value="Rect(1050.000000,297.000000,1481.000000,766.000000)" />
+        <Bool name="WindowPinButtonState" value="false" />
+    </Archive>
+    <Archive name="ResearchConfig" code="0">
+        <Rect name="WindowFrame" value="Rect(651.000000,278.000000,1454.000000,798.000000)" />
+        <Bool name="WindowPinButtonState" value="false" />
+    </Archive>
+    <Archive name="ShopViewConfig" code="0">
+        <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
+        <Archive code="0" name="shop_listview_config">
+            <Array name="col_id">
+                <Int32 value="0" />
+                <Int32 value="1" />
+                <Int32 value="2" />
+                <Int32 value="3" />
+                <Int32 value="4" />
+            </Array>
+            <Array name="col_flags">
+                <Int32 value="8" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+            </Array>
+            <Array name="col_width">
+                <Float value="16.000000" />
+                <Float value="200.000000" />
+                <Float value="30.000000" />
+                <Float value="100.000000" />
+                <Float value="100.000000" />
+            </Array>
+            <Int32 name="grid_sort_column" value="1" />
+            <Int32 name="grid_sort_order" value="0" />
+            <Int32 name="list_sort_column" value="1" />
+            <Int32 name="list_sort_order" value="0" />
+            <Bool name="listview_mode" value="false" />
+        </Archive>
+    </Archive>
+    <Value name="ShowFightTargetNCU" value="false" />
+    <Value name="ShowNanoTargetNCU" value="true" />
+    <Archive name="SignupTerminalConfig" code="0">
+        <Rect name="WindowFrame" value="Rect(709.000000,478.000000,1347.000000,522.000000)" />
+        <Bool name="WindowPinButtonState" value="false" />
+    </Archive>
+    <Archive name="SkillConfig" code="0">
+        <Bool name="Minimized" value="false" />
+        <Rect name="WindowFrame" value="Rect(417.000000,240.000000,1127.000000,760.000000)" />
+        <Bool name="WindowPinButtonState" value="false" />
+    </Archive>
+    <Archive name="StatViewConfig" code="0">
+        <Bool name="AIXPBar" value="false" />
+        <Bool name="XPBar" value="false" />
+        <Bool name="DuelScoreBar" value="true" />
+        <Bool name="TeamScoreBar" value="true" />
+        <Bool name="SoloScoreBar" value="true" />
+        <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
+    </Archive>
+    <Archive name="StatWindowConfig" code="0" />
+    <Archive name="TeamViewConfig" code="0">
+        <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
+    </Archive>
+    <Archive name="TeleportTargetConfig" code="0">
+        <Float name="LocationColWidth" value="200.000000" />
+        <Float name="PlayfieldColWidth" value="200.000000" />
+        <Rect name="WindowFrame" value="Rect(709.000000,329.000000,1209.000000,749.000000)" />
+        <Bool name="WindowPinButtonState" value="false" />
+    </Archive>
+    <Archive name="TipViewConfig" code="0">
+        <String name="DockableViewDockName" value='&quot;DockArea0&quot;' />
+    </Archive>
+    <Archive name="TowerBuildMenuViewConfig" code="0">
+        <String name="DockableViewDockName" value='&quot;DockArea17&quot;' />
+    </Archive>
+    <Archive name="TradeSkillViewConfig" code="0">
+        <String name="DockableViewDockName" value='&quot;DockArea15&quot;' />
+    </Archive>
+    <Archive name="TradeViewConfig" code="0">
+        <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
+        <Archive code="0" name="partner_listview_config">
+            <Array name="col_id">
+                <Int32 value="0" />
+                <Int32 value="1" />
+                <Int32 value="2" />
+                <Int32 value="4" />
+            </Array>
+            <Array name="col_flags">
+                <Int32 value="8" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+                <Int32 value="14" />
+            </Array>
+            <Array name="col_width">
+                <Float value="16.000000" />
+                <Float value="200.000000" />
+                <Float value="30.000000" />
+                <Float value="100.000000" />
+            </Array>
+            <Int32 name="grid_sort_column" value="1" />
+            <Int32 name="grid_sort_order" value="0" />
+            <Int32 name="list_sort_column" value="1" />
+            <Int32 name="list_sort_order" value="0" />
+            <Bool name="listview_mode" value="false" />
+        </Archive>
+    </Archive>
+    <Archive name="TweakPanelConfig" code="0" />
+    <Value name="VisiblePVPTitle" value="0" />
+    <Value name="VisualFlags" value="575" />
+    <Value name="VoiceSndFxType" value="0" />
+    <Archive name="WearViewConfig" code="0">
+        <Int32 name="selected_tab" value="3" />
+        <Bool name="labels_on_top" value="true" />
+        <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
+    </Archive>
+    <Value name="battlestation_window" value="false" />
+    <Value name="camera_menu" value="false" />
+    <Value name="cc_alienxp_bar" value="true" />
+    <Value name="cc_compass" value="true" />
+    <Value name="cc_control_center" value="true" />
+    <Value name="cc_friendly_health_bar" value="true" />
+    <Value name="cc_health_bar" value="true" />
+    <Value name="cc_hostile_health_bar" value="true" />
+    <Value name="cc_left_bar" value="true" />
+    <Value name="cc_left_menu" value="true" />
+    <Value name="cc_left_target_control" value="true" />
+    <Value name="cc_left_wing" value="true" />
+    <Value name="cc_mini_toolbar" value="false" />
+    <Value name="cc_nano_bar" value="true" />
+    <Value name="cc_right_bar" value="true" />
+    <Value name="cc_right_menu" value="true" />
+    <Value name="cc_right_target_control" value="true" />
+    <Value name="cc_right_wing" value="true" />
+    <Value name="cc_rollup_controller_fade_level" value="0.000000" />
+    <Value name="cc_rollup_panel" value="true" />
+    <Value name="cc_section1" value="true" />
+    <Value name="cc_xp_bar" value="true" />
+    <Value name="char_menu" value="false" />
+    <Value name="chat_group_window" value="false" />
+    <Value name="chat_system_active" value="true" />
+    <Value name="command_menu" value="false" />
+    <Value name="control_center_active" value="true" />
+    <Value name="faction_window" value="false" />
+    <Value name="friends_window" value="false" />
+    <Value name="inventory_window" value="false" />
+    <Value name="itemshop_window" value="false" />
+    <Value name="knowledge_window" value="false" />
+    <Value name="lasertarget_window" value="false" />
+    <Value name="lft_window" value="false" />
+    <Value name="mail_window" value="false" />
+    <Value name="map_menu" value="false" />
+    <Value name="map_window" value="false" />
+    <Value name="mechselect_window" value="false" />
+    <Value name="mission_window" value="false" />
+    <Value name="nano_window" value="true" />
+    <Value name="ncu_window" value="true" />
+    <Value name="notification_window" value="true" />
+    <Value name="perk_window" value="false" />
+    <Value name="pet_window" value="false" />
+    <Value name="petition_window" value="false" />
+    <Value name="planetmap_window" value="false" />
+    <Value name="raid_window" value="false" />
+    <Value name="research_window" value="false" />
+    <Value name="shortcutbar_window" value="true" />
+    <Value name="signupterminal_window" value="false" />
+    <Value name="skill_window" value="false" />
+    <Value name="specialaction_window" value="false" />
+    <Value name="stat_window" value="false" />
+    <Value name="team_menu" value="false" />
+    <Value name="team_view" value="false" />
+    <Value name="teleport_target_window" value="false" />
+    <Value name="tradeskill_window" value="false" />
+    <Value name="wear_window" value="false" />
+</Root>

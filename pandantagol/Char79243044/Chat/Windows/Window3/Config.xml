@@ -1,0 +1,29 @@
+<Archive code="0">
+    <Int64 name="selected_group_ids" value="60129617989" />
+    <String name="selected_group_names" value='&quot;Hellcom&quot;' />
+    <Archive code="0" name="log_window_config" />
+    <Archive code="0" name="chat_window_config">
+        <Rect name="WindowFrame" value="Rect(995.000000,849.000000,1679.000000,1075.000000)" />
+        <Bool name="is_backmost" value="false" />
+        <Bool name="is_frontmost" value="false" />
+    </Archive>
+    <Archive code="0" name="chat_view_config" />
+    <Int32 name="visual_mode" value="2" />
+    <String name="output_group" value='&quot;#0000000e00012845#&quot;' />
+    <Float name="window_transparency_inactive" value="0.300000" />
+    <Float name="window_transparency_active" value="0.800000" />
+    <Bool name="show_timestamps" value="false" />
+    <Bool name="hide_input_when_inactive" value="true" />
+    <Bool name="deactivate_on_send" value="true" />
+    <Bool name="is_textinput_enabled" value="true" />
+    <Bool name="is_clickthrough" value="false" />
+    <Bool name="is_logged" value="false" />
+    <Bool name="is_message_fading_enabled" value="false" />
+    <Bool name="is_autosubscribe_window" value="false" />
+    <Bool name="is_window_open" value="true" />
+    <Int32 name="tab_index" value="0" />
+    <String name="window_name" value='&quot;Window3&quot;' />
+    <Bool name="is_default_window" value="false" />
+    <Bool name="is_startup_window" value="false" />
+    <String name="name" value='&quot;Hellcom&quot;' />
+</Archive>

@@ -1,0 +1,3852 @@
+<Archive code="0">
+    <Array name="Character">
+        <Archive code="0">
+            <Int32 name="ID" value="383526" />
+            <Int32 name="Time" value="1426104870" />
+            <Int32 name="MeshID" value="23366" />
+            <Int32 name="HeadID" value="40114" />
+            <Int32 name="Breed" value="4" />
+            <Int32 name="Sex" value="1" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="2" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="9418" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="37030" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="9450" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="30886" />
+                </Archive>
+            </Array>
+            <Array name="Mesh">
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="4" />
+                    <Int32 name="MeshID" value="40114" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="296890" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="1" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="280797" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="2" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="280802" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="3" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="245097" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="3" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="292697" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="4" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="245097" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="4" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="292697" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="5" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="245098" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="383527" />
+            <Int32 name="Time" value="1413664072" />
+            <Int32 name="MeshID" value="23365" />
+            <Int32 name="HeadID" value="40132" />
+            <Int32 name="Breed" value="4" />
+            <Int32 name="Sex" value="1" />
+            <Int32 name="Fatness" value="2" />
+            <Int32 name="Side" value="2" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="30859" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="40961" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="40934" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="30883" />
+                </Archive>
+            </Array>
+            <Array name="Mesh">
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="4" />
+                    <Int32 name="MeshID" value="40132" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="1" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="15839" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="383529" />
+            <Int32 name="Time" value="1408212487" />
+            <Int32 name="MeshID" value="5921" />
+            <Int32 name="HeadID" value="40185" />
+            <Int32 name="Breed" value="3" />
+            <Int32 name="Sex" value="2" />
+            <Int32 name="Fatness" value="1" />
+            <Int32 name="Side" value="2" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="30860" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="30838" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="30883" />
+                </Archive>
+            </Array>
+            <Array name="Mesh">
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="4" />
+                    <Int32 name="MeshID" value="40185" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="1" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="7777" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="383695" />
+            <Int32 name="Time" value="1431198129" />
+            <Int32 name="MeshID" value="23371" />
+            <Int32 name="HeadID" value="40149" />
+            <Int32 name="Breed" value="3" />
+            <Int32 name="Sex" value="3" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="2" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="285597" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="45762" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="42237" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="45761" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="45763" />
+                </Archive>
+            </Array>
+            <Array name="Mesh">
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="20023" />
+                    <Int32 name="TextureID" value="40579" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="4" />
+                    <Int32 name="MeshID" value="40149" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="1" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="233251" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="3" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="269957" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="3" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="245105" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="4" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="269957" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="4" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="245105" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="5" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="245106" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="383696" />
+            <Int32 name="Time" value="1391717410" />
+            <Int32 name="MeshID" value="23365" />
+            <Int32 name="HeadID" value="40117" />
+            <Int32 name="Breed" value="4" />
+            <Int32 name="Sex" value="1" />
+            <Int32 name="Fatness" value="2" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Array name="Mesh">
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="4" />
+                    <Int32 name="MeshID" value="40117" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="1" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="7796" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="383697" />
+            <Int32 name="Time" value="1391717498" />
+            <Int32 name="MeshID" value="23370" />
+            <Int32 name="HeadID" value="223915" />
+            <Int32 name="Breed" value="3" />
+            <Int32 name="Sex" value="3" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="87442" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Array name="Mesh">
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="4" />
+                    <Int32 name="MeshID" value="223915" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="1" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="131226" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="2" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="131226" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="383698" />
+            <Int32 name="Time" value="1391717838" />
+            <Int32 name="MeshID" value="17909" />
+            <Int32 name="HeadID" value="40178" />
+            <Int32 name="Breed" value="3" />
+            <Int32 name="Sex" value="2" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="1" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="9422" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="258544" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="37036" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="9411" />
+                </Archive>
+            </Array>
+            <Array name="Mesh">
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="4" />
+                    <Int32 name="MeshID" value="40178" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="1" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="99154" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="5" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="26163" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="383699" />
+            <Int32 name="Time" value="1420668450" />
+            <Int32 name="MeshID" value="17530" />
+            <Int32 name="HeadID" value="223858" />
+            <Int32 name="Breed" value="1" />
+            <Int32 name="Sex" value="3" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="2" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="213839" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="213739" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="213796" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="42240" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="213914" />
+                </Archive>
+            </Array>
+            <Array name="Mesh">
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="20091" />
+                    <Int32 name="TextureID" value="40584" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="4" />
+                    <Int32 name="MeshID" value="223858" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="3" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="214644" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="4" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="214644" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="546160" />
+            <Int32 name="Time" value="1403636446" />
+            <Int32 name="MeshID" value="5941" />
+            <Int32 name="HeadID" value="40151" />
+            <Int32 name="Breed" value="3" />
+            <Int32 name="Sex" value="3" />
+            <Int32 name="Fatness" value="1" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Archive code="0" name="Mesh">
+                <Int8 name="Attractor" value="0" />
+                <Int8 name="Flags" value="4" />
+                <Int32 name="MeshID" value="40151" />
+                <Int32 name="TextureID" value="0" />
+            </Archive>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="6701962" />
+            <Int32 name="Time" value="1414954887" />
+            <Int32 name="MeshID" value="5934" />
+            <Int32 name="HeadID" value="223875" />
+            <Int32 name="Breed" value="2" />
+            <Int32 name="Sex" value="3" />
+            <Int32 name="Fatness" value="1" />
+            <Int32 name="Side" value="2" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="30858" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="30869" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Array name="Mesh">
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="4" />
+                    <Int32 name="MeshID" value="223875" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="1" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="99152" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="5" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="29067" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="5" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="26163" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="37747011" />
+            <Int32 name="Time" value="1419997050" />
+            <Int32 name="MeshID" value="17909" />
+            <Int32 name="HeadID" value="40174" />
+            <Int32 name="Breed" value="3" />
+            <Int32 name="Sex" value="2" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="2" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="258544" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="14035" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="37036" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="9626" />
+                </Archive>
+            </Array>
+            <Array name="Mesh">
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="4" />
+                    <Int32 name="MeshID" value="40174" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="1" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="7777" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="5" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="242320" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="79242714" />
+            <Int32 name="Time" value="1413664075" />
+            <Int32 name="MeshID" value="17909" />
+            <Int32 name="HeadID" value="40174" />
+            <Int32 name="Breed" value="3" />
+            <Int32 name="Sex" value="2" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="2" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Archive code="0" name="Mesh">
+                <Int8 name="Attractor" value="0" />
+                <Int8 name="Flags" value="4" />
+                <Int32 name="MeshID" value="40174" />
+                <Int32 name="TextureID" value="0" />
+            </Archive>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="79243044" />
+            <Int32 name="Time" value="1407395585" />
+            <Int32 name="MeshID" value="23375" />
+            <Int32 name="HeadID" value="223875" />
+            <Int32 name="Breed" value="2" />
+            <Int32 name="Sex" value="3" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="2" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="9418" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="258869" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="99769" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="87442" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="99770" />
+                </Archive>
+            </Array>
+            <Array name="Mesh">
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="4" />
+                    <Int32 name="MeshID" value="223875" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="1" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="96326" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="5" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="29067" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="5" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="26163" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="5" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="258982" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="108531729" />
+            <Int32 name="Time" value="1392662772" />
+            <Int32 name="MeshID" value="23365" />
+            <Int32 name="HeadID" value="40127" />
+            <Int32 name="Breed" value="4" />
+            <Int32 name="Sex" value="1" />
+            <Int32 name="Fatness" value="2" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Array name="Mesh">
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="4" />
+                    <Int32 name="MeshID" value="40127" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="1" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="7777" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="131569196" />
+            <Int32 name="Time" value="1382815298" />
+            <Int32 name="MeshID" value="17534" />
+            <Int32 name="HeadID" value="40682" />
+            <Int32 name="Breed" value="1" />
+            <Int32 name="Sex" value="2" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Archive code="0" name="Mesh">
+                <Int8 name="Attractor" value="0" />
+                <Int8 name="Flags" value="4" />
+                <Int32 name="MeshID" value="40682" />
+                <Int32 name="TextureID" value="0" />
+            </Archive>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="131569263" />
+            <Int32 name="Time" value="1382827545" />
+            <Int32 name="MeshID" value="17534" />
+            <Int32 name="HeadID" value="40682" />
+            <Int32 name="Breed" value="1" />
+            <Int32 name="Sex" value="2" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Archive code="0" name="Mesh">
+                <Int8 name="Attractor" value="0" />
+                <Int8 name="Flags" value="4" />
+                <Int32 name="MeshID" value="40682" />
+                <Int32 name="TextureID" value="0" />
+            </Archive>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="131569484" />
+            <Int32 name="Time" value="1420316766" />
+            <Int32 name="MeshID" value="17534" />
+            <Int32 name="HeadID" value="40682" />
+            <Int32 name="Breed" value="1" />
+            <Int32 name="Sex" value="2" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="2" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="40973" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="30858" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="40891" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="15815" />
+                </Archive>
+            </Array>
+            <Array name="Mesh">
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="4" />
+                    <Int32 name="MeshID" value="40682" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="204958" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="1" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="136583" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="5" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="29079" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="5" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="26163" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="137050303" />
+            <Int32 name="Time" value="1384104052" />
+            <Int32 name="MeshID" value="23366" />
+            <Int32 name="HeadID" value="40114" />
+            <Int32 name="Breed" value="4" />
+            <Int32 name="Sex" value="1" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Archive code="0" name="Mesh">
+                <Int8 name="Attractor" value="0" />
+                <Int8 name="Flags" value="4" />
+                <Int32 name="MeshID" value="40114" />
+                <Int32 name="TextureID" value="0" />
+            </Archive>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="152331682" />
+            <Int32 name="Time" value="1386353006" />
+            <Int32 name="MeshID" value="17534" />
+            <Int32 name="HeadID" value="40671" />
+            <Int32 name="Breed" value="1" />
+            <Int32 name="Sex" value="2" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Archive code="0" name="Mesh">
+                <Int8 name="Attractor" value="0" />
+                <Int8 name="Flags" value="4" />
+                <Int32 name="MeshID" value="40671" />
+                <Int32 name="TextureID" value="0" />
+            </Archive>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="174738789" />
+            <Int32 name="Time" value="1390002162" />
+            <Int32 name="MeshID" value="17534" />
+            <Int32 name="HeadID" value="40703" />
+            <Int32 name="Breed" value="1" />
+            <Int32 name="Sex" value="2" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Archive code="0" name="Mesh">
+                <Int8 name="Attractor" value="0" />
+                <Int8 name="Flags" value="4" />
+                <Int32 name="MeshID" value="40703" />
+                <Int32 name="TextureID" value="0" />
+            </Archive>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="178050896" />
+            <Int32 name="Time" value="1422745184" />
+            <Int32 name="MeshID" value="23365" />
+            <Int32 name="HeadID" value="40122" />
+            <Int32 name="Breed" value="4" />
+            <Int32 name="Sex" value="1" />
+            <Int32 name="Fatness" value="2" />
+            <Int32 name="Side" value="2" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="256232" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="258873" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="256237" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="37036" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="256240" />
+                </Archive>
+            </Array>
+            <Array name="Mesh">
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="258994" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="4" />
+                    <Int32 name="MeshID" value="40122" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="1" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="31859" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="3" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="11559" />
+                    <Int32 name="TextureID" value="268502" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="4" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="11559" />
+                    <Int32 name="TextureID" value="268502" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="5" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="41481" />
+                    <Int32 name="TextureID" value="268502" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="5" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="268581" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="184723405" />
+            <Int32 name="Time" value="1427581216" />
+            <Int32 name="MeshID" value="23370" />
+            <Int32 name="HeadID" value="223915" />
+            <Int32 name="Breed" value="3" />
+            <Int32 name="Sex" value="3" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="2" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="9418" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="265373" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="9615" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="37036" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="22630" />
+                </Archive>
+            </Array>
+            <Array name="Mesh">
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="4" />
+                    <Int32 name="MeshID" value="223915" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="204947" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="1" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="264715" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="3" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="245105" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="4" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="293148" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="5" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="268031" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="5" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="242320" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="5" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="245106" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="184723410" />
+            <Int32 name="Time" value="1391720996" />
+            <Int32 name="MeshID" value="23366" />
+            <Int32 name="HeadID" value="40114" />
+            <Int32 name="Breed" value="4" />
+            <Int32 name="Sex" value="1" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="9404" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="27422" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Archive code="0" name="Mesh">
+                <Int8 name="Attractor" value="0" />
+                <Int8 name="Flags" value="4" />
+                <Int32 name="MeshID" value="40114" />
+                <Int32 name="TextureID" value="0" />
+            </Archive>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="184723415" />
+            <Int32 name="Time" value="1395857947" />
+            <Int32 name="MeshID" value="5900" />
+            <Int32 name="HeadID" value="40114" />
+            <Int32 name="Breed" value="4" />
+            <Int32 name="Sex" value="1" />
+            <Int32 name="Fatness" value="1" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="30845" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="30868" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="30828" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="30876" />
+                </Archive>
+            </Array>
+            <Array name="Mesh">
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="4" />
+                    <Int32 name="MeshID" value="40114" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="2" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="27725" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="5" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="26163" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="188134126" />
+            <Int32 name="Time" value="1392258455" />
+            <Int32 name="MeshID" value="23370" />
+            <Int32 name="HeadID" value="40137" />
+            <Int32 name="Breed" value="3" />
+            <Int32 name="Sex" value="3" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="2" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="9609" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Array name="Mesh">
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="4" />
+                    <Int32 name="MeshID" value="40137" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="1" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="7777" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="194411002" />
+            <Int32 name="Time" value="1392917369" />
+            <Int32 name="MeshID" value="17909" />
+            <Int32 name="HeadID" value="40173" />
+            <Int32 name="Breed" value="3" />
+            <Int32 name="Sex" value="2" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Archive code="0" name="Mesh">
+                <Int8 name="Attractor" value="0" />
+                <Int8 name="Flags" value="4" />
+                <Int32 name="MeshID" value="40173" />
+                <Int32 name="TextureID" value="0" />
+            </Archive>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="201600590" />
+            <Int32 name="Time" value="1394378342" />
+            <Int32 name="MeshID" value="17909" />
+            <Int32 name="HeadID" value="223937" />
+            <Int32 name="Breed" value="3" />
+            <Int32 name="Sex" value="2" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Archive code="0" name="Mesh">
+                <Int8 name="Attractor" value="0" />
+                <Int8 name="Flags" value="4" />
+                <Int32 name="MeshID" value="223937" />
+                <Int32 name="TextureID" value="0" />
+            </Archive>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="207910517" />
+            <Int32 name="Time" value="1395616770" />
+            <Int32 name="MeshID" value="17909" />
+            <Int32 name="HeadID" value="40185" />
+            <Int32 name="Breed" value="3" />
+            <Int32 name="Sex" value="2" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Archive code="0" name="Mesh">
+                <Int8 name="Attractor" value="0" />
+                <Int8 name="Flags" value="4" />
+                <Int32 name="MeshID" value="40185" />
+                <Int32 name="TextureID" value="0" />
+            </Archive>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="211495232" />
+            <Int32 name="Time" value="1395863878" />
+            <Int32 name="MeshID" value="5900" />
+            <Int32 name="HeadID" value="40114" />
+            <Int32 name="Breed" value="4" />
+            <Int32 name="Sex" value="1" />
+            <Int32 name="Fatness" value="1" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="30842" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="30866" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="30873" />
+                </Archive>
+            </Array>
+            <Array name="Mesh">
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="4" />
+                    <Int32 name="MeshID" value="40114" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="5" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="26163" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="211495234" />
+            <Int32 name="Time" value="1414176711" />
+            <Int32 name="MeshID" value="5900" />
+            <Int32 name="HeadID" value="40130" />
+            <Int32 name="Breed" value="4" />
+            <Int32 name="Sex" value="1" />
+            <Int32 name="Fatness" value="1" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Array name="Mesh">
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="4" />
+                    <Int32 name="MeshID" value="40130" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="5" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="26163" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="255558290" />
+            <Int32 name="Time" value="1413664591" />
+            <Int32 name="MeshID" value="23365" />
+            <Int32 name="HeadID" value="40127" />
+            <Int32 name="Breed" value="4" />
+            <Int32 name="Sex" value="1" />
+            <Int32 name="Fatness" value="2" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="30842" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="30866" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="9405" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="30873" />
+                </Archive>
+            </Array>
+            <Archive code="0" name="Mesh">
+                <Int8 name="Attractor" value="0" />
+                <Int8 name="Flags" value="4" />
+                <Int32 name="MeshID" value="40127" />
+                <Int32 name="TextureID" value="0" />
+            </Archive>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="258853536" />
+            <Int32 name="Time" value="1405875024" />
+            <Int32 name="MeshID" value="23365" />
+            <Int32 name="HeadID" value="40127" />
+            <Int32 name="Breed" value="4" />
+            <Int32 name="Sex" value="1" />
+            <Int32 name="Fatness" value="2" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="9402" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="9610" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="27422" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="22626" />
+                </Archive>
+            </Array>
+            <Array name="Mesh">
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="4" />
+                    <Int32 name="MeshID" value="40127" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="1" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="15839" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="262005448" />
+            <Int32 name="Time" value="1407225562" />
+            <Int32 name="MeshID" value="17534" />
+            <Int32 name="HeadID" value="223823" />
+            <Int32 name="Breed" value="1" />
+            <Int32 name="Sex" value="2" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="9616" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="9602" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Array name="Mesh">
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="4" />
+                    <Int32 name="MeshID" value="223823" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="1" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="15839" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="5" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="26163" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="262652673" />
+            <Int32 name="Time" value="1413664794" />
+            <Int32 name="MeshID" value="17909" />
+            <Int32 name="HeadID" value="40173" />
+            <Int32 name="Breed" value="3" />
+            <Int32 name="Sex" value="2" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Archive code="0" name="Mesh">
+                <Int8 name="Attractor" value="0" />
+                <Int8 name="Flags" value="4" />
+                <Int32 name="MeshID" value="40173" />
+                <Int32 name="TextureID" value="0" />
+            </Archive>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="262652679" />
+            <Int32 name="Time" value="1407255175" />
+            <Int32 name="MeshID" value="17534" />
+            <Int32 name="HeadID" value="40701" />
+            <Int32 name="Breed" value="1" />
+            <Int32 name="Sex" value="2" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Archive code="0" name="Mesh">
+                <Int8 name="Attractor" value="0" />
+                <Int8 name="Flags" value="4" />
+                <Int32 name="MeshID" value="40701" />
+                <Int32 name="TextureID" value="0" />
+            </Archive>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="262653197" />
+            <Int32 name="Time" value="1424908231" />
+            <Int32 name="MeshID" value="17534" />
+            <Int32 name="HeadID" value="40701" />
+            <Int32 name="Breed" value="1" />
+            <Int32 name="Sex" value="2" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="9402" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="275191" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="275188" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="30883" />
+                </Archive>
+            </Array>
+            <Array name="Mesh">
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="4" />
+                    <Int32 name="MeshID" value="40701" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="1" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="96328" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="2" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="95775" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="5" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="26163" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="262653284" />
+            <Int32 name="Time" value="1407428226" />
+            <Int32 name="MeshID" value="17909" />
+            <Int32 name="HeadID" value="40171" />
+            <Int32 name="Breed" value="3" />
+            <Int32 name="Sex" value="2" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Array name="Mesh">
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="4" />
+                    <Int32 name="MeshID" value="40171" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="1" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="7777" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="268304020" />
+            <Int32 name="Time" value="1408198468" />
+            <Int32 name="MeshID" value="23377" />
+            <Int32 name="HeadID" value="40277" />
+            <Int32 name="Breed" value="2" />
+            <Int32 name="Sex" value="2" />
+            <Int32 name="Fatness" value="2" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Archive code="0" name="Mesh">
+                <Int8 name="Attractor" value="0" />
+                <Int8 name="Flags" value="4" />
+                <Int32 name="MeshID" value="40277" />
+                <Int32 name="TextureID" value="0" />
+            </Archive>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="268304070" />
+            <Int32 name="Time" value="1408210960" />
+            <Int32 name="MeshID" value="23374" />
+            <Int32 name="HeadID" value="40224" />
+            <Int32 name="Breed" value="2" />
+            <Int32 name="Sex" value="3" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Archive code="0" name="Mesh">
+                <Int8 name="Attractor" value="0" />
+                <Int8 name="Flags" value="4" />
+                <Int32 name="MeshID" value="40224" />
+                <Int32 name="TextureID" value="0" />
+            </Archive>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="268304073" />
+            <Int32 name="Time" value="1408212319" />
+            <Int32 name="MeshID" value="23374" />
+            <Int32 name="HeadID" value="223875" />
+            <Int32 name="Breed" value="2" />
+            <Int32 name="Sex" value="3" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Array name="Mesh">
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="4" />
+                    <Int32 name="MeshID" value="223875" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="1" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="96309" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="268304134" />
+            <Int32 name="Time" value="1408225149" />
+            <Int32 name="MeshID" value="23374" />
+            <Int32 name="HeadID" value="40231" />
+            <Int32 name="Breed" value="2" />
+            <Int32 name="Sex" value="3" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Archive code="0" name="Mesh">
+                <Int8 name="Attractor" value="0" />
+                <Int8 name="Flags" value="4" />
+                <Int32 name="MeshID" value="40231" />
+                <Int32 name="TextureID" value="0" />
+            </Archive>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="268304135" />
+            <Int32 name="Time" value="1408225368" />
+            <Int32 name="MeshID" value="23374" />
+            <Int32 name="HeadID" value="40220" />
+            <Int32 name="Breed" value="2" />
+            <Int32 name="Sex" value="3" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Archive code="0" name="Mesh">
+                <Int8 name="Attractor" value="0" />
+                <Int8 name="Flags" value="4" />
+                <Int32 name="MeshID" value="40220" />
+                <Int32 name="TextureID" value="0" />
+            </Archive>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="268304137" />
+            <Int32 name="Time" value="1408820200" />
+            <Int32 name="MeshID" value="23374" />
+            <Int32 name="HeadID" value="40223" />
+            <Int32 name="Breed" value="2" />
+            <Int32 name="Sex" value="3" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="2" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="268679" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="268744" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="268680" />
+                </Archive>
+            </Array>
+            <Array name="Mesh">
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="4" />
+                    <Int32 name="MeshID" value="40223" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="1" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="264750" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="5" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="268611" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="268304144" />
+            <Int32 name="Time" value="1420095421" />
+            <Int32 name="MeshID" value="17909" />
+            <Int32 name="HeadID" value="223925" />
+            <Int32 name="Breed" value="3" />
+            <Int32 name="Sex" value="2" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="2" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Array name="Mesh">
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="4" />
+                    <Int32 name="MeshID" value="223925" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="1" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="7777" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="274654080" />
+            <Int32 name="Time" value="1409245389" />
+            <Int32 name="MeshID" value="17909" />
+            <Int32 name="HeadID" value="40181" />
+            <Int32 name="Breed" value="3" />
+            <Int32 name="Sex" value="2" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Archive code="0" name="Mesh">
+                <Int8 name="Attractor" value="0" />
+                <Int8 name="Flags" value="4" />
+                <Int32 name="MeshID" value="40181" />
+                <Int32 name="TextureID" value="0" />
+            </Archive>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="293083147" />
+            <Int32 name="Time" value="1413665003" />
+            <Int32 name="MeshID" value="17532" />
+            <Int32 name="HeadID" value="40693" />
+            <Int32 name="Breed" value="1" />
+            <Int32 name="Sex" value="2" />
+            <Int32 name="Fatness" value="2" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Archive code="0" name="Mesh">
+                <Int8 name="Attractor" value="0" />
+                <Int8 name="Flags" value="4" />
+                <Int32 name="MeshID" value="40693" />
+                <Int32 name="TextureID" value="0" />
+            </Archive>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="293083153" />
+            <Int32 name="Time" value="1413372564" />
+            <Int32 name="MeshID" value="23378" />
+            <Int32 name="HeadID" value="40262" />
+            <Int32 name="Breed" value="2" />
+            <Int32 name="Sex" value="2" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Archive code="0" name="Mesh">
+                <Int8 name="Attractor" value="0" />
+                <Int8 name="Flags" value="4" />
+                <Int32 name="MeshID" value="40262" />
+                <Int32 name="TextureID" value="0" />
+            </Archive>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="293084140" />
+            <Int32 name="Time" value="1413490887" />
+            <Int32 name="MeshID" value="23370" />
+            <Int32 name="HeadID" value="40164" />
+            <Int32 name="Breed" value="3" />
+            <Int32 name="Sex" value="3" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Archive code="0" name="Mesh">
+                <Int8 name="Attractor" value="0" />
+                <Int8 name="Flags" value="4" />
+                <Int32 name="MeshID" value="40164" />
+                <Int32 name="TextureID" value="0" />
+            </Archive>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="293084283" />
+            <Int32 name="Time" value="1413564939" />
+            <Int32 name="MeshID" value="23370" />
+            <Int32 name="HeadID" value="40164" />
+            <Int32 name="Breed" value="3" />
+            <Int32 name="Sex" value="3" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Array name="Mesh">
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="4" />
+                    <Int32 name="MeshID" value="40164" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="1" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="7796" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="293084286" />
+            <Int32 name="Time" value="1413565543" />
+            <Int32 name="MeshID" value="23370" />
+            <Int32 name="HeadID" value="40164" />
+            <Int32 name="Breed" value="3" />
+            <Int32 name="Sex" value="3" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Archive code="0" name="Mesh">
+                <Int8 name="Attractor" value="0" />
+                <Int8 name="Flags" value="4" />
+                <Int32 name="MeshID" value="40164" />
+                <Int32 name="TextureID" value="0" />
+            </Archive>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="293084299" />
+            <Int32 name="Time" value="1414865271" />
+            <Int32 name="MeshID" value="23370" />
+            <Int32 name="HeadID" value="40164" />
+            <Int32 name="Breed" value="3" />
+            <Int32 name="Sex" value="3" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="40977" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="40960" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="40965" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="42240" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="22630" />
+                </Archive>
+            </Array>
+            <Array name="Mesh">
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="20023" />
+                    <Int32 name="TextureID" value="40577" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="4" />
+                    <Int32 name="MeshID" value="40164" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="5" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="29059" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="293084337" />
+            <Int32 name="Time" value="1413664528" />
+            <Int32 name="MeshID" value="17530" />
+            <Int32 name="HeadID" value="40631" />
+            <Int32 name="Breed" value="1" />
+            <Int32 name="Sex" value="3" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Archive code="0" name="Mesh">
+                <Int8 name="Attractor" value="0" />
+                <Int8 name="Flags" value="4" />
+                <Int32 name="MeshID" value="40631" />
+                <Int32 name="TextureID" value="0" />
+            </Archive>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="293084339" />
+            <Int32 name="Time" value="1413576013" />
+            <Int32 name="MeshID" value="17532" />
+            <Int32 name="HeadID" value="40686" />
+            <Int32 name="Breed" value="1" />
+            <Int32 name="Sex" value="2" />
+            <Int32 name="Fatness" value="2" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Archive code="0" name="Mesh">
+                <Int8 name="Attractor" value="0" />
+                <Int8 name="Flags" value="4" />
+                <Int32 name="MeshID" value="40686" />
+                <Int32 name="TextureID" value="0" />
+            </Archive>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="293084343" />
+            <Int32 name="Time" value="1413664789" />
+            <Int32 name="MeshID" value="23377" />
+            <Int32 name="HeadID" value="40251" />
+            <Int32 name="Breed" value="2" />
+            <Int32 name="Sex" value="2" />
+            <Int32 name="Fatness" value="2" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Archive code="0" name="Mesh">
+                <Int8 name="Attractor" value="0" />
+                <Int8 name="Flags" value="4" />
+                <Int32 name="MeshID" value="40251" />
+                <Int32 name="TextureID" value="0" />
+            </Archive>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="293084345" />
+            <Int32 name="Time" value="1413665173" />
+            <Int32 name="MeshID" value="17532" />
+            <Int32 name="HeadID" value="40678" />
+            <Int32 name="Breed" value="1" />
+            <Int32 name="Sex" value="2" />
+            <Int32 name="Fatness" value="2" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Archive code="0" name="Mesh">
+                <Int8 name="Attractor" value="0" />
+                <Int8 name="Flags" value="4" />
+                <Int32 name="MeshID" value="40678" />
+                <Int32 name="TextureID" value="0" />
+            </Archive>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="293084562" />
+            <Int32 name="Time" value="1413665757" />
+            <Int32 name="MeshID" value="17532" />
+            <Int32 name="HeadID" value="40677" />
+            <Int32 name="Breed" value="1" />
+            <Int32 name="Sex" value="2" />
+            <Int32 name="Fatness" value="2" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Archive code="0" name="Mesh">
+                <Int8 name="Attractor" value="0" />
+                <Int8 name="Flags" value="4" />
+                <Int32 name="MeshID" value="40677" />
+                <Int32 name="TextureID" value="0" />
+            </Archive>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="293084563" />
+            <Int32 name="Time" value="1413665759" />
+            <Int32 name="MeshID" value="17528" />
+            <Int32 name="HeadID" value="40628" />
+            <Int32 name="Breed" value="1" />
+            <Int32 name="Sex" value="3" />
+            <Int32 name="Fatness" value="2" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Archive code="0" name="Mesh">
+                <Int8 name="Attractor" value="0" />
+                <Int8 name="Flags" value="4" />
+                <Int32 name="MeshID" value="40628" />
+                <Int32 name="TextureID" value="0" />
+            </Archive>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="295933310" />
+            <Int32 name="Time" value="1414531773" />
+            <Int32 name="MeshID" value="23370" />
+            <Int32 name="HeadID" value="40164" />
+            <Int32 name="Breed" value="3" />
+            <Int32 name="Sex" value="3" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Array name="Mesh">
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="4" />
+                    <Int32 name="MeshID" value="40164" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="1" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="7796" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="295933311" />
+            <Int32 name="Time" value="1427581960" />
+            <Int32 name="MeshID" value="23370" />
+            <Int32 name="HeadID" value="40164" />
+            <Int32 name="Breed" value="3" />
+            <Int32 name="Sex" value="3" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="2" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="283805" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="9615" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="283809" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="283848" />
+                </Archive>
+            </Array>
+            <Array name="Mesh">
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="205090" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="4" />
+                    <Int32 name="MeshID" value="40164" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="1" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="30238" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="3" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="293149" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="5" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="296479" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="5" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="268581" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="308738353" />
+            <Int32 name="Time" value="1417217304" />
+            <Int32 name="MeshID" value="17530" />
+            <Int32 name="HeadID" value="40615" />
+            <Int32 name="Breed" value="1" />
+            <Int32 name="Sex" value="3" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="0" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Archive code="0" name="Mesh">
+                <Int8 name="Attractor" value="0" />
+                <Int8 name="Flags" value="4" />
+                <Int32 name="MeshID" value="40615" />
+                <Int32 name="TextureID" value="0" />
+            </Archive>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="322707617" />
+            <Int32 name="Time" value="1420181967" />
+            <Int32 name="MeshID" value="17528" />
+            <Int32 name="HeadID" value="40632" />
+            <Int32 name="Breed" value="1" />
+            <Int32 name="Sex" value="3" />
+            <Int32 name="Fatness" value="2" />
+            <Int32 name="Side" value="2" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="258544" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="37036" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Array name="Mesh">
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="4" />
+                    <Int32 name="MeshID" value="40632" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="1" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="264695" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="2" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="264695" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="3" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="301324" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="5" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="26163" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="5" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="301337" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+        </Archive>
+        <Archive code="0">
+            <Int32 name="ID" value="341437762" />
+            <Int32 name="Time" value="1426293632" />
+            <Int32 name="MeshID" value="17530" />
+            <Int32 name="HeadID" value="223850" />
+            <Int32 name="Breed" value="1" />
+            <Int32 name="Sex" value="3" />
+            <Int32 name="Fatness" value="0" />
+            <Int32 name="Side" value="2" />
+            <Array name="Cloth">
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="0" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="1" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="258848" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="2" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="3" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="37036" />
+                </Archive>
+                <Archive code="0">
+                    <Int32 name="AlphaMode" value="0" />
+                    <Int32 name="BodyPart" value="4" />
+                    <Int32 name="EnvTextureId" value="0" />
+                    <Int32 name="Priority" value="0" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+            <Array name="Mesh">
+                <Archive code="0">
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="4" />
+                    <Int32 name="MeshID" value="223850" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="1" />
+                    <Int8 name="Flags" value="2" />
+                    <Int32 name="MeshID" value="7796" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+            </Array>
+        </Archive>
+    </Array>
+</Archive>

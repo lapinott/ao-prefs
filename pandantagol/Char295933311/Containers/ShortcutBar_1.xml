@@ -1,0 +1,32 @@
+<Archive code="0">
+    <Rect name="WindowFrame" value="Rect(1178.000000,61.000000,1580.000000,98.000000)" />
+    <Bool name="IsPrimary" value="false" />
+    <Archive code="0" name="position_map">
+        <Array name="item_id">
+            <Identity value="Identity(51081,3)" />
+            <Identity value="Identity(51081,5)" />
+            <Identity value="Identity(51081,7)" />
+            <Identity value="Identity(51081,9)" />
+            <Identity value="Identity(51081,11)" />
+            <Identity value="Identity(51081,13)" />
+            <Identity value="Identity(51081,15)" />
+            <Identity value="Identity(51081,17)" />
+            <Identity value="Identity(51081,19)" />
+            <Identity value="Identity(51081,21)" />
+        </Array>
+        <Array name="item_pos">
+            <IPoint value="IPoint(0,0)" />
+            <IPoint value="IPoint(1,0)" />
+            <IPoint value="IPoint(2,0)" />
+            <IPoint value="IPoint(3,0)" />
+            <IPoint value="IPoint(4,0)" />
+            <IPoint value="IPoint(5,0)" />
+            <IPoint value="IPoint(6,0)" />
+            <IPoint value="IPoint(7,0)" />
+            <IPoint value="IPoint(8,0)" />
+            <IPoint value="IPoint(9,0)" />
+        </Array>
+    </Archive>
+    <Int32 name="selected_bar" value="0" />
+    <Int32 name="bar_orientation" value="0" />
+</Archive>

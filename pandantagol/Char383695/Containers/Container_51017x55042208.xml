@@ -1,0 +1,37 @@
+<Archive code="0">
+    <String name="DockableViewDockName" value='&quot;DockArea211&quot;' />
+    <Point name="scroll_offset" value="Point(0.000000,0.000000)" />
+    <Archive code="0" name="listview_config">
+        <Array name="col_id">
+            <Int32 value="0" />
+            <Int32 value="1" />
+            <Int32 value="2" />
+            <Int32 value="4" />
+        </Array>
+        <Array name="col_flags">
+            <Int32 value="8" />
+            <Int32 value="14" />
+            <Int32 value="14" />
+            <Int32 value="14" />
+        </Array>
+        <Array name="col_width">
+            <Float value="16.000000" />
+            <Float value="200.000000" />
+            <Float value="30.000000" />
+            <Float value="100.000000" />
+        </Array>
+        <Int32 name="list_sort_column" value="1" />
+        <Int32 name="list_sort_order" value="0" />
+        <Bool name="listview_mode" value="false" />
+    </Archive>
+    <Archive code="0" name="item_position_map">
+        <Array name="item_id">
+            <Identity value="Identity(107,7077888)" />
+            <Identity value="Identity(107,7077889)" />
+        </Array>
+        <Array name="item_pos">
+            <IPoint value="IPoint(0,0)" />
+            <IPoint value="IPoint(1,0)" />
+        </Array>
+    </Archive>
+</Archive>
