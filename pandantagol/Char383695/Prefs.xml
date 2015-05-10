@@ -805,7 +805,7 @@
     </Archive>
     <Archive name="NanoViewConfig" code="0">
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
-        <Int32 name="selected_school" value="1" />
+        <Int32 name="selected_school" value="0" />
         <Bool name="listview_mode" value="false" />
         <Archive code="0" name="listview_config0">
             <Array name="col_id">
@@ -1673,7 +1673,7 @@
     <Archive name="PerkWindowConfig" code="0">
         <Int32 name="SelectedTab" value="0" />
         <Rect name="WindowFrame" value="Rect(600.000000,395.000000,1336.000000,687.000000)" />
-        <Bool name="WindowPinButtonState" value="false" />
+        <Bool name="WindowPinButtonState" value="true" />
     </Archive>
     <Value name="PetName1" value='&quot;&quot;' />
     <Value name="PetName2" value='&quot;&quot;' />
@@ -1832,7 +1832,7 @@
     <Value name="VisualFlags" value="575" />
     <Value name="VoiceSndFxType" value="0" />
     <Archive name="WearViewConfig" code="0">
-        <Int32 name="selected_tab" value="3" />
+        <Int32 name="selected_tab" value="0" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
     </Archive>
@@ -1875,7 +1875,7 @@
     <Value name="map_window" value="false" />
     <Value name="mechselect_window" value="false" />
     <Value name="mission_window" value="false" />
-    <Value name="nano_window" value="true" />
+    <Value name="nano_window" value="false" />
     <Value name="ncu_window" value="true" />
     <Value name="notification_window" value="true" />
     <Value name="perk_window" value="false" />
@@ -1887,7 +1887,7 @@
     <Value name="shortcutbar_window" value="true" />
     <Value name="signupterminal_window" value="false" />
     <Value name="skill_window" value="false" />
-    <Value name="specialaction_window" value="false" />
+    <Value name="specialaction_window" value="true" />
     <Value name="stat_window" value="false" />
     <Value name="team_menu" value="false" />
     <Value name="team_view" value="false" />

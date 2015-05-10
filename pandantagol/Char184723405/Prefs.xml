@@ -90,6 +90,7 @@
     <Archive name="FactionWindowConfig" code="0" />
     <Archive name="FightTargetNCUWindowConfig" code="0">
         <Archive code="0" name="listview_config">
+            <Int32 name="ncu_listview_flags" value="1" />
             <Array name="col_id">
                 <Int32 value="0" />
                 <Int32 value="1" />
@@ -128,7 +129,7 @@
         <String name="DockableViewDockName" value='&quot;DockArea1&quot;' />
     </Archive>
     <Archive name="InspectViewConfig" code="0">
-        <Int32 name="selected_tab" value="1" />
+        <Int32 name="selected_tab" value="3" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;DockArea6&quot;' />
     </Archive>
@@ -137,7 +138,7 @@
         <Bool name="WindowPinButtonState" value="false" />
     </Archive>
     <Archive name="KeyBindings" code="0">
-        <Int32 name="Version" value="5" />
+        <Int32 name="Version" value="7" />
         <Array name="Bind">
             <Archive code="0">
                 <Int32 name="Input" value="9" />
@@ -403,6 +404,10 @@
                 <Int64 name="Provider" value="1866476120" />
             </Archive>
             <Archive code="0">
+                <Int32 name="Input" value="131173" />
+                <Int64 name="Provider" value="2073189714" />
+            </Archive>
+            <Archive code="0">
                 <Int32 name="Input" value="131180" />
                 <Int64 name="Provider" value="1294912203" />
             </Archive>
@@ -640,6 +645,7 @@
     <Archive name="MutedChatGroups" code="0" />
     <Archive name="NCUWindowConfig" code="0">
         <Archive code="0" name="listview_config">
+            <Int32 name="ncu_listview_flags" value="0" />
             <Array name="col_id">
                 <Int32 value="0" />
                 <Int32 value="1" />
@@ -694,6 +700,7 @@
     </Archive>
     <Archive name="NanoTargetNCUWindowConfig" code="0">
         <Archive code="0" name="listview_config">
+            <Int32 name="ncu_listview_flags" value="1" />
             <Array name="col_id">
                 <Int32 value="0" />
                 <Int32 value="1" />
@@ -1241,7 +1248,7 @@
     </Archive>
     <Archive name="NotificationWindowConfig" code="0">
         <Bool name="ClickableLinks" value="true" />
-        <Rect name="WindowFrame" value="Rect(5.000000,25.000000,1915.000000,355.000000)" />
+        <Rect name="WindowFrame" value="Rect(4.000000,25.000000,1914.000000,355.000000)" />
     </Archive>
     <Value name="NotificationWindowVisibility" value="false" />
     <Value name="NumHotbars" value="2.064649" />
@@ -1256,7 +1263,7 @@
             <String value='&quot;Controls&quot;' />
             <String value='&quot;Behaviour&quot;' />
         </Array>
-        <Int32 name="selected_tab" value="2" />
+        <Int32 name="selected_tab" value="0" />
         <Float name="panel_list_scroll_offset" value="0.000000" />
         <Archive code="0" name="hotkey_config">
             <Float name="list_scroll_offset" value="0.000000" />
@@ -1333,7 +1340,6 @@
     <Value name="ShowNanoTargetNCU" value="true" />
     <Archive name="SignupTerminalConfig" code="0" />
     <Archive name="SkillConfig" code="0">
-        <Bool name="ShowDetails" value="true" />
         <Bool name="Minimized" value="false" />
         <Rect name="WindowFrame" value="Rect(438.000000,235.000000,1134.000000,755.000000)" />
         <Bool name="WindowPinButtonState" value="true" />
@@ -1394,7 +1400,7 @@
     <Value name="VisualFlags" value="615" />
     <Value name="VoiceSndFxType" value="0" />
     <Archive name="WearViewConfig" code="0">
-        <Int32 name="selected_tab" value="0" />
+        <Int32 name="selected_tab" value="1" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
     </Archive>
@@ -1426,7 +1432,7 @@
     <Value name="command_menu" value="false" />
     <Value name="control_center_active" value="true" />
     <Value name="faction_window" value="false" />
-    <Value name="friends_window" value="true" />
+    <Value name="friends_window" value="false" />
     <Value name="inventory_window" value="false" />
     <Value name="itemshop_window" value="false" />
     <Value name="knowledge_window" value="false" />
@@ -1455,5 +1461,5 @@
     <Value name="team_view" value="true" />
     <Value name="teleport_target_window" value="false" />
     <Value name="tradeskill_window" value="false" />
-    <Value name="wear_window" value="false" />
+    <Value name="wear_window" value="true" />
 </Root>

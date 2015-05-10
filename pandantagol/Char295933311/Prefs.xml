@@ -81,6 +81,7 @@
     <Archive name="FactionWindowConfig" code="0" />
     <Archive name="FightTargetNCUWindowConfig" code="0">
         <Archive code="0" name="listview_config">
+            <Int32 name="ncu_listview_flags" value="1" />
             <Array name="col_id">
                 <Int32 value="0" />
                 <Int32 value="1" />
@@ -119,7 +120,7 @@
         <String name="DockableViewDockName" value='&quot;DockArea4&quot;' />
     </Archive>
     <Archive name="InspectViewConfig" code="0">
-        <Int32 name="selected_tab" value="3" />
+        <Int32 name="selected_tab" value="0" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;DockArea9&quot;' />
     </Archive>
@@ -128,7 +129,7 @@
         <Bool name="WindowPinButtonState" value="false" />
     </Archive>
     <Archive name="KeyBindings" code="0">
-        <Int32 name="Version" value="5" />
+        <Int32 name="Version" value="7" />
         <Array name="Bind">
             <Archive code="0">
                 <Int32 name="Input" value="9" />
@@ -394,6 +395,10 @@
                 <Int64 name="Provider" value="1866476120" />
             </Archive>
             <Archive code="0">
+                <Int32 name="Input" value="131173" />
+                <Int64 name="Provider" value="2073189714" />
+            </Archive>
+            <Archive code="0">
                 <Int32 name="Input" value="131180" />
                 <Int64 name="Provider" value="1294912203" />
             </Archive>
@@ -620,6 +625,7 @@
     <Archive name="MutedChatGroups" code="0" />
     <Archive name="NCUWindowConfig" code="0">
         <Archive code="0" name="listview_config">
+            <Int32 name="ncu_listview_flags" value="0" />
             <Array name="col_id">
                 <Int32 value="0" />
                 <Int32 value="1" />
@@ -674,6 +680,7 @@
     </Archive>
     <Archive name="NanoTargetNCUWindowConfig" code="0">
         <Archive code="0" name="listview_config">
+            <Int32 name="ncu_listview_flags" value="1" />
             <Array name="col_id">
                 <Int32 value="0" />
                 <Int32 value="1" />
@@ -700,7 +707,7 @@
     </Archive>
     <Archive name="NanoViewConfig" code="0">
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
-        <Int32 name="selected_school" value="4" />
+        <Int32 name="selected_school" value="3" />
         <Bool name="listview_mode" value="false" />
         <Archive code="0" name="listview_config0">
             <Array name="col_id">
@@ -1137,14 +1144,14 @@
     </Archive>
     <Archive name="NotificationWindowConfig" code="0">
         <Bool name="ClickableLinks" value="true" />
-        <Rect name="WindowFrame" value="Rect(4.000000,25.000000,1914.000000,355.000000)" />
+        <Rect name="WindowFrame" value="Rect(5.000000,25.000000,1915.000000,355.000000)" />
     </Archive>
     <Value name="NotificationWindowVisibility" value="false" />
     <Value name="NumHotbars" value="2.800000" />
     <Archive name="OptionWindowConfig" code="0">
         <Rect name="WindowFrame" value="Rect(147.000000,265.000000,837.000000,757.000000)" />
         <Bool name="WindowPinButtonState" value="true" />
-        <String name="selected_panel" value='&quot;VideoEnvironment&quot;' />
+        <String name="selected_panel" value='&quot;GUIHelp&quot;' />
         <Array name="open_panel_folders">
             <String value='&quot;Video&quot;' />
             <String value='&quot;GUI&quot;' />
@@ -1222,7 +1229,6 @@
     <Value name="ShowNanoTargetNCU" value="true" />
     <Archive name="SignupTerminalConfig" code="0" />
     <Archive name="SkillConfig" code="0">
-        <Bool name="ShowDetails" value="true" />
         <Bool name="Minimized" value="false" />
         <Rect name="WindowFrame" value="Rect(98.000000,201.000000,794.000000,721.000000)" />
         <Bool name="WindowPinButtonState" value="true" />
@@ -1281,7 +1287,7 @@
     <Value name="VisualFlags" value="639" />
     <Value name="VoiceSndFxType" value="0" />
     <Archive name="WearViewConfig" code="0">
-        <Int32 name="selected_tab" value="0" />
+        <Int32 name="selected_tab" value="2" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
     </Archive>
@@ -1324,7 +1330,7 @@
     <Value name="map_window" value="true" />
     <Value name="mechselect_window" value="false" />
     <Value name="mission_window" value="false" />
-    <Value name="nano_window" value="false" />
+    <Value name="nano_window" value="true" />
     <Value name="ncu_window" value="true" />
     <Value name="notification_window" value="true" />
     <Value name="perk_window" value="false" />

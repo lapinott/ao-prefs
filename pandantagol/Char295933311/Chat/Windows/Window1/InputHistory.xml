@@ -1,12 +1,4 @@
 <Root>
-    <TextLine text="/tell Nighthunter cool story" />
-    <TextLine text="/tell Nighthunter ok make a 25 paid trader and duel me" />
-    <TextLine text='/tell Dunhillbaccy &quot;why the fuck didnt you puke in the toilets?! blablabla&quot;' />
-    <TextLine text="/tell Dunhillbaccy yeah and he gets rly nervous then" />
-    <TextLine text="/tell Dunhillbaccy btw I puked in the sink inside the toilet room" />
-    <TextLine text="/tell Dunhillbaccy sure" />
-    <TextLine text="/tell Dunhillbaccy well u can come when I have a room left" />
-    <TextLine text="/tell Daslasergun ?" cursor_pos="20" />
     <TextLine text="/tell Daslasergun cool" />
     <TextLine text="/tell Daslasergun not sure your rifle OD my neleb" />
     <TextLine text="/tell Daslasergun and?" />
@@ -199,4 +191,12 @@
     <TextLine text="k then" />
     <TextLine text="/tell Opower did you use shutdown ?" />
     <TextLine text="/tell Opower ok lol" />
+    <TextLine text="/tell Lightwarden hu" />
+    <TextLine text="/tell Lightwarden not sure I can cast it" />
+    <TextLine text="/tell Elmario @FT" />
+    <TextLine text="/tell Lightwarden come BY2 ?" />
+    <TextLine text="/tell Lightwarden a bit ahead from grid on the left" />
+    <TextLine text="/tell Lightwarden there" />
+    <TextLine text="/tell Lightwarden np =)" />
+    <TextLine text="cool blades" />
 </Root>

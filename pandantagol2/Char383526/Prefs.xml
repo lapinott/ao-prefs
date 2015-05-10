@@ -9,13 +9,13 @@
         <Rect name="WindowFrame" value="Rect(13.000000,144.000000,23.000000,268.000000)" />
     </Archive>
     <Archive name="CCFriendlyHealthBarConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(23.000000,5.000000,836.000000,28.000000)" />
+        <Rect name="WindowFrame" value="Rect(23.000000,5.000000,836.000000,65.000000)" />
     </Archive>
     <Archive name="CCHealthBarConfig" code="0">
         <Rect name="WindowFrame" value="Rect(0.000000,0.000000,10.000000,124.000000)" />
     </Archive>
     <Archive name="CCHostileHealthBarConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(935.000000,13.000000,1748.000000,71.000000)" />
+        <Rect name="WindowFrame" value="Rect(935.000000,13.000000,1748.000000,60.000000)" />
     </Archive>
     <Archive name="CCNanoBarConfig" code="0">
         <Rect name="WindowFrame" value="Rect(0.000000,144.000000,10.000000,268.000000)" />
@@ -89,6 +89,7 @@
     </Archive>
     <Archive name="FightTargetNCUWindowConfig" code="0">
         <Archive code="0" name="listview_config">
+            <Int32 name="ncu_listview_flags" value="1" />
             <Array name="col_id">
                 <Int32 value="0" />
                 <Int32 value="1" />
@@ -138,7 +139,7 @@
         <Bool name="WindowPinButtonState" value="false" />
     </Archive>
     <Archive name="KeyBindings" code="0">
-        <Int32 name="Version" value="5" />
+        <Int32 name="Version" value="7" />
         <Array name="Bind">
             <Archive code="0">
                 <Int32 name="Input" value="9" />
@@ -169,8 +170,15 @@
                 <Int64 name="Provider" value="4062287708" />
             </Archive>
             <Archive code="0">
+                <Int32 name="Input" value="37" />
+                <Int64 name="Provider" value="1004526338" />
+            </Archive>
+            <Archive code="0">
                 <Int32 name="Input" value="38" />
-                <Int64 name="Provider" value="2252130504" />
+                <Array name="Provider">
+                    <Int64 value="2252130504" />
+                    <Int64 value="534860460" />
+                </Array>
             </Archive>
             <Archive code="0">
                 <Int32 name="Input" value="39" />
@@ -217,6 +225,10 @@
                 <Int64 name="Provider" value="2721508740" />
             </Archive>
             <Archive code="0">
+                <Int32 name="Input" value="83" />
+                <Int64 name="Provider" value="16645647" />
+            </Archive>
+            <Archive code="0">
                 <Int32 name="Input" value="84" />
                 <Int64 name="Provider" value="4210727988" />
             </Archive>
@@ -237,6 +249,7 @@
                 <Array name="Provider">
                     <Int64 value="2251903383" />
                     <Int64 value="2251903382" />
+                    <Int64 value="692969829" />
                 </Array>
             </Archive>
             <Archive code="0">
@@ -251,16 +264,32 @@
                 <Int64 name="Provider" value="2789818176" />
             </Archive>
             <Archive code="0">
+                <Int32 name="Input" value="91" />
+                <Int64 name="Provider" value="1986051157" />
+            </Archive>
+            <Archive code="0">
                 <Int32 name="Input" value="92" />
                 <Array name="Provider">
                     <Int64 value="2251903387" />
                     <Int64 value="2251903386" />
                     <Int64 value="2251903389" />
+                    <Int64 value="2592067435" />
                 </Array>
             </Archive>
             <Archive code="0">
+                <Int32 name="Input" value="93" />
+                <Int64 name="Provider" value="2587801857" />
+            </Archive>
+            <Archive code="0">
                 <Int32 name="Input" value="94" />
-                <Int64 name="Provider" value="3209627451" />
+                <Array name="Provider">
+                    <Int64 value="3209627451" />
+                    <Int64 value="2376032" />
+                </Array>
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="95" />
+                <Int64 name="Provider" value="1988349168" />
             </Archive>
             <Archive code="0">
                 <Int32 name="Input" value="96" />
@@ -269,6 +298,7 @@
                     <Int64 value="2252251744" />
                     <Int64 value="2252251757" />
                     <Int64 value="2252251756" />
+                    <Int64 value="3376408180" />
                 </Array>
             </Archive>
             <Archive code="0">
@@ -290,7 +320,10 @@
             </Archive>
             <Archive code="0">
                 <Int32 name="Input" value="99" />
-                <Int64 name="Provider" value="2251903380" />
+                <Array name="Provider">
+                    <Int64 value="2251903380" />
+                    <Int64 value="1709500677" />
+                </Array>
             </Archive>
             <Archive code="0">
                 <Int32 name="Input" value="100" />
@@ -303,6 +336,10 @@
             <Archive code="0">
                 <Int32 name="Input" value="102" />
                 <Int64 name="Provider" value="2942668761" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="103" />
+                <Int64 name="Provider" value="2392319808" />
             </Archive>
             <Archive code="0">
                 <Int32 name="Input" value="104" />
@@ -399,6 +436,10 @@
             <Archive code="0">
                 <Int32 name="Input" value="131170" />
                 <Int64 name="Provider" value="1866476120" />
+            </Archive>
+            <Archive code="0">
+                <Int32 name="Input" value="131173" />
+                <Int64 name="Provider" value="2073189714" />
             </Archive>
             <Archive code="0">
                 <Int32 name="Input" value="131180" />
@@ -684,6 +725,7 @@
     <Archive name="MutedChatGroups" code="0" />
     <Archive name="NCUWindowConfig" code="0">
         <Archive code="0" name="listview_config">
+            <Int32 name="ncu_listview_flags" value="0" />
             <Array name="col_id">
                 <Int32 value="0" />
                 <Int32 value="1" />
@@ -738,6 +780,7 @@
     </Archive>
     <Archive name="NanoTargetNCUWindowConfig" code="0">
         <Archive code="0" name="listview_config">
+            <Int32 name="ncu_listview_flags" value="1" />
             <Array name="col_id">
                 <Int32 value="0" />
                 <Int32 value="1" />
@@ -1264,14 +1307,14 @@
     </Archive>
     <Archive name="NotificationWindowConfig" code="0">
         <Bool name="ClickableLinks" value="true" />
-        <Rect name="WindowFrame" value="Rect(5.000000,25.000000,1915.000000,355.000000)" />
+        <Rect name="WindowFrame" value="Rect(4.000000,25.000000,1914.000000,355.000000)" />
     </Archive>
     <Value name="NotificationWindowVisibility" value="false" />
     <Value name="NumHotbars" value="3.933544" />
     <Archive name="OptionWindowConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(201.000000,200.000000,1083.000000,690.000000)" />
+        <Rect name="WindowFrame" value="Rect(130.000000,203.000000,1012.000000,693.000000)" />
         <Bool name="WindowPinButtonState" value="false" />
-        <String name="selected_panel" value='&quot;AudioAudio Settings&quot;' />
+        <String name="selected_panel" value='&quot;GUIEquipment Window&quot;' />
         <Array name="open_panel_folders">
             <String value='&quot;Audio&quot;' />
             <String value='&quot;Video&quot;' />
@@ -1445,7 +1488,7 @@
     <Value name="VisualFlags" value="639" />
     <Value name="VoiceSndFxType" value="0" />
     <Archive name="WearViewConfig" code="0">
-        <Int32 name="selected_tab" value="0" />
+        <Int32 name="selected_tab" value="2" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
     </Archive>
@@ -1500,7 +1543,7 @@
     <Value name="shortcutbar_window" value="true" />
     <Value name="signupterminal_window" value="false" />
     <Value name="skill_window" value="false" />
-    <Value name="specialaction_window" value="true" />
+    <Value name="specialaction_window" value="false" />
     <Value name="stat_window" value="false" />
     <Value name="team_menu" value="false" />
     <Value name="team_view" value="false" />

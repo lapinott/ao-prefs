@@ -161,7 +161,6 @@
     <TextLine text="/s !" />
     <TextLine text="/fishsize" />
     <TextLine text="lul" />
-    <TextLine text="/Wave" />
     <TextLine text="/flip" />
     <TextLine text="/bow" />
     <TextLine text="/tell Andyforcer I gave 3 :)" />
@@ -199,4 +198,5 @@
     <TextLine text="/tell %t wanan duel my lvl25 ?" />
     <TextLine text="/wave" />
     <TextLine text="/tell Killerenfo ok" />
+    <TextLine text="/Wave" />
 </Root>

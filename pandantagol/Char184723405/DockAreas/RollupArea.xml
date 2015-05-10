@@ -6,8 +6,8 @@
                 <Float name="page_height" value="289.000000" />
             </Archive>
             <Archive code="0">
-                <Bool name="is_page_expanded" value="true" />
                 <Float name="page_height" value="233.000000" />
+                <Bool name="is_page_expanded" value="true" />
             </Archive>
             <Archive code="0">
                 <Bool name="is_page_expanded" value="true" />
@@ -19,23 +19,23 @@
             </Archive>
             <Archive code="0">
                 <Bool name="is_page_expanded" value="true" />
-                <Float name="page_height" value="467.000000" />
+                <Float name="page_height" value="480.000000" />
             </Archive>
             <Archive code="0">
                 <Bool name="is_page_expanded" value="true" />
                 <Float name="page_height" value="606.000000" />
             </Archive>
             <Archive code="0">
-                <Float name="page_height" value="317.000000" />
                 <Bool name="is_page_expanded" value="true" />
+                <Float name="page_height" value="317.000000" />
             </Archive>
             <Archive code="0">
                 <Bool name="is_page_expanded" value="true" />
                 <Float name="page_height" value="239.000000" />
             </Archive>
             <Archive code="0">
-                <Bool name="is_page_expanded" value="true" />
                 <Float name="page_height" value="304.000000" />
+                <Bool name="is_page_expanded" value="true" />
             </Archive>
             <Archive code="0">
                 <Bool name="is_page_expanded" value="true" />
@@ -54,7 +54,7 @@
             <String value='&quot;stat_window&quot;' />
             <String value='&quot;knowledge_window&quot;' />
         </Array>
-        <Float name="scroll_offset" value="-1.000000" />
+        <Float name="scroll_offset" value="0.000000" />
     </Archive>
     <String name="dock_type" value='&quot;RollupController&quot;' />
     <String name="dock_name" value='&quot;RollupArea&quot;' />
