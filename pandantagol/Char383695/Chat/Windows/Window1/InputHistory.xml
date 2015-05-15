@@ -1,18 +1,4 @@
 <Root>
-    <TextLine text="/tell Mrspacegimp :p" />
-    <TextLine text="/tell Mrspacegimp cans used to work tho" />
-    <TextLine text="/tell Mrspacegimp dunno if they still do" />
-    <TextLine text="/tell %t gsf plz" />
-    <TextLine text="/say thx" />
-    <TextLine text="/tell %t what&apos;s this nano ?" />
-    <TextLine text="/tell Tipmepleasee hai" />
-    <TextLine text="/tell Tipmepleasee log dunhill ?" />
-    <TextLine text="/tell Tipmepleasee meet FT" />
-    <TextLine text="/tell Tipmepleasee k" />
-    <TextLine text="/tell Surovi1 k" />
-    <TextLine text="/tell Surovi1 cool FX" />
-    <TextLine text="/flamenco" />
-    <TextLine text="/tell Surovi1 oops NS2 :/" />
     <TextLine text="/tell Surovi1 gtg laters" />
     <TextLine text="/Say 100k on dunhillö" />
     <TextLine text="/tell %t nice gear dood" />
@@ -90,7 +76,6 @@
     <TextLine text="%t duel ?" />
     <TextLine text="/duekl" />
     <TextLine text="/duel" />
-    <TextLine text="%t" />
     <TextLine text="/tell itemsbot neural stunner" />
     <TextLine text="/tell Jinkzed np" />
     <TextLine text="/tell Donnakaran yes?" />
@@ -136,7 +121,6 @@
     <TextLine text="did you get kill ? :p" />
     <TextLine text="x(" />
     <TextLine text="nope" />
-    <TextLine text=":p" />
     <TextLine text="omw" />
     <TextLine text="maybe" />
     <TextLine text="u dont have a trox name then" />
@@ -161,7 +145,6 @@
     <TextLine text="vs 20k NR ?" />
     <TextLine text="100k should have said" />
     <TextLine text="%t duel" />
-    <TextLine text="why" />
     <TextLine text="u dont have 100k NR like Zero ?" />
     <TextLine text="noob down" />
     <TextLine text="2vs1 nab" />
@@ -199,4 +182,21 @@
     <TextLine text="meh" />
     <TextLine text="eheeheee" />
     <TextLine text="/tell Mrmyogi lol =)" />
+    <TextLine text="BS running ?" />
+    <TextLine text="zerg @ A" />
+    <TextLine text="/tell %t CM plz" />
+    <TextLine text="CM plz" />
+    <TextLine text="CM" />
+    <TextLine text="plz" />
+    <TextLine text="%t" />
+    <TextLine text="k nvm" />
+    <TextLine text="i see xD" />
+    <TextLine text="why" />
+    <TextLine text="doc u let me die in front of u ;(" />
+    <TextLine text=":p" />
+    <TextLine text="np" />
+    <TextLine text="zerg At B" />
+    <TextLine text="/s lol" />
+    <TextLine text="/Say lul" />
+    <TextLine text="agent snake here" />
 </Root>

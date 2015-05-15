@@ -26,16 +26,16 @@
                 <Float name="page_height" value="317.000000" />
             </Archive>
             <Archive code="0">
-                <Bool name="is_page_expanded" value="true" />
                 <Float name="page_height" value="311.000000" />
+                <Bool name="is_page_expanded" value="true" />
             </Archive>
             <Archive code="0">
                 <Bool name="is_page_expanded" value="true" />
                 <Float name="page_height" value="205.000000" />
             </Archive>
             <Archive code="0">
-                <Float name="page_height" value="633.000000" />
                 <Bool name="is_page_expanded" value="true" />
+                <Float name="page_height" value="633.000000" />
             </Archive>
             <Archive code="0">
                 <Bool name="is_page_expanded" value="true" />
