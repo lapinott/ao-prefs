@@ -15,7 +15,7 @@
         <Rect name="WindowFrame" value="Rect(0.000000,0.000000,10.000000,124.000000)" />
     </Archive>
     <Archive name="CCHostileHealthBarConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(322.000000,45.000000,1135.000000,92.000000)" />
+        <Rect name="WindowFrame" value="Rect(322.000000,45.000000,1135.000000,103.000000)" />
     </Archive>
     <Archive name="CCNanoBarConfig" code="0">
         <Rect name="WindowFrame" value="Rect(0.000000,144.000000,10.000000,268.000000)" />
@@ -68,6 +68,7 @@
             <Identity value="Identity(103,43)" />
             <Identity value="Identity(103,45)" />
             <Identity value="Identity(103,42)" />
+            <Identity value="Identity(101,5)" />
         </Array>
     </Archive>
     <Archive name="FactionWindowConfig" code="0">
@@ -121,7 +122,7 @@
         <String name="DockableViewDockName" value='&quot;DockArea17&quot;' />
     </Archive>
     <Archive name="ItemShopWindowConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(570.000000,238.000000,1349.000000,840.000000)" />
+        <Rect name="WindowFrame" value="Rect(81.000000,117.000000,860.000000,719.000000)" />
         <Bool name="WindowPinButtonState" value="false" />
     </Archive>
     <Archive name="KeyBindings" code="0">
@@ -773,7 +774,7 @@
     </Archive>
     <Archive name="NPCChatWindowConfig" code="0">
         <Float name="text_split_proportion" value="0.700000" />
-        <Rect name="WindowFrame" value="Rect(740.000000,348.000000,1137.000000,647.000000)" />
+        <Rect name="WindowFrame" value="Rect(740.000000,348.000000,1173.000000,647.000000)" />
         <Bool name="WindowPinButtonState" value="true" />
     </Archive>
     <Archive name="NanoTargetNCUWindowConfig" code="0">
@@ -805,7 +806,7 @@
     </Archive>
     <Archive name="NanoViewConfig" code="0">
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
-        <Int32 name="selected_school" value="0" />
+        <Int32 name="selected_school" value="3" />
         <Bool name="listview_mode" value="false" />
         <Archive code="0" name="listview_config0">
             <Array name="col_id">
@@ -1645,7 +1646,7 @@
     <Archive name="OptionWindowConfig" code="0">
         <Rect name="WindowFrame" value="Rect(305.000000,294.000000,1226.000000,744.000000)" />
         <Bool name="WindowPinButtonState" value="false" />
-        <String name="selected_panel" value='&quot;GUIControl Center&quot;' />
+        <String name="selected_panel" value='&quot;GUIHelp&quot;' />
         <Array name="open_panel_folders">
             <String value='&quot;Audio&quot;' />
             <String value='&quot;Video&quot;' />
@@ -1671,7 +1672,7 @@
         <String name="DockableViewDockName" value='&quot;DockArea55&quot;' />
     </Archive>
     <Archive name="PerkWindowConfig" code="0">
-        <Int32 name="SelectedTab" value="0" />
+        <Int32 name="SelectedTab" value="1" />
         <Rect name="WindowFrame" value="Rect(600.000000,395.000000,1336.000000,687.000000)" />
         <Bool name="WindowPinButtonState" value="true" />
     </Archive>
@@ -1764,7 +1765,7 @@
     <Value name="ShowFightTargetNCU" value="false" />
     <Value name="ShowNanoTargetNCU" value="true" />
     <Archive name="SignupTerminalConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(709.000000,478.000000,1347.000000,522.000000)" />
+        <Rect name="WindowFrame" value="Rect(615.000000,295.000000,1253.000000,339.000000)" />
         <Bool name="WindowPinButtonState" value="false" />
     </Archive>
     <Archive name="SkillConfig" code="0">
@@ -1832,7 +1833,7 @@
     <Value name="VisualFlags" value="575" />
     <Value name="VoiceSndFxType" value="0" />
     <Archive name="WearViewConfig" code="0">
-        <Int32 name="selected_tab" value="0" />
+        <Int32 name="selected_tab" value="3" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
     </Archive>

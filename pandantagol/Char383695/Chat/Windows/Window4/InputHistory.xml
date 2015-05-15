@@ -6,7 +6,6 @@
     <TextLine text="/tell hellcom join" />
     <TextLine text="/tell hellcom !join" cursor_pos="15" />
     <TextLine text="/bow" />
-    <TextLine text="/ballet" />
     <TextLine text="/tell Forstbeard" />
     <TextLine text="/tell Frostbeard hi" />
     <TextLine text="/tell Frostbeard any chance I can have my HC points back ?" />
@@ -199,4 +198,5 @@
     <TextLine text="/tell iraid !rules" />
     <TextLine text="kewl :)" />
     <TextLine text="thx" />
+    <TextLine text="/ballet" />
 </Root>
