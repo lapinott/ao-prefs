@@ -36,9 +36,7 @@
             <Identity value="Identity(53019,266287)" />
             <Identity value="Identity(53019,290584)" />
             <Identity value="Identity(53019,300806)" />
-            <Identity value="Identity(53019,260758)" />
             <Identity value="Identity(53019,266287)" />
-            <Identity value="Identity(53019,273382)" />
             <Identity value="Identity(101,1)" />
             <Identity value="Identity(104,67)" />
             <Identity value="Identity(53019,294174)" />
@@ -54,12 +52,14 @@
             <Identity value="Identity(53019,220349)" />
             <Identity value="Identity(53019,302074)" />
             <Identity value="Identity(57008,266021)" />
-            <Identity value="Identity(57008,266698)" />
-            <Identity value="Identity(53019,302074)" />
             <Identity value="Identity(53019,45239)" />
             <Identity value="Identity(53019,28603)" />
             <Identity value="Identity(53019,266282)" />
             <Identity value="Identity(53019,275692)" />
+            <Identity value="Identity(57008,266699)" />
+            <Identity value="Identity(53019,202262)" />
+            <Identity value="Identity(53019,273388)" />
+            <Identity value="Identity(53019,273382)" />
         </Array>
         <Array name="item_pos">
             <IPoint value="IPoint(0,1)" />
@@ -91,13 +91,11 @@
             <IPoint value="IPoint(1,6)" />
             <IPoint value="IPoint(6,6)" />
             <IPoint value="IPoint(0,6)" />
-            <IPoint value="IPoint(7,1)" />
+            <IPoint value="IPoint(8,1)" />
             <IPoint value="IPoint(5,2)" />
             <IPoint value="IPoint(8,8)" />
             <IPoint value="IPoint(2,6)" />
-            <IPoint value="IPoint(8,1)" />
             <IPoint value="IPoint(4,0)" />
-            <IPoint value="IPoint(9,1)" />
             <IPoint value="IPoint(9,0)" />
             <IPoint value="IPoint(7,0)" />
             <IPoint value="IPoint(6,2)" />
@@ -113,12 +111,14 @@
             <IPoint value="IPoint(7,9)" />
             <IPoint value="IPoint(8,0)" />
             <IPoint value="IPoint(8,9)" />
-            <IPoint value="IPoint(9,9)" />
-            <IPoint value="IPoint(3,1)" />
-            <IPoint value="IPoint(4,1)" />
-            <IPoint value="IPoint(4,8)" />
             <IPoint value="IPoint(5,1)" />
+            <IPoint value="IPoint(4,8)" />
             <IPoint value="IPoint(6,1)" />
+            <IPoint value="IPoint(7,1)" />
+            <IPoint value="IPoint(9,9)" />
+            <IPoint value="IPoint(4,1)" />
+            <IPoint value="IPoint(3,1)" />
+            <IPoint value="IPoint(9,1)" />
         </Array>
     </Archive>
     <Int32 name="selected_bar" value="0" />

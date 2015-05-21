@@ -128,8 +128,8 @@
             <IPoint value="IPoint(1,12)" />
             <IPoint value="IPoint(2,9)" />
             <IPoint value="IPoint(2,8)" />
-            <IPoint value="IPoint(2,0)" />
             <IPoint value="IPoint(1,8)" />
+            <IPoint value="IPoint(2,0)" />
             <IPoint value="IPoint(0,13)" />
         </Array>
     </Archive>
