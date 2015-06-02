@@ -1,43 +1,4 @@
 <Root>
-    <TextLine text="nope sry" />
-    <TextLine text="there are 2 teams here" />
-    <TextLine text="who is the NT ?" />
-    <TextLine text="yours ?" />
-    <TextLine text="well its not cool for the other dudes in team :P" />
-    <TextLine text="repop" />
-    <TextLine text="gonna make coffee and pull" />
-    <TextLine text="pulling now" />
-    <TextLine text="i go pull east" />
-    <TextLine text="they left" />
-    <TextLine text="/tell %t did you get in ?" />
-    <TextLine text="/ymca" />
-    <TextLine text="/sleep" />
-    <TextLine text="/tell Dunhillsaccy r u staying up all night ?" />
-    <TextLine text="/tell Dunhillsaccy why" />
-    <TextLine text="/tell Dunhillsaccy why not" />
-    <TextLine text="/tell Uronlyhope where" />
-    <TextLine text="/tell Uronlyhope come FT inside plz" />
-    <TextLine text="/tell Uronlyhope come inside plz" />
-    <TextLine text="/tell Uronlyhope I gave you behe" />
-    <TextLine text="/tell Uronlyhope np :p" />
-    <TextLine text="/tell Plazmabolts np" />
-    <TextLine text="/org bank" />
-    <TextLine text="/bank" />
-    <TextLine text="/org bank remove 1" />
-    <TextLine text='WTS &lt;a href=&quot;itemref://246640/246640/300&quot;&gt;Combined Mercenary&apos;s Sleeves&lt;/a&gt; &lt;a href=&quot;itemref://267510/267510/300&quot;&gt;OFAB Enforcer Protective Gear&lt;/a&gt;' />
-    <TextLine text='/tell Dnet !shopping WTS 300 &lt;a href=&quot;itemref://246640/246640/300&quot;&gt;Combined Mercenary&apos;s Sleeves&lt;/a&gt; 280m &lt;a href=&quot;itemref://267510/267510/300&quot;&gt;OFAB Enforcer Protective Gear&lt;/a&gt; 40m' />
-    <TextLine text="/tell Tikariperse no sry" />
-    <TextLine text="/tell Lorete hy" />
-    <TextLine text="/tell Lorete yes" />
-    <TextLine text="/tell Lorete omw" />
-    <TextLine text="/tell Lorete thx" />
-    <TextLine text="/tell Lorete 6k" />
-    <TextLine text="/tell Lorete yeah :p" />
-    <TextLine text="RK down ??" />
-    <TextLine text='WTS &lt;a href=&quot;itemref://246640/246640/300&quot;&gt;Combined Mercenary&apos;s Sleeves&lt;/a&gt; 250m' />
-    <TextLine text='/tell Dnet !shopping WTS &lt;a href=&quot;itemref://246640/246640/300&quot;&gt;Combined Mercenary&apos;s Sleeves&lt;/a&gt;' />
-    <TextLine text='/tell Neutnet !shopping WTS &lt;a href=&quot;itemref://246640/246640/300&quot;&gt;Combined Mercenary&apos;s Sleeves&lt;/a&gt;' cursor_pos="13" />
-    <TextLine text="/tell helpbot whois Shaolinmonk" />
     <TextLine text='/tell Dnet !shoppping WTB &lt;a href=&quot;itemref://244505/244511/250&quot;&gt;Platinum Filigree Ring set with a Perfectly Cut Ruby Pearl&lt;/a&gt; 100m PST' />
     <TextLine text='/tell Dnet !shopping WTB &lt;a href=&quot;itemref://244505/244511/250&quot;&gt;Platinum Filigree Ring set with a Perfectly Cut Ruby Pearl&lt;/a&gt; 100m PST' cursor_pos="16" />
     <TextLine text="/tell Dnet !pvm lol" />
@@ -95,7 +56,6 @@
     <TextLine text="/tell Small hm no :/" />
     <TextLine text="enjoy xD" />
     <TextLine text="/WAve" />
-    <TextLine text=":p" />
     <TextLine text="lots of inf otw :S" />
     <TextLine text="u need to walk :p" />
     <TextLine text="yes" />
@@ -199,4 +159,44 @@
     <TextLine text="/wave" />
     <TextLine text="/tell Killerenfo ok" />
     <TextLine text="/Wave" />
+    <TextLine text="small team :p" />
+    <TextLine text=":/" />
+    <TextLine text="1 is fine :p" />
+    <TextLine text="shader &apos;or&apos; doc ?" />
+    <TextLine text="is it possible wo doc ?" />
+    <TextLine text="hmm got less HP with patch" />
+    <TextLine text="no muib" />
+    <TextLine text="k" />
+    <TextLine text="rage 5 minutes awesome :)" />
+    <TextLine text="why ?" />
+    <TextLine text="oh I see" />
+    <TextLine text="healing debuff" />
+    <TextLine text="MB ?" />
+    <TextLine text="ah" />
+    <TextLine text="i only need to bring a toon if I win something" />
+    <TextLine text="zod?" />
+    <TextLine text="/t yes got" />
+    <TextLine text="dont have yet" />
+    <TextLine text="inc harryedda" />
+    <TextLine text="inv*" />
+    <TextLine text="/ymca" />
+    <TextLine text="r?" />
+    <TextLine text="nope" />
+    <TextLine text="i hate that" />
+    <TextLine text="shade watch out" />
+    <TextLine text="pink behind you" />
+    <TextLine text="?" />
+    <TextLine text="yours ? lol" />
+    <TextLine text="what are they for ?" />
+    <TextLine text="take it" />
+    <TextLine text="I thought they&apos;re new loot" />
+    <TextLine text=":p" />
+    <TextLine text="pass" />
+    <TextLine text="sl ess didnt cancel" />
+    <TextLine text="now it did :p" />
+    <TextLine text="ouch" />
+    <TextLine text="wipe" />
+    <TextLine text="access denied ? :S" />
+    <TextLine text="oops" />
+    <TextLine text="yw" />
 </Root>

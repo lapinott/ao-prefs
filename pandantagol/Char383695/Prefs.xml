@@ -15,7 +15,7 @@
         <Rect name="WindowFrame" value="Rect(0.000000,0.000000,10.000000,124.000000)" />
     </Archive>
     <Archive name="CCHostileHealthBarConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(322.000000,45.000000,1135.000000,103.000000)" />
+        <Rect name="WindowFrame" value="Rect(322.000000,45.000000,1135.000000,92.000000)" />
     </Archive>
     <Archive name="CCNanoBarConfig" code="0">
         <Rect name="WindowFrame" value="Rect(0.000000,144.000000,10.000000,268.000000)" />
@@ -631,7 +631,7 @@
         <Int32 name="SelectedSide" value="7" />
         <Int32 name="SelectedLocation" value="1" />
         <Int32 name="SelectedProfession" value="16" />
-        <String name="TeamDesc" value='&quot;Father time&quot;' />
+        <String name="TeamDesc" value='&quot;&quot;' />
         <Float name="NameColWidth" value="120.000000" />
         <Float name="LevelColWidth" value="30.000000" />
         <Float name="SideColWidth" value="50.000000" />
@@ -1672,7 +1672,7 @@
         <String name="DockableViewDockName" value='&quot;DockArea55&quot;' />
     </Archive>
     <Archive name="PerkWindowConfig" code="0">
-        <Int32 name="SelectedTab" value="1" />
+        <Int32 name="SelectedTab" value="2" />
         <Rect name="WindowFrame" value="Rect(600.000000,395.000000,1336.000000,687.000000)" />
         <Bool name="WindowPinButtonState" value="true" />
     </Archive>

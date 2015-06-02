@@ -89,7 +89,7 @@
             <IPoint value="IPoint(1,11)" />
             <IPoint value="IPoint(1,7)" />
             <IPoint value="IPoint(0,12)" />
-            <IPoint value="IPoint(1,18)" />
+            <IPoint value="IPoint(0,16)" />
             <IPoint value="IPoint(0,13)" />
             <IPoint value="IPoint(2,10)" />
             <IPoint value="IPoint(1,16)" />
@@ -160,9 +160,9 @@
             <IPoint value="IPoint(1,13)" />
             <IPoint value="IPoint(1,8)" />
             <IPoint value="IPoint(2,13)" />
-            <IPoint value="IPoint(2,7)" />
-            <IPoint value="IPoint(0,8)" />
             <IPoint value="IPoint(2,8)" />
+            <IPoint value="IPoint(0,8)" />
+            <IPoint value="IPoint(2,7)" />
             <IPoint value="IPoint(2,11)" />
             <IPoint value="IPoint(0,15)" />
             <IPoint value="IPoint(1,9)" />

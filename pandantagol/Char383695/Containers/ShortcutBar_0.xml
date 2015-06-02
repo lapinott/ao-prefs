@@ -1,5 +1,5 @@
 <Archive code="0">
-    <Rect name="WindowFrame" value="Rect(1270.000000,30.000000,1672.000000,67.000000)" />
+    <Rect name="WindowFrame" value="Rect(1270.000000,29.000000,1672.000000,66.000000)" />
     <Bool name="IsPrimary" value="true" />
     <Archive code="0" name="position_map">
         <Array name="item_id">
@@ -60,6 +60,7 @@
             <Identity value="Identity(53019,202262)" />
             <Identity value="Identity(53019,273388)" />
             <Identity value="Identity(53019,273382)" />
+            <Identity value="Identity(115,60)" />
         </Array>
         <Array name="item_pos">
             <IPoint value="IPoint(0,1)" />
@@ -68,18 +69,18 @@
             <IPoint value="IPoint(1,2)" />
             <IPoint value="IPoint(0,9)" />
             <IPoint value="IPoint(0,8)" />
-            <IPoint value="IPoint(6,8)" />
+            <IPoint value="IPoint(9,8)" />
             <IPoint value="IPoint(3,8)" />
             <IPoint value="IPoint(3,6)" />
             <IPoint value="IPoint(5,9)" />
-            <IPoint value="IPoint(9,8)" />
+            <IPoint value="IPoint(9,7)" />
             <IPoint value="IPoint(3,0)" />
             <IPoint value="IPoint(0,0)" />
             <IPoint value="IPoint(2,0)" />
             <IPoint value="IPoint(5,0)" />
             <IPoint value="IPoint(2,1)" />
             <IPoint value="IPoint(1,0)" />
-            <IPoint value="IPoint(5,8)" />
+            <IPoint value="IPoint(7,8)" />
             <IPoint value="IPoint(0,2)" />
             <IPoint value="IPoint(3,2)" />
             <IPoint value="IPoint(4,2)" />
@@ -93,14 +94,14 @@
             <IPoint value="IPoint(0,6)" />
             <IPoint value="IPoint(8,1)" />
             <IPoint value="IPoint(5,2)" />
-            <IPoint value="IPoint(8,8)" />
+            <IPoint value="IPoint(8,7)" />
             <IPoint value="IPoint(2,6)" />
             <IPoint value="IPoint(4,0)" />
             <IPoint value="IPoint(9,0)" />
             <IPoint value="IPoint(7,0)" />
             <IPoint value="IPoint(6,2)" />
             <IPoint value="IPoint(1,8)" />
-            <IPoint value="IPoint(7,8)" />
+            <IPoint value="IPoint(7,7)" />
             <IPoint value="IPoint(9,6)" />
             <IPoint value="IPoint(8,6)" />
             <IPoint value="IPoint(7,6)" />
@@ -112,13 +113,14 @@
             <IPoint value="IPoint(8,0)" />
             <IPoint value="IPoint(8,9)" />
             <IPoint value="IPoint(5,1)" />
-            <IPoint value="IPoint(4,8)" />
+            <IPoint value="IPoint(8,8)" />
             <IPoint value="IPoint(6,1)" />
             <IPoint value="IPoint(7,1)" />
             <IPoint value="IPoint(9,9)" />
             <IPoint value="IPoint(4,1)" />
             <IPoint value="IPoint(3,1)" />
             <IPoint value="IPoint(9,1)" />
+            <IPoint value="IPoint(4,8)" />
         </Array>
     </Archive>
     <Int32 name="selected_bar" value="0" />
