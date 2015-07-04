@@ -7,12 +7,16 @@
             <Identity value="Identity(57008,226141)" />
             <Identity value="Identity(57008,226134)" />
             <Identity value="Identity(53019,275024)" />
+            <Identity value="Identity(53019,45239)" />
+            <Identity value="Identity(57008,227500)" />
         </Array>
         <Array name="item_pos">
             <IPoint value="IPoint(0,0)" />
             <IPoint value="IPoint(1,0)" />
             <IPoint value="IPoint(2,0)" />
             <IPoint value="IPoint(3,0)" />
+            <IPoint value="IPoint(4,0)" />
+            <IPoint value="IPoint(5,0)" />
         </Array>
     </Archive>
     <Int32 name="selected_bar" value="0" />

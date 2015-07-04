@@ -2,7 +2,7 @@
     <Value name="AutoCloseWindows" value="false" />
     <Value name="AutoPetRenaming" value="true" />
     <Archive name="BattlestationConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(864.000000,30.000000,1056.000000,222.000000)" />
+        <Rect name="WindowFrame" value="Rect(870.000000,44.000000,1062.000000,236.000000)" />
     </Archive>
     <Archive name="BrowserWindowConfig" code="0" />
     <Archive name="CCAlienXPBarConfig" code="0">
@@ -15,7 +15,7 @@
         <Rect name="WindowFrame" value="Rect(0.000000,0.000000,10.000000,124.000000)" />
     </Archive>
     <Archive name="CCHostileHealthBarConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(322.000000,45.000000,1135.000000,92.000000)" />
+        <Rect name="WindowFrame" value="Rect(322.000000,45.000000,1135.000000,103.000000)" />
     </Archive>
     <Archive name="CCNanoBarConfig" code="0">
         <Rect name="WindowFrame" value="Rect(0.000000,144.000000,10.000000,268.000000)" />
@@ -28,7 +28,7 @@
         <Bool name="is_normal_groups_folder_open" value="true" />
         <Bool name="is_private_groups_folder_open" value="true" />
         <Bool name="is_combat_groups_folder_open" value="false" />
-        <Float name="group_list_scroll_offset" value="-196.000000" />
+        <Float name="group_list_scroll_offset" value="-44.000000" />
         <Rect name="WindowFrame" value="Rect(788.000000,286.000000,1188.000000,667.000000)" />
         <Bool name="WindowPinButtonState" value="false" />
     </Archive>
@@ -117,7 +117,7 @@
         <String name="DockableViewDockName" value='&quot;DockArea2&quot;' />
     </Archive>
     <Archive name="InspectViewConfig" code="0">
-        <Int32 name="selected_tab" value="3" />
+        <Int32 name="selected_tab" value="0" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;DockArea17&quot;' />
     </Archive>
@@ -340,7 +340,10 @@
             </Archive>
             <Archive code="0">
                 <Int32 name="Input" value="103" />
-                <Int64 name="Provider" value="2392319808" />
+                <Array name="Provider">
+                    <Int64 value="2392319808" />
+                    <Int64 value="2252243145" />
+                </Array>
             </Archive>
             <Archive code="0">
                 <Int32 name="Input" value="104" />
@@ -587,22 +590,22 @@
             <Identity value="Identity(50000,2226179264)" />
             <Identity value="Identity(50000,3342170517)" />
             <Identity value="Identity(50000,3309059089)" />
+            <Identity value="Identity(51080,1)" />
+            <Identity value="Identity(51080,2)" />
+            <Identity value="Identity(51080,3)" />
+            <Identity value="Identity(51080,4)" />
             <Identity value="Identity(51080,5)" />
             <Identity value="Identity(51080,6)" />
             <Identity value="Identity(51080,7)" />
             <Identity value="Identity(51080,8)" />
             <Identity value="Identity(51080,9)" />
             <Identity value="Identity(51080,10)" />
-            <Identity value="Identity(51080,11)" />
-            <Identity value="Identity(51080,12)" />
-            <Identity value="Identity(51080,13)" />
-            <Identity value="Identity(51080,14)" />
             <Identity value="Identity(50000,1553375)" />
             <Identity value="Identity(50000,313540)" />
             <Identity value="Identity(50000,309672)" />
             <Identity value="Identity(50000,339636)" />
-            <Identity value="Identity(51080,15)" />
-            <Identity value="Identity(51080,16)" />
+            <Identity value="Identity(51080,11)" />
+            <Identity value="Identity(51080,12)" />
         </Array>
         <Array name="item_pos">
             <IPoint value="IPoint(0,0)" />
@@ -631,7 +634,7 @@
         <Int32 name="SelectedSide" value="7" />
         <Int32 name="SelectedLocation" value="1" />
         <Int32 name="SelectedProfession" value="16" />
-        <String name="TeamDesc" value='&quot;&quot;' />
+        <String name="TeamDesc" value='&quot;brink / new inf HARD&quot;' />
         <Float name="NameColWidth" value="120.000000" />
         <Float name="LevelColWidth" value="30.000000" />
         <Float name="SideColWidth" value="50.000000" />
@@ -775,7 +778,7 @@
     <Archive name="NPCChatWindowConfig" code="0">
         <Float name="text_split_proportion" value="0.700000" />
         <Rect name="WindowFrame" value="Rect(740.000000,348.000000,1173.000000,647.000000)" />
-        <Bool name="WindowPinButtonState" value="true" />
+        <Bool name="WindowPinButtonState" value="false" />
     </Archive>
     <Archive name="NanoTargetNCUWindowConfig" code="0">
         <Archive code="0" name="listview_config">
@@ -806,7 +809,7 @@
     </Archive>
     <Archive name="NanoViewConfig" code="0">
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
-        <Int32 name="selected_school" value="5" />
+        <Int32 name="selected_school" value="0" />
         <Bool name="listview_mode" value="false" />
         <Archive code="0" name="listview_config0">
             <Array name="col_id">
@@ -1189,13 +1192,13 @@
                 <Identity value="Identity(53019,27134)" />
                 <Identity value="Identity(53019,95407)" />
                 <Identity value="Identity(53019,302074)" />
-                <Identity value="Identity(53019,150502)" />
                 <Identity value="Identity(53019,150631)" />
                 <Identity value="Identity(53019,273388)" />
                 <Identity value="Identity(53019,273386)" />
                 <Identity value="Identity(53019,270356)" />
                 <Identity value="Identity(53019,117678)" />
                 <Identity value="Identity(53019,117679)" />
+                <Identity value="Identity(53019,302548)" />
                 <Identity value="Identity(53019,302274)" />
                 <Identity value="Identity(53019,300850)" />
                 <Identity value="Identity(53019,287044)" />
@@ -1269,6 +1272,7 @@
                 <Identity value="Identity(53019,90405)" />
                 <Identity value="Identity(53019,90400)" />
                 <Identity value="Identity(53019,294174)" />
+                <Identity value="Identity(53019,150502)" />
                 <Identity value="Identity(53019,202262)" />
             </Array>
             <Array name="item_pos">
@@ -1371,29 +1375,28 @@
                 <IPoint value="IPoint(1,4)" />
                 <IPoint value="IPoint(2,4)" />
                 <IPoint value="IPoint(0,0)" />
-                <IPoint value="IPoint(3,0)" />
                 <IPoint value="IPoint(1,0)" />
                 <IPoint value="IPoint(2,0)" />
                 <IPoint value="IPoint(1,1)" />
                 <IPoint value="IPoint(2,1)" />
                 <IPoint value="IPoint(0,1)" />
                 <IPoint value="IPoint(0,2)" />
-                <IPoint value="IPoint(3,6)" />
                 <IPoint value="IPoint(0,0)" />
-                <IPoint value="IPoint(3,5)" />
+                <IPoint value="IPoint(3,6)" />
                 <IPoint value="IPoint(1,0)" />
-                <IPoint value="IPoint(3,4)" />
+                <IPoint value="IPoint(3,5)" />
                 <IPoint value="IPoint(2,0)" />
+                <IPoint value="IPoint(3,4)" />
                 <IPoint value="IPoint(0,1)" />
+                <IPoint value="IPoint(1,1)" />
                 <IPoint value="IPoint(3,3)" />
                 <IPoint value="IPoint(3,2)" />
-                <IPoint value="IPoint(1,1)" />
                 <IPoint value="IPoint(2,1)" />
-                <IPoint value="IPoint(3,1)" />
                 <IPoint value="IPoint(0,2)" />
+                <IPoint value="IPoint(3,1)" />
                 <IPoint value="IPoint(1,2)" />
-                <IPoint value="IPoint(3,0)" />
                 <IPoint value="IPoint(2,2)" />
+                <IPoint value="IPoint(3,0)" />
                 <IPoint value="IPoint(0,3)" />
                 <IPoint value="IPoint(1,3)" />
                 <IPoint value="IPoint(2,3)" />
@@ -1428,6 +1431,7 @@
                 <IPoint value="IPoint(1,13)" />
                 <IPoint value="IPoint(2,13)" />
                 <IPoint value="IPoint(0,14)" />
+                <IPoint value="IPoint(1,14)" />
                 <IPoint value="IPoint(2,7)" />
                 <IPoint value="IPoint(0,0)" />
                 <IPoint value="IPoint(1,0)" />
@@ -1450,6 +1454,7 @@
                 <IPoint value="IPoint(2,6)" />
                 <IPoint value="IPoint(0,7)" />
                 <IPoint value="IPoint(1,7)" />
+                <IPoint value="IPoint(2,0)" />
                 <IPoint value="IPoint(1,0)" />
                 <IPoint value="IPoint(0,0)" />
             </Array>
@@ -1559,7 +1564,7 @@
                 <Int32 value="2" />
                 <Int32 value="2" />
                 <Int32 value="2" />
-                <Int32 value="2" />
+                <Int32 value="3" />
                 <Int32 value="3" />
                 <Int32 value="3" />
                 <Int32 value="3" />
@@ -1632,6 +1637,7 @@
                 <Int32 value="4" />
                 <Int32 value="4" />
                 <Int32 value="4" />
+                <Int32 value="5" />
                 <Int32 value="5" />
                 <Int32 value="5" />
             </Array>
@@ -1644,7 +1650,7 @@
     <Value name="NotificationWindowVisibility" value="false" />
     <Value name="NumHotbars" value="4.608048" />
     <Archive name="OptionWindowConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(305.000000,294.000000,1226.000000,744.000000)" />
+        <Rect name="WindowFrame" value="Rect(296.000000,297.000000,1217.000000,747.000000)" />
         <Bool name="WindowPinButtonState" value="false" />
         <String name="selected_panel" value='&quot;GUIControl Center&quot;' />
         <Array name="open_panel_folders">
@@ -1672,7 +1678,7 @@
         <String name="DockableViewDockName" value='&quot;DockArea55&quot;' />
     </Archive>
     <Archive name="PerkWindowConfig" code="0">
-        <Int32 name="SelectedTab" value="2" />
+        <Int32 name="SelectedTab" value="1" />
         <Rect name="WindowFrame" value="Rect(600.000000,395.000000,1336.000000,687.000000)" />
         <Bool name="WindowPinButtonState" value="true" />
     </Archive>
@@ -1765,12 +1771,12 @@
     <Value name="ShowFightTargetNCU" value="false" />
     <Value name="ShowNanoTargetNCU" value="true" />
     <Archive name="SignupTerminalConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(615.000000,295.000000,1253.000000,339.000000)" />
+        <Rect name="WindowFrame" value="Rect(569.000000,444.000000,1207.000000,488.000000)" />
         <Bool name="WindowPinButtonState" value="false" />
     </Archive>
     <Archive name="SkillConfig" code="0">
         <Bool name="Minimized" value="false" />
-        <Rect name="WindowFrame" value="Rect(417.000000,240.000000,1130.000000,760.000000)" />
+        <Rect name="WindowFrame" value="Rect(417.000000,240.000000,1138.000000,760.000000)" />
         <Bool name="WindowPinButtonState" value="true" />
     </Archive>
     <Archive name="StatViewConfig" code="0">

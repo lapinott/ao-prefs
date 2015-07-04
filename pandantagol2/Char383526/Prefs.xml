@@ -9,13 +9,13 @@
         <Rect name="WindowFrame" value="Rect(13.000000,144.000000,23.000000,268.000000)" />
     </Archive>
     <Archive name="CCFriendlyHealthBarConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(23.000000,5.000000,836.000000,28.000000)" />
+        <Rect name="WindowFrame" value="Rect(23.000000,5.000000,836.000000,39.000000)" />
     </Archive>
     <Archive name="CCHealthBarConfig" code="0">
         <Rect name="WindowFrame" value="Rect(0.000000,0.000000,10.000000,124.000000)" />
     </Archive>
     <Archive name="CCHostileHealthBarConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(935.000000,13.000000,1748.000000,71.000000)" />
+        <Rect name="WindowFrame" value="Rect(935.000000,13.000000,1748.000000,60.000000)" />
     </Archive>
     <Archive name="CCNanoBarConfig" code="0">
         <Rect name="WindowFrame" value="Rect(0.000000,144.000000,10.000000,268.000000)" />
@@ -780,7 +780,7 @@
     </Archive>
     <Archive name="NanoTargetNCUWindowConfig" code="0">
         <Archive code="0" name="listview_config">
-            <Int32 name="ncu_listview_flags" value="1" />
+            <Int32 name="ncu_listview_flags" value="0" />
             <Array name="col_id">
                 <Int32 value="0" />
                 <Int32 value="1" />
@@ -802,7 +802,7 @@
             <Int32 name="list_sort_order" value="1" />
             <Bool name="listview_mode" value="true" />
         </Archive>
-        <Rect name="WindowFrame" value="Rect(1394.000000,643.000000,1688.000000,799.000000)" />
+        <Rect name="WindowFrame" value="Rect(1394.000000,643.000000,1670.000000,794.000000)" />
         <Bool name="borderless" value="false" />
     </Archive>
     <Archive name="NanoViewConfig" code="0">
@@ -1312,7 +1312,7 @@
     <Value name="NotificationWindowVisibility" value="false" />
     <Value name="NumHotbars" value="3.933544" />
     <Archive name="OptionWindowConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(-16.000000,180.000000,866.000000,670.000000)" />
+        <Rect name="WindowFrame" value="Rect(5.000000,180.000000,887.000000,670.000000)" />
         <Bool name="WindowPinButtonState" value="false" />
         <String name="selected_panel" value='&quot;GUIEquipment Window&quot;' />
         <Array name="open_panel_folders">
@@ -1487,7 +1487,7 @@
     <Value name="VisualFlags" value="639" />
     <Value name="VoiceSndFxType" value="0" />
     <Archive name="WearViewConfig" code="0">
-        <Int32 name="selected_tab" value="3" />
+        <Int32 name="selected_tab" value="0" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
     </Archive>
@@ -1545,7 +1545,7 @@
     <Value name="specialaction_window" value="true" />
     <Value name="stat_window" value="false" />
     <Value name="team_menu" value="true" />
-    <Value name="team_view" value="true" />
+    <Value name="team_view" value="false" />
     <Value name="teleport_target_window" value="false" />
     <Value name="tradeskill_window" value="false" />
     <Value name="wear_window" value="false" />

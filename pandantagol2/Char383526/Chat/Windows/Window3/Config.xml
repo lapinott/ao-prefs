@@ -1,17 +1,17 @@
 <Archive code="0">
     <Array name="selected_group_ids">
         <Int64 value="60130761451" />
-        <Int64 value="60129618047" />
-        <Int64 value="60129617989" />
         <Int64 value="60129618050" />
+        <Int64 value="60129618047" />
         <Int64 value="60129618049" />
+        <Int64 value="60129617989" />
     </Array>
     <Array name="selected_group_names">
         <String value='&quot;Iraid&quot;' />
-        <String value='&quot;Hcnorth&quot;' />
-        <String value='&quot;Hellcom&quot;' />
         <String value='&quot;Hcwest&quot;' />
+        <String value='&quot;Hcnorth&quot;' />
         <String value='&quot;Hceast&quot;' />
+        <String value='&quot;Hellcom&quot;' />
     </Array>
     <Archive code="0" name="log_window_config" />
     <Archive code="0" name="chat_window_config">
