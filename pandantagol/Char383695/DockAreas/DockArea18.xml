@@ -9,7 +9,7 @@
             <String value='&quot;TempContainer_0.xml&quot;' />
         </Array>
         <Bool name="WindowPinButtonState" value="true" />
-        <Rect name="WindowFrame" value="Rect(830.000000,416.000000,1016.000000,591.000000)" />
+        <Rect name="WindowFrame" value="Rect(830.000000,416.000000,1005.000000,591.000000)" />
         <Int32 name="selected_tab" value="-1" />
     </Archive>
     <String name="dock_type" value='&quot;DockTabbedWindow&quot;' />
