@@ -25,8 +25,8 @@
     <Archive name="LauncherConfig" code="0">
         <Bool name="FirstLaunch" value="false" />
         <String name="SelectedDimension" value='&quot;&quot;' />
-        <Int16 name="DisplayXPos" value="496" />
-        <Int16 name="DisplayYPos" value="198" />
+        <Int16 name="DisplayXPos" value="556" />
+        <Int16 name="DisplayYPos" value="220" />
         <Int16 name="NumAccounts" value="5" />
         <String name="Account0" value='&quot;pandantagol&quot;' />
         <String name="Account1" value='&quot;pandantagol2&quot;' />

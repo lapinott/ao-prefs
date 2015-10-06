@@ -15,7 +15,7 @@
         <Rect name="WindowFrame" value="Rect(0.000000,0.000000,10.000000,124.000000)" />
     </Archive>
     <Archive name="CCHostileHealthBarConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(322.000000,45.000000,1135.000000,92.000000)" />
+        <Rect name="WindowFrame" value="Rect(322.000000,45.000000,1135.000000,103.000000)" />
     </Archive>
     <Archive name="CCNanoBarConfig" code="0">
         <Rect name="WindowFrame" value="Rect(0.000000,144.000000,10.000000,268.000000)" />
@@ -117,7 +117,7 @@
         <String name="DockableViewDockName" value='&quot;DockArea2&quot;' />
     </Archive>
     <Archive name="InspectViewConfig" code="0">
-        <Int32 name="selected_tab" value="3" />
+        <Int32 name="selected_tab" value="0" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;DockArea17&quot;' />
     </Archive>
@@ -810,7 +810,7 @@
     </Archive>
     <Archive name="NanoViewConfig" code="0">
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
-        <Int32 name="selected_school" value="5" />
+        <Int32 name="selected_school" value="4" />
         <Bool name="listview_mode" value="false" />
         <Archive code="0" name="listview_config0">
             <Array name="col_id">
@@ -1250,6 +1250,7 @@
                 <Identity value="Identity(53019,83943)" />
                 <Identity value="Identity(53019,27098)" />
                 <Identity value="Identity(53019,83944)" />
+                <Identity value="Identity(53019,270540)" />
                 <Identity value="Identity(53019,300846)" />
                 <Identity value="Identity(53019,290584)" />
                 <Identity value="Identity(53019,290473)" />
@@ -1433,10 +1434,11 @@
                 <IPoint value="IPoint(2,13)" />
                 <IPoint value="IPoint(0,14)" />
                 <IPoint value="IPoint(1,14)" />
-                <IPoint value="IPoint(2,7)" />
                 <IPoint value="IPoint(0,0)" />
+                <IPoint value="IPoint(2,7)" />
                 <IPoint value="IPoint(1,0)" />
                 <IPoint value="IPoint(2,0)" />
+                <IPoint value="IPoint(0,1)" />
                 <IPoint value="IPoint(1,1)" />
                 <IPoint value="IPoint(2,1)" />
                 <IPoint value="IPoint(0,2)" />
@@ -1638,6 +1640,7 @@
                 <Int32 value="4" />
                 <Int32 value="4" />
                 <Int32 value="4" />
+                <Int32 value="4" />
                 <Int32 value="5" />
                 <Int32 value="5" />
                 <Int32 value="5" />
@@ -1653,7 +1656,7 @@
     <Archive name="OptionWindowConfig" code="0">
         <Rect name="WindowFrame" value="Rect(297.000000,297.000000,1218.000000,747.000000)" />
         <Bool name="WindowPinButtonState" value="false" />
-        <String name="selected_panel" value='&quot;GUIControl Center&quot;' />
+        <String name="selected_panel" value='&quot;AudioAudio Settings&quot;' />
         <Array name="open_panel_folders">
             <String value='&quot;Audio&quot;' />
             <String value='&quot;Video&quot;' />
@@ -1866,7 +1869,7 @@
     <Value name="cc_rollup_panel" value="true" />
     <Value name="cc_section1" value="true" />
     <Value name="cc_xp_bar" value="true" />
-    <Value name="char_menu" value="true" />
+    <Value name="char_menu" value="false" />
     <Value name="chat_group_window" value="false" />
     <Value name="chat_system_active" value="true" />
     <Value name="command_menu" value="false" />
@@ -1884,7 +1887,7 @@
     <Value name="mechselect_window" value="false" />
     <Value name="mission_window" value="false" />
     <Value name="nano_window" value="false" />
-    <Value name="ncu_window" value="true" />
+    <Value name="ncu_window" value="false" />
     <Value name="notification_window" value="true" />
     <Value name="perk_window" value="false" />
     <Value name="pet_window" value="false" />

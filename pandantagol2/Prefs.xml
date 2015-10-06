@@ -34,7 +34,7 @@
     <Value name="PlanetMapIndexFile" value='&quot;Normal/PlanetMapIndexNormal.txt&quot;' />
     <Value name="RMBMouseLook1st" value="true" />
     <Value name="RMBMouseLook3rd" value="true" />
-    <Value name="SelectedCharacter" value="1" />
+    <Value name="SelectedCharacter" value="0" />
     <Value name="ShadowlandMapIndexFile" value='&quot;AoSL/AoSL.txt&quot;' />
     <Value name="ShortcutNewNanos" value="false" />
     <Value name="ShortcutShortTooltips" value="true" />

@@ -26,13 +26,13 @@
     </Archive>
     <Archive code="0" name="item_position_map">
         <Array name="item_id">
-            <Identity value="Identity(107,7471104)" />
-            <Identity value="Identity(107,7471105)" />
-            <Identity value="Identity(107,7471106)" />
-            <Identity value="Identity(107,7471107)" />
-            <Identity value="Identity(107,7471112)" />
-            <Identity value="Identity(107,7471109)" />
-            <Identity value="Identity(107,7471110)" />
+            <Identity value="Identity(107,7405568)" />
+            <Identity value="Identity(107,7405569)" />
+            <Identity value="Identity(107,7405570)" />
+            <Identity value="Identity(107,7405571)" />
+            <Identity value="Identity(107,7405576)" />
+            <Identity value="Identity(107,7405573)" />
+            <Identity value="Identity(107,7405574)" />
         </Array>
         <Array name="item_pos">
             <IPoint value="IPoint(0,0)" />
