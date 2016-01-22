@@ -1,23 +1,23 @@
 <Archive code="0">
     <Array name="selected_group_ids">
         <Int64 value="63341908729" />
-        <Int64 value="63341908731" />
-        <Int64 value="61640879525" />
         <Int64 value="60375310493" />
-        <Int64 value="60130761451" />
+        <Int64 value="61640879525" />
+        <Int64 value="63341908731" />
+        <Int64 value="60129617989" />
         <Int64 value="63341908725" />
         <Int64 value="60130760820" />
-        <Int64 value="60129617989" />
+        <Int64 value="60130761451" />
     </Array>
     <Array name="selected_group_names">
         <String value='&quot;Hceast&quot;' />
+        <String value='&quot;Lootius&quot;' />
+        <String value='&quot;Hellcom&quot;' />
         <String value='&quot;Hcwest&quot;' />
         <String value='&quot;Hellcom&quot;' />
-        <String value='&quot;Lootius&quot;' />
-        <String value='&quot;Iraid&quot;' />
         <String value='&quot;Hcnorth&quot;' />
         <String value='&quot;Iraid2&quot;' />
-        <String value='&quot;Hellcom&quot;' />
+        <String value='&quot;Iraid&quot;' />
     </Array>
     <Archive code="0" name="log_window_config" />
     <Archive code="0" name="chat_window_config">

@@ -42,9 +42,9 @@
             <Identity value="Identity(107,6946826)" />
             <Identity value="Identity(107,6946819)" />
             <Identity value="Identity(107,6946829)" />
-            <Identity value="Identity(107,6946816)" />
             <Identity value="Identity(107,6946831)" />
             <Identity value="Identity(107,6946825)" />
+            <Identity value="Identity(107,6946816)" />
             <Identity value="Identity(107,6946833)" />
             <Identity value="Identity(107,6946836)" />
         </Array>
@@ -65,9 +65,9 @@
             <IPoint value="IPoint(1,4)" />
             <IPoint value="IPoint(1,1)" />
             <IPoint value="IPoint(2,1)" />
-            <IPoint value="IPoint(0,0)" />
             <IPoint value="IPoint(2,4)" />
             <IPoint value="IPoint(2,5)" />
+            <IPoint value="IPoint(0,0)" />
             <IPoint value="IPoint(0,6)" />
             <IPoint value="IPoint(1,6)" />
         </Array>

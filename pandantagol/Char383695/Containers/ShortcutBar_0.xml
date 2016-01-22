@@ -19,7 +19,6 @@
             <Identity value="Identity(53019,218168)" />
             <Identity value="Identity(53019,275692)" />
             <Identity value="Identity(53019,273386)" />
-            <Identity value="Identity(53019,266281)" />
             <Identity value="Identity(53019,201523)" />
             <Identity value="Identity(53019,28620)" />
             <Identity value="Identity(53019,273386)" />
@@ -62,6 +61,7 @@
             <Identity value="Identity(115,60)" />
             <Identity value="Identity(53019,302548)" />
             <Identity value="Identity(104,71)" />
+            <Identity value="Identity(53019,266281)" />
         </Array>
         <Array name="item_pos">
             <IPoint value="IPoint(0,1)" />
@@ -80,7 +80,6 @@
             <IPoint value="IPoint(2,0)" />
             <IPoint value="IPoint(5,0)" />
             <IPoint value="IPoint(2,1)" />
-            <IPoint value="IPoint(1,0)" />
             <IPoint value="IPoint(7,8)" />
             <IPoint value="IPoint(0,2)" />
             <IPoint value="IPoint(3,2)" />
@@ -123,6 +122,7 @@
             <IPoint value="IPoint(4,8)" />
             <IPoint value="IPoint(0,7)" />
             <IPoint value="IPoint(7,0)" />
+            <IPoint value="IPoint(1,0)" />
         </Array>
     </Archive>
     <Int32 name="selected_bar" value="0" />

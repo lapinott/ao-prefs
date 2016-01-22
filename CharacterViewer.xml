@@ -2,7 +2,7 @@
     <Array name="Character">
         <Archive code="0">
             <Int32 name="ID" value="383526" />
-            <Int32 name="Time" value="1436726150" />
+            <Int32 name="Time" value="1453501300" />
             <Int32 name="MeshID" value="23366" />
             <Int32 name="HeadID" value="40114" />
             <Int32 name="Breed" value="4" />
@@ -227,7 +227,7 @@
         </Archive>
         <Archive code="0">
             <Int32 name="ID" value="383695" />
-            <Int32 name="Time" value="1443822320" />
+            <Int32 name="Time" value="1453501253" />
             <Int32 name="MeshID" value="23371" />
             <Int32 name="HeadID" value="40149" />
             <Int32 name="Breed" value="3" />
@@ -275,8 +275,8 @@
                 <Archive code="0">
                     <Int8 name="Attractor" value="0" />
                     <Int8 name="Flags" value="2" />
-                    <Int32 name="MeshID" value="302553" />
-                    <Int32 name="TextureID" value="0" />
+                    <Int32 name="MeshID" value="20023" />
+                    <Int32 name="TextureID" value="40579" />
                 </Archive>
                 <Archive code="0">
                     <Int8 name="Attractor" value="0" />
@@ -1413,7 +1413,7 @@
         </Archive>
         <Archive code="0">
             <Int32 name="ID" value="184723405" />
-            <Int32 name="Time" value="1436047958" />
+            <Int32 name="Time" value="1452387383" />
             <Int32 name="MeshID" value="23370" />
             <Int32 name="HeadID" value="223915" />
             <Int32 name="Breed" value="3" />
@@ -1473,7 +1473,7 @@
                 <Archive code="0">
                     <Int8 name="Attractor" value="1" />
                     <Int8 name="Flags" value="2" />
-                    <Int32 name="MeshID" value="264715" />
+                    <Int32 name="MeshID" value="154502" />
                     <Int32 name="TextureID" value="0" />
                 </Archive>
                 <Archive code="0">

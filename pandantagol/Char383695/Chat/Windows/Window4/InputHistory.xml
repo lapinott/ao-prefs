@@ -1,6 +1,4 @@
 <Root>
-    <TextLine text="/tell hellcom bid 105" />
-    <TextLine text="/tell hellcom bid 107" />
     <TextLine text="/tell hellcom bid 109" />
     <TextLine text="110 uhu..." />
     <TextLine text="/tell hellcom join" />
@@ -199,4 +197,6 @@
     <TextLine text="kewl :)" />
     <TextLine text="thx" />
     <TextLine text="/ballet" />
+    <TextLine text="/disco" />
+    <TextLine text="/rocky" />
 </Root>

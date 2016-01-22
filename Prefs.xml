@@ -9,7 +9,7 @@
     <Value name="DisplayBorderless" value="1" />
     <Value name="DisplayCompressedTextures" value="0" />
     <Value name="DisplayDeviceGUID" value='&quot;f5049e78-4861-11d2-a407-00a0c90629a8&quot;' />
-    <Value name="DisplayDriverGUID" value='&quot;00000000-0000-0000-0000-000000000000&quot;' />
+    <Value name="DisplayDriverGUID" value='&quot;6768555d-3106-11d0-b971-00aa00342f9f&quot;' />
     <Value name="DisplayFullscreen" value="false" />
     <Value name="DisplayHeight" value="1080" />
     <Value name="DisplayOtherTextureQuality" value="3" />
@@ -33,7 +33,7 @@
         <String name="Account2" value='&quot;pandantagol3&quot;' />
         <String name="Account3" value='&quot;thrangor&quot;' />
         <String name="Account4" value='&quot;cerro1&quot;' />
-        <Int16 name="SelectedAccount" value="0" />
+        <Int16 name="SelectedAccount" value="1" />
     </Archive>
     <Value name="PlayIntro" value="0" />
     <Value name="SendDisconnectInfo" value="1" />

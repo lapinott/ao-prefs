@@ -548,14 +548,22 @@
     <Archive name="KnowledgeViewConfig" code="0">
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
         <Array name="item_id">
-            <Identity value="Identity(51080,1)" />
-            <Identity value="Identity(51080,2)" />
-            <Identity value="Identity(51080,3)" />
+            <Identity value="Identity(51080,5)" />
+            <Identity value="Identity(51080,6)" />
+            <Identity value="Identity(51080,7)" />
+            <Identity value="Identity(51080,8)" />
+            <Identity value="Identity(51080,9)" />
+            <Identity value="Identity(51080,10)" />
+            <Identity value="Identity(50000,518015)" />
         </Array>
         <Array name="item_pos">
             <IPoint value="IPoint(0,0)" />
             <IPoint value="IPoint(1,0)" />
             <IPoint value="IPoint(2,0)" />
+            <IPoint value="IPoint(0,1)" />
+            <IPoint value="IPoint(1,1)" />
+            <IPoint value="IPoint(2,1)" />
+            <IPoint value="IPoint(0,2)" />
         </Array>
     </Archive>
     <Archive name="LFTWindowConfig" code="0">
@@ -727,7 +735,7 @@
     </Archive>
     <Archive name="NanoViewConfig" code="0">
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
-        <Int32 name="selected_school" value="3" />
+        <Int32 name="selected_school" value="0" />
         <Bool name="listview_mode" value="false" />
         <Archive code="0" name="listview_config0">
             <Array name="col_id">
@@ -1011,9 +1019,17 @@
         </Archive>
         <Archive code="0" name="item_position_map">
             <Array name="item_id">
+                <Identity value="Identity(53019,26376)" />
+                <Identity value="Identity(53019,26707)" />
+                <Identity value="Identity(53019,26414)" />
+                <Identity value="Identity(53019,27128)" />
+                <Identity value="Identity(53019,26344)" />
+                <Identity value="Identity(53019,26362)" />
+                <Identity value="Identity(53019,27069)" />
                 <Identity value="Identity(53019,56227)" />
                 <Identity value="Identity(53019,56234)" />
                 <Identity value="Identity(53019,294174)" />
+                <Identity value="Identity(53019,223372)" />
                 <Identity value="Identity(53019,26466)" />
                 <Identity value="Identity(53019,76724)" />
                 <Identity value="Identity(53019,76727)" />
@@ -1035,6 +1051,14 @@
                 <Identity value="Identity(53019,76732)" />
                 <Identity value="Identity(53019,76742)" />
                 <Identity value="Identity(53019,43374)" />
+                <Identity value="Identity(53019,302158)" />
+                <Identity value="Identity(53019,287046)" />
+                <Identity value="Identity(53019,287040)" />
+                <Identity value="Identity(53019,223364)" />
+                <Identity value="Identity(53019,223348)" />
+                <Identity value="Identity(53019,215264)" />
+                <Identity value="Identity(53019,223380)" />
+                <Identity value="Identity(53019,223360)" />
                 <Identity value="Identity(53019,302535)" />
                 <Identity value="Identity(53019,302548)" />
                 <Identity value="Identity(53019,26441)" />
@@ -1091,9 +1115,17 @@
                 <Identity value="Identity(53019,30720)" />
             </Array>
             <Array name="item_pos">
+                <IPoint value="IPoint(1,2)" />
+                <IPoint value="IPoint(0,2)" />
+                <IPoint value="IPoint(3,1)" />
+                <IPoint value="IPoint(2,1)" />
+                <IPoint value="IPoint(1,1)" />
+                <IPoint value="IPoint(3,0)" />
+                <IPoint value="IPoint(0,1)" />
                 <IPoint value="IPoint(2,0)" />
                 <IPoint value="IPoint(0,0)" />
                 <IPoint value="IPoint(1,0)" />
+                <IPoint value="IPoint(1,5)" />
                 <IPoint value="IPoint(0,0)" />
                 <IPoint value="IPoint(3,4)" />
                 <IPoint value="IPoint(2,4)" />
@@ -1115,6 +1147,14 @@
                 <IPoint value="IPoint(0,1)" />
                 <IPoint value="IPoint(0,4)" />
                 <IPoint value="IPoint(0,5)" />
+                <IPoint value="IPoint(0,14)" />
+                <IPoint value="IPoint(3,13)" />
+                <IPoint value="IPoint(2,13)" />
+                <IPoint value="IPoint(1,13)" />
+                <IPoint value="IPoint(0,13)" />
+                <IPoint value="IPoint(3,12)" />
+                <IPoint value="IPoint(2,12)" />
+                <IPoint value="IPoint(3,11)" />
                 <IPoint value="IPoint(0,0)" />
                 <IPoint value="IPoint(1,0)" />
                 <IPoint value="IPoint(2,0)" />
@@ -1174,6 +1214,13 @@
                 <Int32 value="0" />
                 <Int32 value="0" />
                 <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
                 <Int32 value="1" />
                 <Int32 value="1" />
                 <Int32 value="1" />
@@ -1195,6 +1242,15 @@
                 <Int32 value="1" />
                 <Int32 value="1" />
                 <Int32 value="1" />
+                <Int32 value="1" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
                 <Int32 value="3" />
                 <Int32 value="3" />
                 <Int32 value="3" />
@@ -1261,7 +1317,6 @@
     <Archive name="OptionWindowConfig" code="0">
         <Rect name="WindowFrame" value="Rect(200.000000,200.000000,1177.000000,761.000000)" />
         <Bool name="WindowPinButtonState" value="false" />
-        <String name="selected_panel" value='&quot;GUIEquipment Window&quot;' />
         <Array name="open_panel_folders">
             <String value='&quot;Audio&quot;' />
             <String value='&quot;Video&quot;' />
@@ -1269,6 +1324,7 @@
             <String value='&quot;Controls&quot;' />
             <String value='&quot;Behaviour&quot;' />
         </Array>
+        <String name="selected_panel" value='&quot;BehaviourBehaviour Settings&quot;' />
         <Int32 name="selected_tab" value="0" />
         <Float name="panel_list_scroll_offset" value="0.000000" />
         <Archive code="0" name="hotkey_config">
@@ -1438,9 +1494,9 @@
     <Value name="command_menu" value="false" />
     <Value name="control_center_active" value="true" />
     <Value name="faction_window" value="false" />
-    <Value name="friends_window" value="false" />
+    <Value name="friends_window" value="true" />
     <Value name="inventory_window" value="false" />
-    <Value name="itemshop_window" value="true" />
+    <Value name="itemshop_window" value="false" />
     <Value name="knowledge_window" value="false" />
     <Value name="lasertarget_window" value="false" />
     <Value name="lft_window" value="false" />
@@ -1449,7 +1505,7 @@
     <Value name="map_window" value="false" />
     <Value name="mechselect_window" value="false" />
     <Value name="mission_window" value="false" />
-    <Value name="nano_window" value="true" />
+    <Value name="nano_window" value="false" />
     <Value name="ncu_window" value="true" />
     <Value name="notification_window" value="true" />
     <Value name="perk_window" value="false" />

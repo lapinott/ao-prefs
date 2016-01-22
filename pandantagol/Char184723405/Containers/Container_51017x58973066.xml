@@ -26,12 +26,9 @@
     </Archive>
     <Archive code="0" name="item_position_map">
         <Array name="item_id">
-            <Identity value="Identity(107,6881280)" />
             <Identity value="Identity(107,6881281)" />
             <Identity value="Identity(107,6881282)" />
             <Identity value="Identity(107,6881283)" />
-            <Identity value="Identity(107,6881284)" />
-            <Identity value="Identity(107,6881285)" />
             <Identity value="Identity(107,6881286)" />
             <Identity value="Identity(107,6881289)" />
             <Identity value="Identity(107,6881287)" />
@@ -44,17 +41,16 @@
             <Identity value="Identity(107,6881295)" />
             <Identity value="Identity(107,6881299)" />
             <Identity value="Identity(107,6881300)" />
-            <Identity value="Identity(107,6881297)" />
             <Identity value="Identity(107,6881298)" />
             <Identity value="Identity(107,6881296)" />
+            <Identity value="Identity(107,6881284)" />
+            <Identity value="Identity(107,6881285)" />
+            <Identity value="Identity(107,6881280)" />
         </Array>
         <Array name="item_pos">
-            <IPoint value="IPoint(0,0)" />
             <IPoint value="IPoint(1,0)" />
             <IPoint value="IPoint(2,0)" />
             <IPoint value="IPoint(0,1)" />
-            <IPoint value="IPoint(1,1)" />
-            <IPoint value="IPoint(2,1)" />
             <IPoint value="IPoint(0,2)" />
             <IPoint value="IPoint(0,3)" />
             <IPoint value="IPoint(1,2)" />
@@ -67,9 +63,11 @@
             <IPoint value="IPoint(0,5)" />
             <IPoint value="IPoint(1,6)" />
             <IPoint value="IPoint(2,6)" />
-            <IPoint value="IPoint(2,5)" />
             <IPoint value="IPoint(0,6)" />
             <IPoint value="IPoint(1,5)" />
+            <IPoint value="IPoint(0,0)" />
+            <IPoint value="IPoint(1,1)" />
+            <IPoint value="IPoint(2,1)" />
         </Array>
     </Archive>
 </Archive>

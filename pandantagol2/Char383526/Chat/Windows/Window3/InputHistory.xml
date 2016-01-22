@@ -194,9 +194,9 @@
     <TextLine text="english plz" />
     <TextLine text="/tell hellcom join" />
     <TextLine text="/tell hellcom register" />
-    <TextLine text="/tell hellcom !join" cursor_pos="15" />
     <TextLine text="/S :/" />
     <TextLine text="/disco" />
     <TextLine text="fail" />
     <TextLine text="/tell Nookenbrah hi" />
+    <TextLine text="/tell hellcom !join" cursor_pos="21" />
 </Root>
