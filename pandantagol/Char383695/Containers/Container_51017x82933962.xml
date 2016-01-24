@@ -1,5 +1,5 @@
 <Archive code="0">
-    <String name="DockableViewDockName" value='&quot;DockArea16&quot;' />
+    <String name="DockableViewDockName" value='&quot;DockArea226&quot;' />
     <Point name="scroll_offset" value="Point(0.000000,0.000000)" />
     <Archive code="0" name="listview_config">
         <Array name="col_id">
@@ -26,20 +26,16 @@
     </Archive>
     <Archive code="0" name="item_position_map">
         <Array name="item_id">
-            <Identity value="Identity(107,7012354)" />
-            <Identity value="Identity(107,7012355)" />
-            <Identity value="Identity(107,7012356)" />
-            <Identity value="Identity(107,7012357)" />
             <Identity value="Identity(107,7012352)" />
             <Identity value="Identity(107,7012353)" />
+            <Identity value="Identity(107,7012354)" />
+            <Identity value="Identity(107,7012355)" />
         </Array>
         <Array name="item_pos">
-            <IPoint value="IPoint(2,0)" />
-            <IPoint value="IPoint(0,1)" />
-            <IPoint value="IPoint(1,1)" />
-            <IPoint value="IPoint(2,1)" />
             <IPoint value="IPoint(0,0)" />
             <IPoint value="IPoint(1,0)" />
+            <IPoint value="IPoint(2,0)" />
+            <IPoint value="IPoint(0,1)" />
         </Array>
     </Archive>
 </Archive>

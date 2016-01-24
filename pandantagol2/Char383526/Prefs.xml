@@ -9,13 +9,13 @@
         <Rect name="WindowFrame" value="Rect(13.000000,144.000000,23.000000,268.000000)" />
     </Archive>
     <Archive name="CCFriendlyHealthBarConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(23.000000,5.000000,836.000000,28.000000)" />
+        <Rect name="WindowFrame" value="Rect(23.000000,5.000000,836.000000,65.000000)" />
     </Archive>
     <Archive name="CCHealthBarConfig" code="0">
         <Rect name="WindowFrame" value="Rect(0.000000,0.000000,10.000000,124.000000)" />
     </Archive>
     <Archive name="CCHostileHealthBarConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(935.000000,13.000000,1748.000000,71.000000)" />
+        <Rect name="WindowFrame" value="Rect(935.000000,13.000000,1748.000000,60.000000)" />
     </Archive>
     <Archive name="CCNanoBarConfig" code="0">
         <Rect name="WindowFrame" value="Rect(0.000000,144.000000,10.000000,268.000000)" />
@@ -632,7 +632,7 @@
         <Int32 name="SelectedSide" value="7" />
         <Int32 name="SelectedLocation" value="1" />
         <Int32 name="SelectedProfession" value="16" />
-        <String name="TeamDesc" value='&quot;POH 220 enf/nt&quot;' />
+        <String name="TeamDesc" value='&quot;PoH 220 enf/nt&quot;' />
         <Float name="NameColWidth" value="120.000000" />
         <Float name="LevelColWidth" value="30.000000" />
         <Float name="SideColWidth" value="50.000000" />
@@ -640,7 +640,7 @@
         <Float name="LocationColWidth" value="180.000000" />
         <Float name="DescColWidth" value="486.000000" />
         <Rect name="WindowFrame" value="Rect(469.000000,226.000000,1434.000000,763.000000)" />
-        <Bool name="WindowPinButtonState" value="false" />
+        <Bool name="WindowPinButtonState" value="true" />
     </Archive>
     <Archive name="LaserTargetConfig" code="0" />
     <Value name="LockEquipment" value="false" />
@@ -780,7 +780,7 @@
     </Archive>
     <Archive name="NanoTargetNCUWindowConfig" code="0">
         <Archive code="0" name="listview_config">
-            <Int32 name="ncu_listview_flags" value="0" />
+            <Int32 name="ncu_listview_flags" value="1" />
             <Array name="col_id">
                 <Int32 value="0" />
                 <Int32 value="1" />
@@ -798,11 +798,11 @@
             </Array>
             <Int32 name="grid_sort_column" value="12" />
             <Int32 name="grid_sort_order" value="0" />
-            <Int32 name="list_sort_column" value="1" />
-            <Int32 name="list_sort_order" value="1" />
+            <Int32 name="list_sort_column" value="12" />
+            <Int32 name="list_sort_order" value="0" />
             <Bool name="listview_mode" value="true" />
         </Archive>
-        <Rect name="WindowFrame" value="Rect(1394.000000,643.000000,1670.000000,794.000000)" />
+        <Rect name="WindowFrame" value="Rect(1394.000000,643.000000,1696.000000,798.000000)" />
         <Bool name="borderless" value="false" />
     </Archive>
     <Archive name="NanoViewConfig" code="0">
@@ -1427,7 +1427,7 @@
     </Archive>
     <Archive name="SkillConfig" code="0">
         <Bool name="Minimized" value="false" />
-        <Rect name="WindowFrame" value="Rect(36.000000,333.000000,746.000000,853.000000)" />
+        <Rect name="WindowFrame" value="Rect(163.000000,330.000000,873.000000,850.000000)" />
         <Bool name="WindowPinButtonState" value="true" />
     </Archive>
     <Archive name="StatViewConfig" code="0">
@@ -1547,8 +1547,8 @@
     <Value name="skill_window" value="false" />
     <Value name="specialaction_window" value="true" />
     <Value name="stat_window" value="false" />
-    <Value name="team_menu" value="true" />
-    <Value name="team_view" value="true" />
+    <Value name="team_menu" value="false" />
+    <Value name="team_view" value="false" />
     <Value name="teleport_target_window" value="false" />
     <Value name="tradeskill_window" value="false" />
     <Value name="wear_window" value="false" />

@@ -1,6 +1,6 @@
 <Archive code="0">
     <String name="DockableViewDockName" value='&quot;DockArea12&quot;' />
-    <Point name="scroll_offset" value="Point(0.000000,0.000000)" />
+    <Point name="scroll_offset" value="Point(0.000000,-232.000000)" />
     <Archive code="0" name="listview_config">
         <Array name="col_id">
             <Int32 value="0" />
@@ -40,12 +40,12 @@
             <Identity value="Identity(107,6881298)" />
             <Identity value="Identity(107,6881287)" />
             <Identity value="Identity(107,6881280)" />
-            <Identity value="Identity(107,6881282)" />
             <Identity value="Identity(107,6881294)" />
             <Identity value="Identity(107,6881295)" />
-            <Identity value="Identity(107,6881285)" />
             <Identity value="Identity(107,6881296)" />
             <Identity value="Identity(107,6881286)" />
+            <Identity value="Identity(107,6881282)" />
+            <Identity value="Identity(107,6881283)" />
         </Array>
         <Array name="item_pos">
             <IPoint value="IPoint(0,2)" />
@@ -62,12 +62,12 @@
             <IPoint value="IPoint(0,6)" />
             <IPoint value="IPoint(0,1)" />
             <IPoint value="IPoint(0,0)" />
-            <IPoint value="IPoint(0,5)" />
             <IPoint value="IPoint(2,0)" />
             <IPoint value="IPoint(1,1)" />
-            <IPoint value="IPoint(1,5)" />
             <IPoint value="IPoint(2,5)" />
             <IPoint value="IPoint(2,1)" />
+            <IPoint value="IPoint(0,5)" />
+            <IPoint value="IPoint(1,5)" />
         </Array>
     </Archive>
 </Archive>

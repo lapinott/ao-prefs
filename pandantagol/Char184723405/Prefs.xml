@@ -47,7 +47,6 @@
         <Array name="Locks">
             <Identity value="Identity(102,17)" />
             <Identity value="Identity(101,4)" />
-            <Identity value="Identity(101,7)" />
             <Identity value="Identity(101,13)" />
             <Identity value="Identity(101,12)" />
             <Identity value="Identity(101,11)" />
@@ -83,8 +82,9 @@
             <Identity value="Identity(102,26)" />
             <Identity value="Identity(102,28)" />
             <Identity value="Identity(102,29)" />
-            <Identity value="Identity(101,6)" />
             <Identity value="Identity(102,22)" />
+            <Identity value="Identity(101,7)" />
+            <Identity value="Identity(101,6)" />
         </Array>
     </Archive>
     <Archive name="FactionWindowConfig" code="0" />
@@ -129,7 +129,7 @@
         <String name="DockableViewDockName" value='&quot;DockArea1&quot;' />
     </Archive>
     <Archive name="InspectViewConfig" code="0">
-        <Int32 name="selected_tab" value="0" />
+        <Int32 name="selected_tab" value="3" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;DockArea6&quot;' />
     </Archive>
@@ -1403,7 +1403,7 @@
     <Archive name="SignupTerminalConfig" code="0" />
     <Archive name="SkillConfig" code="0">
         <Bool name="Minimized" value="false" />
-        <Rect name="WindowFrame" value="Rect(438.000000,235.000000,1134.000000,755.000000)" />
+        <Rect name="WindowFrame" value="Rect(438.000000,235.000000,1140.000000,755.000000)" />
         <Bool name="WindowPinButtonState" value="true" />
     </Archive>
     <Archive name="StatViewConfig" code="0">
@@ -1462,7 +1462,7 @@
     <Value name="VisualFlags" value="615" />
     <Value name="VoiceSndFxType" value="0" />
     <Archive name="WearViewConfig" code="0">
-        <Int32 name="selected_tab" value="3" />
+        <Int32 name="selected_tab" value="0" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
     </Archive>
@@ -1494,7 +1494,7 @@
     <Value name="command_menu" value="false" />
     <Value name="control_center_active" value="true" />
     <Value name="faction_window" value="false" />
-    <Value name="friends_window" value="true" />
+    <Value name="friends_window" value="false" />
     <Value name="inventory_window" value="false" />
     <Value name="itemshop_window" value="false" />
     <Value name="knowledge_window" value="false" />
