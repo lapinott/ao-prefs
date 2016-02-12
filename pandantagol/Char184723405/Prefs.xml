@@ -7,7 +7,7 @@
         <Rect name="WindowFrame" value="Rect(13.000000,144.000000,23.000000,268.000000)" />
     </Archive>
     <Archive name="CCFriendlyHealthBarConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(25.000000,5.000000,838.000000,28.000000)" />
+        <Rect name="WindowFrame" value="Rect(25.000000,5.000000,838.000000,39.000000)" />
     </Archive>
     <Archive name="CCHealthBarConfig" code="0">
         <Rect name="WindowFrame" value="Rect(0.000000,0.000000,10.000000,124.000000)" />
@@ -735,7 +735,7 @@
     </Archive>
     <Archive name="NanoViewConfig" code="0">
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
-        <Int32 name="selected_school" value="0" />
+        <Int32 name="selected_school" value="5" />
         <Bool name="listview_mode" value="false" />
         <Archive code="0" name="listview_config0">
             <Array name="col_id">
@@ -1059,7 +1059,6 @@
                 <Identity value="Identity(53019,215264)" />
                 <Identity value="Identity(53019,223380)" />
                 <Identity value="Identity(53019,223360)" />
-                <Identity value="Identity(53019,302535)" />
                 <Identity value="Identity(53019,302548)" />
                 <Identity value="Identity(53019,26441)" />
                 <Identity value="Identity(53019,294056)" />
@@ -1112,6 +1111,8 @@
                 <Identity value="Identity(53019,30713)" />
                 <Identity value="Identity(53019,27188)" />
                 <Identity value="Identity(53019,268697)" />
+                <Identity value="Identity(53019,302544)" />
+                <Identity value="Identity(53019,302535)" />
                 <Identity value="Identity(53019,30720)" />
             </Array>
             <Array name="item_pos">
@@ -1155,7 +1156,6 @@
                 <IPoint value="IPoint(3,12)" />
                 <IPoint value="IPoint(2,12)" />
                 <IPoint value="IPoint(3,11)" />
-                <IPoint value="IPoint(0,0)" />
                 <IPoint value="IPoint(1,0)" />
                 <IPoint value="IPoint(2,0)" />
                 <IPoint value="IPoint(0,1)" />
@@ -1208,6 +1208,8 @@
                 <IPoint value="IPoint(2,0)" />
                 <IPoint value="IPoint(1,0)" />
                 <IPoint value="IPoint(0,1)" />
+                <IPoint value="IPoint(2,0)" />
+                <IPoint value="IPoint(1,0)" />
                 <IPoint value="IPoint(0,0)" />
             </Array>
             <Array name="item_school">
@@ -1299,11 +1301,12 @@
                 <Int32 value="3" />
                 <Int32 value="3" />
                 <Int32 value="3" />
-                <Int32 value="3" />
                 <Int32 value="4" />
                 <Int32 value="4" />
                 <Int32 value="4" />
                 <Int32 value="4" />
+                <Int32 value="5" />
+                <Int32 value="5" />
                 <Int32 value="5" />
             </Array>
         </Archive>
@@ -1349,11 +1352,11 @@
     <Value name="PetName6" value='&quot;&quot;' />
     <Archive name="PetWindowConfig" code="0" />
     <Archive name="PetitionWindowConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(559.000000,239.000000,1359.000000,839.000000)" />
+        <Rect name="WindowFrame" value="Rect(574.000000,179.000000,1374.000000,779.000000)" />
         <Bool name="WindowPinButtonState" value="false" />
     </Archive>
     <Archive name="PlanetMapViewConfig" code="0">
-        <Int32 name="ZoomLev" value="0" />
+        <Int32 name="ZoomLev" value="2" />
         <Bool name="FirstTime" value="false" />
         <Bool name="ShowButtons" value="true" />
         <String name="DockableViewDockName" value='&quot;PlanetMapViewConfig&quot;' />
@@ -1462,7 +1465,7 @@
     <Value name="VisualFlags" value="615" />
     <Value name="VoiceSndFxType" value="0" />
     <Archive name="WearViewConfig" code="0">
-        <Int32 name="selected_tab" value="0" />
+        <Int32 name="selected_tab" value="3" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
     </Archive>
@@ -1505,7 +1508,7 @@
     <Value name="map_window" value="false" />
     <Value name="mechselect_window" value="false" />
     <Value name="mission_window" value="false" />
-    <Value name="nano_window" value="false" />
+    <Value name="nano_window" value="true" />
     <Value name="ncu_window" value="true" />
     <Value name="notification_window" value="true" />
     <Value name="perk_window" value="false" />

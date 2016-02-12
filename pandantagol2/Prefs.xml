@@ -31,7 +31,7 @@
     <Value name="MusicOn" value="false" />
     <Value name="MusicVolume" value="1.000000" />
     <Value name="OpenNanoWindow" value="true" />
-    <Value name="PlanetMapIndexFile" value='&quot;Normal/PlanetMapIndexNormal.txt&quot;' />
+    <Value name="PlanetMapIndexFile" value='&quot;AoRK/AoRK-Atlantean.txt&quot;' />
     <Value name="RMBMouseLook1st" value="true" />
     <Value name="RMBMouseLook3rd" value="true" />
     <Value name="SelectedCharacter" value="0" />

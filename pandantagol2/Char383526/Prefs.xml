@@ -9,7 +9,7 @@
         <Rect name="WindowFrame" value="Rect(13.000000,144.000000,23.000000,268.000000)" />
     </Archive>
     <Archive name="CCFriendlyHealthBarConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(23.000000,5.000000,836.000000,65.000000)" />
+        <Rect name="WindowFrame" value="Rect(23.000000,5.000000,836.000000,28.000000)" />
     </Archive>
     <Archive name="CCHealthBarConfig" code="0">
         <Rect name="WindowFrame" value="Rect(0.000000,0.000000,10.000000,124.000000)" />
@@ -632,7 +632,7 @@
         <Int32 name="SelectedSide" value="7" />
         <Int32 name="SelectedLocation" value="1" />
         <Int32 name="SelectedProfession" value="16" />
-        <String name="TeamDesc" value='&quot;PoH 220 enf/nt&quot;' />
+        <String name="TeamDesc" value='&quot;Beast / PoH 220 enf/nt&quot;' />
         <Float name="NameColWidth" value="120.000000" />
         <Float name="LevelColWidth" value="30.000000" />
         <Float name="SideColWidth" value="50.000000" />
@@ -1310,7 +1310,7 @@
     </Archive>
     <Archive name="NotificationWindowConfig" code="0">
         <Bool name="ClickableLinks" value="true" />
-        <Rect name="WindowFrame" value="Rect(5.000000,25.000000,1915.000000,355.000000)" />
+        <Rect name="WindowFrame" value="Rect(4.000000,25.000000,1914.000000,355.000000)" />
     </Archive>
     <Value name="NotificationWindowVisibility" value="false" />
     <Value name="NumHotbars" value="3.933544" />
@@ -1357,7 +1357,7 @@
         <Bool name="WindowPinButtonState" value="false" />
     </Archive>
     <Archive name="PlanetMapViewConfig" code="0">
-        <Int32 name="ZoomLev" value="2" />
+        <Int32 name="ZoomLev" value="0" />
         <Bool name="FirstTime" value="false" />
         <Bool name="ShowButtons" value="true" />
         <String name="DockableViewDockName" value='&quot;PlanetMapViewConfig&quot;' />
@@ -1490,7 +1490,7 @@
     <Value name="VisualFlags" value="639" />
     <Value name="VoiceSndFxType" value="0" />
     <Archive name="WearViewConfig" code="0">
-        <Int32 name="selected_tab" value="3" />
+        <Int32 name="selected_tab" value="1" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
     </Archive>
@@ -1527,10 +1527,10 @@
     <Value name="itemshop_window" value="false" />
     <Value name="knowledge_window" value="false" />
     <Value name="lasertarget_window" value="false" />
-    <Value name="lft_window" value="false" />
+    <Value name="lft_window" value="true" />
     <Value name="mail_window" value="false" />
     <Value name="map_menu" value="false" />
-    <Value name="map_window" value="true" />
+    <Value name="map_window" value="false" />
     <Value name="mechselect_window" value="false" />
     <Value name="mission_window" value="false" />
     <Value name="nano_window" value="false" />

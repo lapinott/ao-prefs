@@ -1,0 +1,11 @@
+<Archive code="0">
+    <Archive code="0" name="dock_config">
+        <Archive code="0" name="dock_node_configs" />
+        <String name="docked_view_identities" value='&quot;mission_window&quot;' />
+        <Bool name="WindowPinButtonState" value="true" />
+        <Rect name="WindowFrame" value="Rect(1387.000000,659.000000,1695.000000,807.000000)" />
+        <Int32 name="selected_tab" value="0" />
+    </Archive>
+    <String name="dock_type" value='&quot;DockTabbedWindow&quot;' />
+    <String name="dock_name" value='&quot;DockArea5&quot;' />
+</Archive>

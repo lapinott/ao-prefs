@@ -39,7 +39,6 @@
             <Identity value="Identity(104,79)" />
             <Identity value="Identity(104,83)" />
             <Identity value="Identity(104,84)" />
-            <Identity value="Identity(104,67)" />
             <Identity value="Identity(104,68)" />
             <Identity value="Identity(104,72)" />
         </Array>
@@ -57,9 +56,8 @@
             <IPoint value="IPoint(2,2)" />
             <IPoint value="IPoint(4,1)" />
             <IPoint value="IPoint(1,1)" />
-            <IPoint value="IPoint(3,2)" />
             <IPoint value="IPoint(4,2)" />
-            <IPoint value="IPoint(0,3)" />
+            <IPoint value="IPoint(3,2)" />
         </Array>
     </Archive>
 </Archive>
