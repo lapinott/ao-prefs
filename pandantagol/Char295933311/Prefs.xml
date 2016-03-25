@@ -37,45 +37,31 @@
     <Value name="DisableInspect" value="false" />
     <Archive name="EquipmentLocks" code="0">
         <Array name="Locks">
-            <Identity value="Identity(101,4)" />
-            <Identity value="Identity(102,17)" />
-            <Identity value="Identity(101,5)" />
+            <Identity value="Identity(101,1)" />
+            <Identity value="Identity(101,15)" />
             <Identity value="Identity(101,2)" />
+            <Identity value="Identity(101,5)" />
+            <Identity value="Identity(101,4)" />
+            <Identity value="Identity(101,6)" />
             <Identity value="Identity(101,7)" />
-            <Identity value="Identity(101,14)" />
-            <Identity value="Identity(101,13)" />
-            <Identity value="Identity(101,10)" />
             <Identity value="Identity(101,9)" />
+            <Identity value="Identity(101,10)" />
             <Identity value="Identity(101,11)" />
             <Identity value="Identity(101,12)" />
-            <Identity value="Identity(103,39)" />
-            <Identity value="Identity(101,15)" />
-            <Identity value="Identity(102,18)" />
-            <Identity value="Identity(101,1)" />
-            <Identity value="Identity(103,44)" />
-            <Identity value="Identity(101,3)" />
+            <Identity value="Identity(101,13)" />
+            <Identity value="Identity(101,14)" />
+            <Identity value="Identity(102,17)" />
             <Identity value="Identity(102,19)" />
-            <Identity value="Identity(103,36)" />
-            <Identity value="Identity(103,38)" />
-            <Identity value="Identity(103,35)" />
-            <Identity value="Identity(103,41)" />
-            <Identity value="Identity(103,42)" />
-            <Identity value="Identity(103,40)" />
+            <Identity value="Identity(102,18)" />
             <Identity value="Identity(102,20)" />
-            <Identity value="Identity(103,43)" />
-            <Identity value="Identity(103,45)" />
-            <Identity value="Identity(102,22)" />
             <Identity value="Identity(102,21)" />
-            <Identity value="Identity(102,24)" />
-            <Identity value="Identity(102,27)" />
-            <Identity value="Identity(102,30)" />
-            <Identity value="Identity(103,37)" />
-            <Identity value="Identity(103,34)" />
-            <Identity value="Identity(103,33)" />
-            <Identity value="Identity(102,28)" />
-            <Identity value="Identity(101,6)" />
-            <Identity value="Identity(102,23)" />
+            <Identity value="Identity(102,22)" />
             <Identity value="Identity(102,25)" />
+            <Identity value="Identity(102,24)" />
+            <Identity value="Identity(102,23)" />
+            <Identity value="Identity(102,27)" />
+            <Identity value="Identity(102,28)" />
+            <Identity value="Identity(102,30)" />
         </Array>
     </Archive>
     <Archive name="FactionWindowConfig" code="0" />
@@ -120,7 +106,7 @@
         <String name="DockableViewDockName" value='&quot;DockArea4&quot;' />
     </Archive>
     <Archive name="InspectViewConfig" code="0">
-        <Int32 name="selected_tab" value="0" />
+        <Int32 name="selected_tab" value="3" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;DockArea9&quot;' />
     </Archive>
@@ -557,7 +543,7 @@
     </Archive>
     <Archive name="LaserTargetConfig" code="0" />
     <Value name="LockEquipment" value="false" />
-    <Value name="LockHotbars" value="true" />
+    <Value name="LockHotbars" value="false" />
     <Value name="LockRaidBars" value="false" />
     <Archive name="MailIconWindowConfig" code="0">
         <Rect name="WindowFrame" value="Rect(47.000000,28.000000,78.000000,47.000000)" />
@@ -680,7 +666,7 @@
     </Archive>
     <Archive name="NanoTargetNCUWindowConfig" code="0">
         <Archive code="0" name="listview_config">
-            <Int32 name="ncu_listview_flags" value="1" />
+            <Int32 name="ncu_listview_flags" value="0" />
             <Array name="col_id">
                 <Int32 value="0" />
                 <Int32 value="1" />
@@ -707,7 +693,7 @@
     </Archive>
     <Archive name="NanoViewConfig" code="0">
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
-        <Int32 name="selected_school" value="3" />
+        <Int32 name="selected_school" value="5" />
         <Bool name="listview_mode" value="false" />
         <Archive code="0" name="listview_config0">
             <Array name="col_id">
@@ -1005,7 +991,6 @@
                 <Identity value="Identity(53019,118242)" />
                 <Identity value="Identity(53019,43374)" />
                 <Identity value="Identity(53019,76742)" />
-                <Identity value="Identity(53019,280050)" />
                 <Identity value="Identity(53019,121341)" />
                 <Identity value="Identity(53019,85861)" />
                 <Identity value="Identity(53019,85862)" />
@@ -1039,6 +1024,9 @@
                 <Identity value="Identity(53019,270540)" />
                 <Identity value="Identity(53019,270779)" />
                 <Identity value="Identity(53019,30713)" />
+                <Identity value="Identity(53019,302290)" />
+                <Identity value="Identity(53019,302288)" />
+                <Identity value="Identity(53019,280050)" />
             </Array>
             <Array name="item_pos">
                 <IPoint value="IPoint(3,0)" />
@@ -1055,13 +1043,12 @@
                 <IPoint value="IPoint(2,0)" />
                 <IPoint value="IPoint(0,2)" />
                 <IPoint value="IPoint(2,2)" />
-                <IPoint value="IPoint(2,7)" />
                 <IPoint value="IPoint(1,7)" />
                 <IPoint value="IPoint(3,6)" />
-                <IPoint value="IPoint(0,0)" />
                 <IPoint value="IPoint(1,0)" />
-                <IPoint value="IPoint(1,6)" />
                 <IPoint value="IPoint(2,0)" />
+                <IPoint value="IPoint(1,6)" />
+                <IPoint value="IPoint(0,1)" />
                 <IPoint value="IPoint(3,5)" />
                 <IPoint value="IPoint(2,5)" />
                 <IPoint value="IPoint(1,5)" />
@@ -1076,19 +1063,22 @@
                 <IPoint value="IPoint(0,3)" />
                 <IPoint value="IPoint(3,2)" />
                 <IPoint value="IPoint(2,2)" />
-                <IPoint value="IPoint(0,1)" />
+                <IPoint value="IPoint(1,1)" />
                 <IPoint value="IPoint(0,2)" />
                 <IPoint value="IPoint(3,1)" />
                 <IPoint value="IPoint(2,1)" />
-                <IPoint value="IPoint(1,1)" />
                 <IPoint value="IPoint(1,2)" />
-                <IPoint value="IPoint(3,0)" />
                 <IPoint value="IPoint(0,6)" />
+                <IPoint value="IPoint(3,0)" />
                 <IPoint value="IPoint(2,6)" />
                 <IPoint value="IPoint(0,7)" />
+                <IPoint value="IPoint(2,7)" />
                 <IPoint value="IPoint(2,0)" />
                 <IPoint value="IPoint(0,0)" />
                 <IPoint value="IPoint(1,0)" />
+                <IPoint value="IPoint(0,0)" />
+                <IPoint value="IPoint(1,0)" />
+                <IPoint value="IPoint(2,0)" />
             </Array>
             <Array name="item_school">
                 <Int32 value="0" />
@@ -1135,23 +1125,25 @@
                 <Int32 value="3" />
                 <Int32 value="3" />
                 <Int32 value="3" />
-                <Int32 value="3" />
                 <Int32 value="4" />
                 <Int32 value="4" />
                 <Int32 value="4" />
+                <Int32 value="5" />
+                <Int32 value="5" />
+                <Int32 value="5" />
             </Array>
         </Archive>
     </Archive>
     <Archive name="NotificationWindowConfig" code="0">
         <Bool name="ClickableLinks" value="true" />
-        <Rect name="WindowFrame" value="Rect(5.000000,25.000000,1915.000000,355.000000)" />
+        <Rect name="WindowFrame" value="Rect(4.000000,25.000000,1914.000000,355.000000)" />
     </Archive>
     <Value name="NotificationWindowVisibility" value="false" />
     <Value name="NumHotbars" value="2.800000" />
     <Archive name="OptionWindowConfig" code="0">
         <Rect name="WindowFrame" value="Rect(147.000000,265.000000,837.000000,757.000000)" />
         <Bool name="WindowPinButtonState" value="true" />
-        <String name="selected_panel" value='&quot;GUIHelp&quot;' />
+        <String name="selected_panel" value='&quot;GUIControl Center&quot;' />
         <Array name="open_panel_folders">
             <String value='&quot;Video&quot;' />
             <String value='&quot;GUI&quot;' />
@@ -1181,7 +1173,10 @@
     <Value name="PetName5" value='&quot;&quot;' />
     <Value name="PetName6" value='&quot;&quot;' />
     <Archive name="PetWindowConfig" code="0" />
-    <Archive name="PetitionWindowConfig" code="0" />
+    <Archive name="PetitionWindowConfig" code="0">
+        <Rect name="WindowFrame" value="Rect(559.000000,239.000000,1359.000000,839.000000)" />
+        <Bool name="WindowPinButtonState" value="false" />
+    </Archive>
     <Archive name="PlanetMapViewConfig" code="0">
         <Int32 name="ZoomLev" value="2" />
         <Bool name="FirstTime" value="false" />
@@ -1230,7 +1225,7 @@
     <Archive name="SignupTerminalConfig" code="0" />
     <Archive name="SkillConfig" code="0">
         <Bool name="Minimized" value="false" />
-        <Rect name="WindowFrame" value="Rect(98.000000,201.000000,794.000000,721.000000)" />
+        <Rect name="WindowFrame" value="Rect(98.000000,201.000000,800.000000,721.000000)" />
         <Bool name="WindowPinButtonState" value="true" />
     </Archive>
     <Archive name="StatViewConfig" code="0">
@@ -1287,7 +1282,7 @@
     <Value name="VisualFlags" value="639" />
     <Value name="VoiceSndFxType" value="0" />
     <Archive name="WearViewConfig" code="0">
-        <Int32 name="selected_tab" value="2" />
+        <Int32 name="selected_tab" value="3" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
     </Archive>
@@ -1329,8 +1324,8 @@
     <Value name="map_menu" value="false" />
     <Value name="map_window" value="true" />
     <Value name="mechselect_window" value="false" />
-    <Value name="mission_window" value="false" />
-    <Value name="nano_window" value="true" />
+    <Value name="mission_window" value="true" />
+    <Value name="nano_window" value="false" />
     <Value name="ncu_window" value="true" />
     <Value name="notification_window" value="true" />
     <Value name="perk_window" value="false" />
@@ -1345,7 +1340,7 @@
     <Value name="specialaction_window" value="false" />
     <Value name="stat_window" value="false" />
     <Value name="team_menu" value="false" />
-    <Value name="team_view" value="true" />
+    <Value name="team_view" value="false" />
     <Value name="teleport_target_window" value="false" />
     <Value name="tradeskill_window" value="false" />
     <Value name="wear_window" value="false" />

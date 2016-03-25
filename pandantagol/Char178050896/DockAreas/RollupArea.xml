@@ -3,11 +3,11 @@
         <Array name="dock_node_configs">
             <Archive code="0">
                 <Bool name="is_page_expanded" value="true" />
-                <Float name="page_height" value="291.000000" />
+                <Float name="page_height" value="295.000000" />
             </Archive>
             <Archive code="0">
-                <Bool name="is_page_expanded" value="true" />
                 <Float name="page_height" value="289.000000" />
+                <Bool name="is_page_expanded" value="true" />
             </Archive>
             <Archive code="0">
                 <Bool name="is_page_expanded" value="true" />
@@ -23,15 +23,15 @@
             </Archive>
             <Archive code="0">
                 <Bool name="is_page_expanded" value="true" />
-                <Float name="page_height" value="467.000000" />
+                <Float name="page_height" value="480.000000" />
             </Archive>
             <Archive code="0">
                 <Bool name="is_page_expanded" value="true" />
                 <Float name="page_height" value="157.000000" />
             </Archive>
             <Archive code="0">
-                <Float name="page_height" value="185.000000" />
                 <Bool name="is_page_expanded" value="true" />
+                <Float name="page_height" value="185.000000" />
             </Archive>
             <Archive code="0">
                 <Bool name="is_page_expanded" value="true" />

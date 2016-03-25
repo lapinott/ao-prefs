@@ -343,7 +343,6 @@
             <Archive code="0">
                 <Int32 name="Input" value="103" />
                 <Array name="Provider">
-                    <Int64 value="2392319808" />
                     <Int64 value="2252243145" />
                     <Int64 value="2252243146" />
                     <Int64 value="2252243147" />
@@ -813,7 +812,7 @@
     </Archive>
     <Archive name="NanoViewConfig" code="0">
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
-        <Int32 name="selected_school" value="5" />
+        <Int32 name="selected_school" value="0" />
         <Bool name="listview_mode" value="false" />
         <Archive code="0" name="listview_config0">
             <Array name="col_id">
@@ -1663,9 +1662,9 @@
     <Value name="NotificationWindowVisibility" value="false" />
     <Value name="NumHotbars" value="4.608048" />
     <Archive name="OptionWindowConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(297.000000,297.000000,1218.000000,747.000000)" />
+        <Rect name="WindowFrame" value="Rect(298.000000,297.000000,1219.000000,747.000000)" />
         <Bool name="WindowPinButtonState" value="false" />
-        <String name="selected_panel" value='&quot;GUIControl Center&quot;' />
+        <String name="selected_panel" value='&quot;GUIEquipment Window&quot;' />
         <Array name="open_panel_folders">
             <String value='&quot;Audio&quot;' />
             <String value='&quot;Video&quot;' />
@@ -1673,7 +1672,7 @@
             <String value='&quot;Controls&quot;' />
             <String value='&quot;Behaviour&quot;' />
         </Array>
-        <Int32 name="selected_tab" value="0" />
+        <Int32 name="selected_tab" value="2" />
         <Float name="panel_list_scroll_offset" value="0.000000" />
         <Archive code="0" name="hotkey_config">
             <Array name="open_hotkey_folders">
@@ -1895,7 +1894,7 @@
     <Value name="map_window" value="false" />
     <Value name="mechselect_window" value="false" />
     <Value name="mission_window" value="false" />
-    <Value name="nano_window" value="true" />
+    <Value name="nano_window" value="false" />
     <Value name="ncu_window" value="true" />
     <Value name="notification_window" value="true" />
     <Value name="perk_window" value="false" />
@@ -1907,7 +1906,7 @@
     <Value name="shortcutbar_window" value="true" />
     <Value name="signupterminal_window" value="false" />
     <Value name="skill_window" value="false" />
-    <Value name="specialaction_window" value="false" />
+    <Value name="specialaction_window" value="true" />
     <Value name="stat_window" value="false" />
     <Value name="team_menu" value="true" />
     <Value name="team_view" value="false" />

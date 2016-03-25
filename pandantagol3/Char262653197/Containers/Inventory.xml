@@ -40,7 +40,6 @@
             <Identity value="Identity(104,73)" />
             <Identity value="Identity(104,77)" />
             <Identity value="Identity(104,78)" />
-            <Identity value="Identity(104,76)" />
         </Array>
         <Array name="item_pos">
             <IPoint value="IPoint(0,0)" />
@@ -57,7 +56,6 @@
             <IPoint value="IPoint(1,2)" />
             <IPoint value="IPoint(3,2)" />
             <IPoint value="IPoint(2,2)" />
-            <IPoint value="IPoint(4,2)" />
         </Array>
     </Archive>
 </Archive>

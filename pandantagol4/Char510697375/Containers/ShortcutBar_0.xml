@@ -1,0 +1,36 @@
+<Archive code="0">
+    <Rect name="WindowFrame" value="Rect(58.000000,59.000000,460.000000,96.000000)" />
+    <Bool name="IsPrimary" value="true" />
+    <Archive code="0" name="position_map">
+        <Array name="item_id">
+            <Identity value="Identity(104,64)" />
+            <Identity value="Identity(104,65)" />
+            <Identity value="Identity(53019,223372)" />
+            <Identity value="Identity(53019,223380)" />
+            <Identity value="Identity(53019,95444)" />
+            <Identity value="Identity(53019,45253)" />
+            <Identity value="Identity(53019,95416)" />
+            <Identity value="Identity(53019,29294)" />
+            <Identity value="Identity(53019,45933)" />
+            <Identity value="Identity(53019,28629)" />
+            <Identity value="Identity(53019,90404)" />
+            <Identity value="Identity(53019,45940)" />
+        </Array>
+        <Array name="item_pos">
+            <IPoint value="IPoint(9,0)" />
+            <IPoint value="IPoint(8,0)" />
+            <IPoint value="IPoint(0,9)" />
+            <IPoint value="IPoint(1,9)" />
+            <IPoint value="IPoint(4,9)" />
+            <IPoint value="IPoint(3,0)" />
+            <IPoint value="IPoint(5,9)" />
+            <IPoint value="IPoint(2,9)" />
+            <IPoint value="IPoint(0,0)" />
+            <IPoint value="IPoint(1,0)" />
+            <IPoint value="IPoint(3,9)" />
+            <IPoint value="IPoint(2,0)" />
+        </Array>
+    </Archive>
+    <Int32 name="selected_bar" value="0" />
+    <Int32 name="bar_orientation" value="0" />
+</Archive>

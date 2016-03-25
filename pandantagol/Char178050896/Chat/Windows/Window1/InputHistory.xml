@@ -1,25 +1,4 @@
 <Root>
-    <TextLine text="nice" />
-    <TextLine text="19 min now" />
-    <TextLine text="20min" />
-    <TextLine text="25 minutes now :)" />
-    <TextLine text="almost 30min" />
-    <TextLine text="me too" />
-    <TextLine text="/terminate" />
-    <TextLine text="thx for help bailing to bore" />
-    <TextLine text="cya" />
-    <TextLine text="/tell Mellyndia fix" />
-    <TextLine text="/tell Mellyndia got my fixer here too :p" />
-    <TextLine text="/tell howlets ?" />
-    <TextLine text="/tell %t used to have BB on fix too" />
-    <TextLine text="/tell %t is that GA 2 ?" />
-    <TextLine text="/tell Djfix yeah" />
-    <TextLine text="/tell Djfix short on IP for BB + GA2 tho" />
-    <TextLine text="r" />
-    <TextLine text="lemme inspect plz" />
-    <TextLine text="any agent for SFA TTS plz ?" />
-    <TextLine text="UA*" />
-    <TextLine text="/list ag" />
     <TextLine text="/Tell Critical0 hi are u able to cast US TTS ?" />
     <TextLine text="/list agent" />
     <TextLine text="/tell Piledrive worth a try :p" />
@@ -121,7 +100,6 @@
     <TextLine text="/say COME HERE" cursor_pos="15" />
     <TextLine text="/S COME HERE" />
     <TextLine text="/s %t PLZ COME HERE" />
-    <TextLine text="/Wave" />
     <TextLine text="can you hold loot for me 10 minutes ? :/" />
     <TextLine text="Ill tip you" />
     <TextLine text="I need no one to steal the eye implant" />
@@ -190,7 +168,6 @@
     <TextLine text="/follow" />
     <TextLine text="/s bye" />
     <TextLine text="wru ?" />
-    <TextLine text="lol" />
     <TextLine text="/tell Systemfile laf" />
     <TextLine text="/tell Systemfile lol" />
     <TextLine text="/tell Systemfile same goes with you nab" />
@@ -199,4 +176,27 @@
     <TextLine text="/tell Systemfile HAHAHAH" />
     <TextLine text="/tell Phatz4 dunno lol" />
     <TextLine text="System got ganked ;(" />
+    <TextLine text="/Wave" />
+    <TextLine text="rezzing" />
+    <TextLine text="im  pretty sure I lose" />
+    <TextLine text=":p" />
+    <TextLine text="all right im pwned watch it happen :)" />
+    <TextLine text="ouch" />
+    <TextLine text="i won flat" />
+    <TextLine text=":&amp;gt;" />
+    <TextLine text="lol" />
+    <TextLine text="dont you have a lvl 1-5 ?" />
+    <TextLine text="anyone" />
+    <TextLine text="no osb only" />
+    <TextLine text="/tell Killonsight join up" />
+    <TextLine text="rrf" />
+    <TextLine text="e" />
+    <TextLine text="who me ?" />
+    <TextLine text="is me too english ?" />
+    <TextLine text="or I too ?" />
+    <TextLine text="so lets go totw to bait some nebs ?" />
+    <TextLine text="how do you get so high burst FA ?" />
+    <TextLine text="still" />
+    <TextLine text="1.1k AS" />
+    <TextLine text="trying to log lol" />
 </Root>

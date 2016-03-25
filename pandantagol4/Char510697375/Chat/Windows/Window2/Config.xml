@@ -1,0 +1,61 @@
+<Archive code="0">
+    <Array name="selected_group_ids">
+        <Int64 value="1107296280" />
+        <Int64 value="1107296261" />
+        <Int64 value="1107296262" />
+        <Int64 value="1107296263" />
+        <Int64 value="1107296258" />
+        <Int64 value="1107296259" />
+        <Int64 value="1107296265" />
+        <Int64 value="1107296257" />
+        <Int64 value="1107296274" />
+        <Int64 value="1107296276" />
+        <Int64 value="1107296277" />
+        <Int64 value="1107296278" />
+        <Int64 value="1107296279" />
+        <Int64 value="1107296264" />
+        <Int64 value="1107296273" />
+    </Array>
+    <Array name="selected_group_names">
+        <String value='&quot;Me Cast Nano&quot;' />
+        <String value='&quot;You hit other with nano&quot;' />
+        <String value='&quot;Me hit by monster&quot;' />
+        <String value='&quot;Me hit by player&quot;' />
+        <String value='&quot;Me hit by nano&quot;' />
+        <String value='&quot;Your pet hit by nano&quot;' />
+        <String value='&quot;Your pet hit by other&quot;' />
+        <String value='&quot;Me hit by environment&quot;' />
+        <String value='&quot;Your misses&quot;' />
+        <String value='&quot;You gave health&quot;' />
+        <String value='&quot;Me got health&quot;' />
+        <String value='&quot;Me got nano&quot;' />
+        <String value='&quot;You gave nano&quot;' />
+        <String value='&quot;You hit other&quot;' />
+        <String value='&quot;Your pet hit by monster&quot;' />
+    </Array>
+    <Archive code="0" name="log_window_config" />
+    <Archive code="0" name="chat_window_config">
+        <Rect name="WindowFrame" value="Rect(52.000000,109.000000,543.000000,361.000000)" />
+        <Bool name="is_backmost" value="false" />
+        <Bool name="is_frontmost" value="false" />
+    </Archive>
+    <Archive code="0" name="chat_view_config" />
+    <Int32 name="visual_mode" value="2" />
+    <String name="output_group" value='&quot;&quot;' />
+    <Float name="window_transparency_inactive" value="0.300000" />
+    <Float name="window_transparency_active" value="0.800000" />
+    <Bool name="show_timestamps" value="false" />
+    <Bool name="hide_input_when_inactive" value="false" />
+    <Bool name="deactivate_on_send" value="true" />
+    <Bool name="is_textinput_enabled" value="false" />
+    <Bool name="is_clickthrough" value="false" />
+    <Bool name="is_logged" value="false" />
+    <Bool name="is_message_fading_enabled" value="false" />
+    <Bool name="is_autosubscribe_window" value="false" />
+    <Bool name="is_window_open" value="true" />
+    <Int32 name="tab_index" value="0" />
+    <String name="window_name" value='&quot;Window2&quot;' />
+    <Bool name="is_default_window" value="false" />
+    <Bool name="is_startup_window" value="false" />
+    <String name="name" value='&quot;Combat&quot;' />
+</Archive>

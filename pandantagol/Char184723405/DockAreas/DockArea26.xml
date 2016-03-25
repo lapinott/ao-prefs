@@ -1,10 +1,10 @@
 <Archive code="0">
     <Archive code="0" name="dock_config">
-        <Int32 name="selected_tab" value="-1" />
-        <Rect name="WindowFrame" value="Rect(876.000000,456.000000,1062.000000,631.000000)" />
-        <Bool name="WindowPinButtonState" value="false" />
-        <String name="docked_view_identities" value='&quot;Container_51017x43663906.xml&quot;' />
         <Archive code="0" name="dock_node_configs" />
+        <String name="docked_view_identities" value='&quot;Container_51017x43663906.xml&quot;' />
+        <Bool name="WindowPinButtonState" value="false" />
+        <Rect name="WindowFrame" value="Rect(876.000000,456.000000,1062.000000,631.000000)" />
+        <Int32 name="selected_tab" value="-1" />
     </Archive>
     <String name="dock_type" value='&quot;DockTabbedWindow&quot;' />
     <String name="dock_name" value='&quot;DockArea26&quot;' />

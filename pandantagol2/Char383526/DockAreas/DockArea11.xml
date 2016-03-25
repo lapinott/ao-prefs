@@ -2,7 +2,7 @@
     <Archive code="0" name="dock_config">
         <Archive code="0" name="dock_node_configs" />
         <String name="docked_view_identities" value='&quot;bank_window&quot;' />
-        <Bool name="WindowPinButtonState" value="false" />
+        <Bool name="WindowPinButtonState" value="true" />
         <Rect name="WindowFrame" value="Rect(878.000000,456.000000,1064.000000,631.000000)" />
         <Int32 name="selected_tab" value="-1" />
     </Archive>

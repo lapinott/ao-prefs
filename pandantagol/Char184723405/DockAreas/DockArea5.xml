@@ -1,8 +1,8 @@
 <Archive code="0">
     <Archive code="0" name="dock_config">
         <Int32 name="selected_tab" value="-1" />
-        <Rect name="WindowFrame" value="Rect(903.000000,458.000000,1089.000000,633.000000)" />
-        <Bool name="WindowPinButtonState" value="false" />
+        <Rect name="WindowFrame" value="Rect(804.000000,489.000000,990.000000,664.000000)" />
+        <Bool name="WindowPinButtonState" value="true" />
         <String name="docked_view_identities" value='&quot;bank_window&quot;' />
         <Archive code="0" name="dock_node_configs" />
     </Archive>

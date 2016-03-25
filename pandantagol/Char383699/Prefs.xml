@@ -7,13 +7,13 @@
         <Rect name="WindowFrame" value="Rect(13.000000,144.000000,23.000000,268.000000)" />
     </Archive>
     <Archive name="CCFriendlyHealthBarConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(25.000000,5.000000,838.000000,28.000000)" />
+        <Rect name="WindowFrame" value="Rect(25.000000,5.000000,838.000000,65.000000)" />
     </Archive>
     <Archive name="CCHealthBarConfig" code="0">
         <Rect name="WindowFrame" value="Rect(0.000000,0.000000,10.000000,124.000000)" />
     </Archive>
     <Archive name="CCHostileHealthBarConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(888.000000,5.000000,1701.000000,63.000000)" />
+        <Rect name="WindowFrame" value="Rect(888.000000,5.000000,1701.000000,52.000000)" />
     </Archive>
     <Archive name="CCNanoBarConfig" code="0">
         <Rect name="WindowFrame" value="Rect(0.000000,144.000000,10.000000,268.000000)" />
@@ -37,6 +37,7 @@
     <Archive name="FactionWindowConfig" code="0" />
     <Archive name="FightTargetNCUWindowConfig" code="0">
         <Archive code="0" name="listview_config">
+            <Int32 name="ncu_listview_flags" value="1" />
             <Array name="col_id">
                 <Int32 value="0" />
                 <Int32 value="1" />
@@ -599,6 +600,7 @@
     <Archive name="NPCChatWindowConfig" code="0" />
     <Archive name="NanoTargetNCUWindowConfig" code="0">
         <Archive code="0" name="listview_config">
+            <Int32 name="ncu_listview_flags" value="1" />
             <Array name="col_id">
                 <Int32 value="0" />
                 <Int32 value="1" />
@@ -966,14 +968,8 @@
                 <Identity value="Identity(53019,215264)" />
                 <Identity value="Identity(53019,287042)" />
                 <Identity value="Identity(53019,99577)" />
-                <Identity value="Identity(53019,142734)" />
-                <Identity value="Identity(53019,99579)" />
-                <Identity value="Identity(53019,99576)" />
                 <Identity value="Identity(53019,142735)" />
-                <Identity value="Identity(53019,99586)" />
-                <Identity value="Identity(53019,99584)" />
                 <Identity value="Identity(53019,270884)" />
-                <Identity value="Identity(53019,99580)" />
                 <Identity value="Identity(53019,99582)" />
                 <Identity value="Identity(53019,27189)" />
             </Array>
@@ -1035,14 +1031,8 @@
                 <IPoint value="IPoint(0,2)" />
                 <IPoint value="IPoint(1,2)" />
                 <IPoint value="IPoint(0,0)" />
-                <IPoint value="IPoint(1,0)" />
-                <IPoint value="IPoint(2,0)" />
-                <IPoint value="IPoint(0,1)" />
                 <IPoint value="IPoint(1,1)" />
-                <IPoint value="IPoint(2,1)" />
-                <IPoint value="IPoint(0,2)" />
                 <IPoint value="IPoint(1,2)" />
-                <IPoint value="IPoint(2,2)" />
                 <IPoint value="IPoint(0,3)" />
                 <IPoint value="IPoint(1,3)" />
             </Array>
@@ -1108,18 +1098,12 @@
                 <Int32 value="4" />
                 <Int32 value="4" />
                 <Int32 value="4" />
-                <Int32 value="4" />
-                <Int32 value="4" />
-                <Int32 value="4" />
-                <Int32 value="4" />
-                <Int32 value="4" />
-                <Int32 value="4" />
             </Array>
         </Archive>
     </Archive>
     <Archive name="NotificationWindowConfig" code="0">
         <Bool name="ClickableLinks" value="true" />
-        <Rect name="WindowFrame" value="Rect(4.000000,25.000000,1914.000000,355.000000)" />
+        <Rect name="WindowFrame" value="Rect(5.000000,25.000000,1915.000000,355.000000)" />
     </Archive>
     <Value name="NotificationWindowVisibility" value="false" />
     <Value name="NumHotbars" value="1" />

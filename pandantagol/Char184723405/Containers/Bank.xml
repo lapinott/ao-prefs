@@ -26,40 +26,42 @@
     </Archive>
     <Archive code="0" name="item_position_map">
         <Array name="item_id">
-            <Identity value="Identity(105,1)" />
-            <Identity value="Identity(105,7)" />
             <Identity value="Identity(105,8)" />
-            <Identity value="Identity(105,0)" />
             <Identity value="Identity(105,9)" />
             <Identity value="Identity(105,11)" />
             <Identity value="Identity(105,12)" />
-            <Identity value="Identity(105,15)" />
-            <Identity value="Identity(105,3)" />
-            <Identity value="Identity(105,10)" />
             <Identity value="Identity(105,4)" />
-            <Identity value="Identity(105,14)" />
-            <Identity value="Identity(105,6)" />
             <Identity value="Identity(105,5)" />
             <Identity value="Identity(105,2)" />
+            <Identity value="Identity(105,3)" />
             <Identity value="Identity(105,13)" />
+            <Identity value="Identity(105,6)" />
+            <Identity value="Identity(105,10)" />
+            <Identity value="Identity(105,0)" />
+            <Identity value="Identity(105,1)" />
+            <Identity value="Identity(105,15)" />
+            <Identity value="Identity(105,7)" />
+            <Identity value="Identity(105,16)" />
+            <Identity value="Identity(105,14)" />
         </Array>
         <Array name="item_pos">
-            <IPoint value="IPoint(1,0)" />
-            <IPoint value="IPoint(1,1)" />
             <IPoint value="IPoint(2,1)" />
-            <IPoint value="IPoint(0,0)" />
             <IPoint value="IPoint(0,2)" />
             <IPoint value="IPoint(1,2)" />
             <IPoint value="IPoint(2,2)" />
-            <IPoint value="IPoint(2,0)" />
-            <IPoint value="IPoint(0,1)" />
-            <IPoint value="IPoint(1,4)" />
             <IPoint value="IPoint(2,3)" />
-            <IPoint value="IPoint(0,4)" />
-            <IPoint value="IPoint(2,4)" />
             <IPoint value="IPoint(1,3)" />
             <IPoint value="IPoint(0,3)" />
-            <IPoint value="IPoint(0,5)" />
+            <IPoint value="IPoint(0,1)" />
+            <IPoint value="IPoint(0,4)" />
+            <IPoint value="IPoint(2,4)" />
+            <IPoint value="IPoint(1,4)" />
+            <IPoint value="IPoint(1,0)" />
+            <IPoint value="IPoint(0,0)" />
+            <IPoint value="IPoint(2,0)" />
+            <IPoint value="IPoint(1,1)" />
+            <IPoint value="IPoint(1,5)" />
+            <IPoint value="IPoint(2,5)" />
         </Array>
     </Archive>
 </Archive>
