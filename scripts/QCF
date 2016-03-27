@@ -1,0 +1,22 @@
+/delay 3000
+/text <font color="#ff00ff"> :: Root :: Started !</font>
+/delay 10000
+/text <font color="#ff00ff"> :: Root :: <font color="#00ff00">50</font> seconds left</font>
+/delay 10000
+/text <font color="#ff00ff"> :: Root :: <font color="#00ff00">40</font> seconds left</font>
+/delay 10000
+/text <font color="#ff00ff"> :: Root :: <font color="#00ff00">30</font> seconds left</font>
+/delay 10000
+/text <font color="#ff00ff"> :: Root :: <font color="#00ff00">20</font> seconds left</font>
+/delay 10000
+/text <font color="#ff00ff"> :: Root :: <font color="#00ff00">10</font> seconds left</font>
+/delay 5000
+/text <font color="#ff00ff"> :: Root :: <font color="#00ff00">5</font> seconds left</font>
+/delay 1000
+/text <font color="#ff00ff"> :: Root :: <font color="#00ff00">4</font> seconds left</font>
+/delay 1000
+/text <font color="#ff00ff"> :: Root :: <font color="#00ff00">3</font> seconds left</font>
+/delay 1000
+/text <font color="#ff00ff"> :: Root :: <font color="#00ff00">2</font> seconds left</font>
+/delay 1000
+/text <font color="#ff00ff"> :: Root :: <font color="#00ff00">1</font> second left</font>

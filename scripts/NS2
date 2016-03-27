@@ -1,0 +1,29 @@
+/text <font color="#ff00ff"> :: Nullity Sphere II :: Started !</font>
+/delay 4000
+/text <font color="#ff00ff"> :: Nullity Sphere II :: <font color="#00ff00">15</font> seconds left</font>
+/delay 5000
+/text <font color="#ff00ff"> :: Nullity Sphere II :: <font color="#00ff00">10</font> seconds left</font>
+/delay 5000
+/text <font color="#ff00ff"> :: Nullity Sphere II :: <font color="#00ff00">5</font> seconds left</font>
+/delay 1000
+/text <font color="#ff00ff"> :: Nullity Sphere II :: <font color="#00ff00">4</font> seconds left</font>
+/delay 1000
+/text <font color="#ff00ff"> :: Nullity Sphere II :: <font color="#00ff00">3</font> seconds left</font>
+/delay 1000
+/text <font color="#ff00ff"> :: Nullity Sphere II :: <font color="#00ff00">2</font> seconds left</font>
+/delay 1000
+/text <font color="#ff00ff"> :: Nullity Sphere II :: <font color="#00ff00">1</font> second left</font>
+#/delay 32000
+#/text <font color="#ff00ff"> :: Nullity Sphere II :: Available in <font color="#00ff00">10</font> seconds</font>
+#/delay 5000
+#/text <font color="#ff00ff"> :: Nullity Sphere II :: Available in <font color="#00ff00">5</font> seconds</font>
+#/delay 1000
+#/text <font color="#ff00ff"> :: Nullity Sphere II :: Available in <font color="#00ff00">4</font> seconds</font>
+#/delay 1000
+#/text <font color="#ff00ff"> :: Nullity Sphere II :: Available in <font color="#00ff00">3</font> seconds</font>
+#/delay 1000
+#/text <font color="#ff00ff"> :: Nullity Sphere II :: Available in <font color="#00ff00">2</font> seconds</font>
+#/delay 1000
+#/text <font color="#ff00ff"> :: Nullity Sphere II :: Available in <font color="#00ff00">1</font> second</font>
+#/delay 1000
+#/text <font color="#ff00ff"> :: Nullity Sphere II :: Available !</font>

@@ -1,0 +1,11 @@
+<Archive code="0">
+    <Archive code="0" name="dock_config">
+        <Int32 name="selected_tab" value="-1" />
+        <Rect name="WindowFrame" value="Rect(449.000000,343.000000,752.000000,743.000000)" />
+        <Bool name="WindowPinButtonState" value="true" />
+        <String name="docked_view_identities" value='&quot;tradeskill_window&quot;' />
+        <Archive code="0" name="dock_node_configs" />
+    </Archive>
+    <String name="dock_type" value='&quot;DockTabbedWindow&quot;' />
+    <String name="dock_name" value='&quot;DockArea14&quot;' />
+</Archive>

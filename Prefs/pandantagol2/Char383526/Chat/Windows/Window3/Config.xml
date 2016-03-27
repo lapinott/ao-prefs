@@ -1,0 +1,41 @@
+<Archive code="0">
+    <Array name="selected_group_ids">
+        <Int64 value="60129617989" />
+        <Int64 value="60129618047" />
+        <Int64 value="60130761451" />
+        <Int64 value="60129618049" />
+        <Int64 value="60129618050" />
+    </Array>
+    <Array name="selected_group_names">
+        <String value='&quot;Hellcom&quot;' />
+        <String value='&quot;Hcnorth&quot;' />
+        <String value='&quot;Iraid&quot;' />
+        <String value='&quot;Hceast&quot;' />
+        <String value='&quot;Hcwest&quot;' />
+    </Array>
+    <Archive code="0" name="log_window_config" />
+    <Archive code="0" name="chat_window_config">
+        <Rect name="WindowFrame" value="Rect(1019.000000,832.000000,1683.000000,1073.000000)" />
+        <Bool name="is_backmost" value="false" />
+        <Bool name="is_frontmost" value="false" />
+    </Archive>
+    <Archive code="0" name="chat_view_config" />
+    <Int32 name="visual_mode" value="2" />
+    <String name="output_group" value='&quot;#0000000e00129aeb#&quot;' />
+    <Float name="window_transparency_inactive" value="0.300000" />
+    <Float name="window_transparency_active" value="0.800000" />
+    <Bool name="show_timestamps" value="false" />
+    <Bool name="hide_input_when_inactive" value="true" />
+    <Bool name="deactivate_on_send" value="true" />
+    <Bool name="is_textinput_enabled" value="true" />
+    <Bool name="is_clickthrough" value="false" />
+    <Bool name="is_logged" value="false" />
+    <Bool name="is_message_fading_enabled" value="false" />
+    <Bool name="is_autosubscribe_window" value="false" />
+    <Bool name="is_window_open" value="true" />
+    <Int32 name="tab_index" value="0" />
+    <String name="window_name" value='&quot;Window3&quot;' />
+    <Bool name="is_default_window" value="false" />
+    <Bool name="is_startup_window" value="false" />
+    <String name="name" value='&quot;Iraid&quot;' />
+</Archive>

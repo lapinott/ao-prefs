@@ -1,0 +1,20 @@
+[03:51:36] Process token elevation type is: TokenElevationTypeLimited
+[03:51:36] TokenIsElevated: false
+[03:51:36] Running un-elevated, proceeding normally.
+[03:51:37] Checking integrity of files:
+[03:51:37] No problems found.
+
+[03:51:37] Cleaning folder 'C:/Users/Julien/AppData/Local/Funcom/Anarchy Online/6daaf7c4/Anarchy Online New Engine/PatchesUndo\*.*'
+[03:51:38] Setting timeout to 30 seconds
+[03:51:38] Setting timeout to 30 seconds
+[03:51:38] Getting filecontents for dimensions.anarchy-online.com:80/new-dimensions/dimensions_v2.txt
+[03:51:38] Successfully downloaded file /new-dimensions/dimensions_v2.txt
+[03:51:38] Setting timeout to 30 seconds
+[03:51:38] Testing connection to cm.d1.funcom.com:7505
+[03:51:38] Setting timeout to 30 seconds
+[03:51:38] Looking up aliases for cm.d1.funcom.com
+[03:51:38] Added alias: 37.18.192.41
+[03:51:38] Connected successfully to server 37.18.192.41 : 7505!
+
+[03:51:39] Abort() was called
+[03:51:39] Abort() was called

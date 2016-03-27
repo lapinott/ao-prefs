@@ -1,0 +1,31 @@
+/text <font color="#ff00ff"> :: Nanobot Guard :: Started !</font>
+/delay 5000
+/text <font color="#ff00ff"> :: Nanobot Guard :: <font color="#00ff00">20</font> seconds left</font>
+/delay 5000
+/text <font color="#ff00ff"> :: Nanobot Guard :: <font color="#00ff00">15</font> seconds left</font>
+/delay 5000
+/text <font color="#ff00ff"> :: Nanobot Guard :: <font color="#00ff00">10</font> seconds left</font>
+/delay 5000
+/text <font color="#ff00ff"> :: Nanobot Guard :: <font color="#00ff00">5</font> seconds left</font>
+/delay 1000
+/text <font color="#ff00ff"> :: Nanobot Guard :: <font color="#00ff00">4</font> seconds left</font>
+/delay 1000
+/text <font color="#ff00ff"> :: Nanobot Guard :: <font color="#00ff00">3</font> seconds left</font>
+/delay 1000
+/text <font color="#ff00ff"> :: Nanobot Guard :: <font color="#00ff00">2</font> seconds left</font>
+/delay 1000
+/text <font color="#ff00ff"> :: Nanobot Guard :: <font color="#00ff00">1</font> second left</font>
+#/delay 26000
+#/text <font color="#ff00ff"> :: Nanobot Guard :: Available in <font color="#00ff00">10</font> seconds</font>
+#/delay 5000
+#/text <font color="#ff00ff"> :: Nanobot Guard :: Available in <font color="#00ff00">5</font> seconds</font>
+#/delay 1000
+#/text <font color="#ff00ff"> :: Nanobot Guard :: Available in <font color="#00ff00">4</font> seconds</font>
+#/delay 1000
+#/text <font color="#ff00ff"> :: Nanobot Guard :: Available in <font color="#00ff00">3</font> seconds</font>
+#/delay 1000
+#/text <font color="#ff00ff"> :: Nanobot Guard :: Available in <font color="#00ff00">2</font> seconds</font>
+#/delay 1000
+#/text <font color="#ff00ff"> :: Nanobot Guard :: Available in <font color="#00ff00">1</font> second</font>
+#/delay 1000
+#/text <font color="#ff00ff"> :: Nanobot Guard :: Available !</font>
