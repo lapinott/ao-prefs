@@ -46,6 +46,7 @@
             <Identity value="Identity(107,6946834)" />
             <Identity value="Identity(107,6946835)" />
             <Identity value="Identity(107,6946836)" />
+            <Identity value="Identity(107,6946822)" />
         </Array>
         <Array name="item_pos">
             <IPoint value="IPoint(1,0)" />
@@ -68,6 +69,7 @@
             <IPoint value="IPoint(0,6)" />
             <IPoint value="IPoint(1,6)" />
             <IPoint value="IPoint(2,6)" />
+            <IPoint value="IPoint(0,0)" />
         </Array>
     </Archive>
 </Archive>

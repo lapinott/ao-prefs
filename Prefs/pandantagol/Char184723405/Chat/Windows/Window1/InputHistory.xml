@@ -1,5 +1,4 @@
 <Root>
-    <TextLine text="down unda" />
     <TextLine text="u can kiss me down unda too" />
     <TextLine text="i got a sexy skirt with holes" />
     <TextLine text="hanging in borealis" />
@@ -199,4 +198,5 @@
     <TextLine text="meet my other toon outside ok ?" />
     <TextLine text="im loging a lvl 25" />
     <TextLine text="brb" />
+    <TextLine text="/list" />
 </Root>

@@ -1884,7 +1884,7 @@
     <Value name="control_center_active" value="true" />
     <Value name="faction_window" value="false" />
     <Value name="friends_window" value="false" />
-    <Value name="inventory_window" value="false" />
+    <Value name="inventory_window" value="true" />
     <Value name="itemshop_window" value="false" />
     <Value name="knowledge_window" value="false" />
     <Value name="lasertarget_window" value="false" />

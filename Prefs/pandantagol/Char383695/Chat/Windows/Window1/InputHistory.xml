@@ -1,5 +1,4 @@
 <Root>
-    <TextLine text="brb 3 min" />
     <TextLine text="back" />
     <TextLine text="/tell Yiki hai" />
     <TextLine text="/tell Abibas ?" />
@@ -199,4 +198,5 @@
     <TextLine text="/tell Problema logging trad laterz" />
     <TextLine text="/tell Problema Xuuut" />
     <TextLine text="/tell Sagesage already watched it lol :p" />
+    <TextLine text="/tell Sagesage yes :p" />
 </Root>

@@ -13,7 +13,7 @@
         <Rect name="WindowFrame" value="Rect(0.000000,0.000000,10.000000,124.000000)" />
     </Archive>
     <Archive name="CCHostileHealthBarConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(888.000000,5.000000,1701.000000,52.000000)" />
+        <Rect name="WindowFrame" value="Rect(888.000000,5.000000,1701.000000,63.000000)" />
     </Archive>
     <Archive name="CCNanoBarConfig" code="0">
         <Rect name="WindowFrame" value="Rect(0.000000,144.000000,10.000000,268.000000)" />
@@ -33,7 +33,26 @@
     </Archive>
     <Value name="CurrentTipOfTheDay" value="-1" />
     <Value name="DisableInspect" value="false" />
-    <Archive name="EquipmentLocks" code="0" />
+    <Archive name="EquipmentLocks" code="0">
+        <Array name="Locks">
+            <Identity value="Identity(101,13)" />
+            <Identity value="Identity(101,12)" />
+            <Identity value="Identity(101,9)" />
+            <Identity value="Identity(101,10)" />
+            <Identity value="Identity(101,11)" />
+            <Identity value="Identity(101,7)" />
+            <Identity value="Identity(102,20)" />
+            <Identity value="Identity(102,22)" />
+            <Identity value="Identity(102,23)" />
+            <Identity value="Identity(102,25)" />
+            <Identity value="Identity(101,6)" />
+            <Identity value="Identity(102,21)" />
+            <Identity value="Identity(102,24)" />
+            <Identity value="Identity(102,27)" />
+            <Identity value="Identity(102,30)" />
+            <Identity value="Identity(102,31)" />
+        </Array>
+    </Archive>
     <Archive name="FactionWindowConfig" code="0" />
     <Archive name="FightTargetNCUWindowConfig" code="0">
         <Archive code="0" name="listview_config">
@@ -379,10 +398,6 @@
                 <Int64 name="Provider" value="2163638453" />
             </Archive>
             <Archive code="0">
-                <Int32 name="Input" value="262180" />
-                <Int64 name="Provider" value="170182241" />
-            </Archive>
-            <Archive code="0">
                 <Int32 name="Input" value="262190" />
                 <Int64 name="Provider" value="353628307" />
             </Archive>
@@ -600,7 +615,7 @@
     </Archive>
     <Archive name="NanoViewConfig" code="0">
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
-        <Int32 name="selected_school" value="3" />
+        <Int32 name="selected_school" value="0" />
         <Bool name="listview_mode" value="false" />
         <Archive code="0" name="listview_config0">
             <Array name="col_id">
@@ -884,8 +899,15 @@
         </Archive>
         <Archive code="0" name="item_position_map">
             <Array name="item_id">
+                <Identity value="Identity(53019,45227)" />
+                <Identity value="Identity(53019,45935)" />
+                <Identity value="Identity(53019,45246)" />
+                <Identity value="Identity(53019,45940)" />
                 <Identity value="Identity(53019,28612)" />
+                <Identity value="Identity(53019,95415)" />
                 <Identity value="Identity(53019,223372)" />
+                <Identity value="Identity(53019,83958)" />
+                <Identity value="Identity(53019,29294)" />
                 <Identity value="Identity(53019,223364)" />
                 <Identity value="Identity(53019,223348)" />
                 <Identity value="Identity(53019,215264)" />
@@ -894,10 +916,19 @@
                 <Identity value="Identity(53019,287040)" />
                 <Identity value="Identity(53019,302158)" />
                 <Identity value="Identity(53019,287046)" />
+                <Identity value="Identity(53019,95444)" />
+                <Identity value="Identity(53019,90404)" />
             </Array>
             <Array name="item_pos">
+                <IPoint value="IPoint(0,1)" />
+                <IPoint value="IPoint(3,0)" />
+                <IPoint value="IPoint(2,0)" />
+                <IPoint value="IPoint(1,0)" />
                 <IPoint value="IPoint(0,0)" />
+                <IPoint value="IPoint(1,0)" />
                 <IPoint value="IPoint(0,0)" />
+                <IPoint value="IPoint(1,2)" />
+                <IPoint value="IPoint(0,2)" />
                 <IPoint value="IPoint(3,1)" />
                 <IPoint value="IPoint(2,1)" />
                 <IPoint value="IPoint(1,1)" />
@@ -906,9 +937,16 @@
                 <IPoint value="IPoint(2,0)" />
                 <IPoint value="IPoint(0,0)" />
                 <IPoint value="IPoint(1,0)" />
+                <IPoint value="IPoint(1,0)" />
+                <IPoint value="IPoint(0,0)" />
             </Array>
             <Array name="item_school">
                 <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="1" />
                 <Int32 value="1" />
                 <Int32 value="3" />
                 <Int32 value="3" />
@@ -918,6 +956,10 @@
                 <Int32 value="3" />
                 <Int32 value="3" />
                 <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="4" />
+                <Int32 value="4" />
             </Array>
         </Archive>
     </Archive>
@@ -930,7 +972,6 @@
     <Archive name="OptionWindowConfig" code="0">
         <Rect name="WindowFrame" value="Rect(131.000000,213.000000,817.000000,705.000000)" />
         <Bool name="WindowPinButtonState" value="false" />
-        <String name="selected_panel" value='&quot;GUIEquipment Window&quot;' />
         <Array name="open_panel_folders">
             <String value='&quot;Audio&quot;' />
             <String value='&quot;Video&quot;' />
@@ -938,6 +979,7 @@
             <String value='&quot;Controls&quot;' />
             <String value='&quot;Behaviour&quot;' />
         </Array>
+        <String name="selected_panel" value='&quot;BehaviourBehaviour Settings&quot;' />
         <Int32 name="selected_tab" value="0" />
         <Float name="panel_list_scroll_offset" value="0.000000" />
         <Archive code="0" name="hotkey_config">
@@ -966,7 +1008,10 @@
     </Archive>
     <Archive name="RaidBarConfig" code="0" />
     <Archive name="RaidConfig" code="0" />
-    <Archive name="ResearchConfig" code="0" />
+    <Archive name="ResearchConfig" code="0">
+        <Rect name="WindowFrame" value="Rect(203.000000,223.000000,762.000000,743.000000)" />
+        <Bool name="WindowPinButtonState" value="false" />
+    </Archive>
     <Archive name="ShopViewConfig" code="0">
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
         <Archive code="0" name="shop_listview_config">
@@ -1004,7 +1049,7 @@
     <Archive name="SkillConfig" code="0">
         <Bool name="Minimized" value="false" />
         <Rect name="WindowFrame" value="Rect(200.000000,180.000000,920.000000,710.000000)" />
-        <Bool name="WindowPinButtonState" value="false" />
+        <Bool name="WindowPinButtonState" value="true" />
     </Archive>
     <Archive name="StatViewConfig" code="0" />
     <Archive name="StatWindowConfig" code="0" />
@@ -1048,7 +1093,7 @@
     <Value name="VisualFlags" value="127" />
     <Value name="VoiceSndFxType" value="0" />
     <Archive name="WearViewConfig" code="0">
-        <Int32 name="selected_tab" value="2" />
+        <Int32 name="selected_tab" value="1" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
     </Archive>
@@ -1091,8 +1136,8 @@
     <Value name="map_window" value="false" />
     <Value name="mechselect_window" value="false" />
     <Value name="mission_window" value="false" />
-    <Value name="nano_window" value="true" />
-    <Value name="ncu_window" value="true" />
+    <Value name="nano_window" value="false" />
+    <Value name="ncu_window" value="false" />
     <Value name="notification_window" value="true" />
     <Value name="perk_window" value="false" />
     <Value name="pet_window" value="false" />

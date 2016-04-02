@@ -11,7 +11,10 @@
             <Identity value="Identity(57008,82212)" />
             <Identity value="Identity(57008,82213)" />
             <Identity value="Identity(57008,121303)" />
+            <Identity value="Identity(57008,227312)" />
             <Identity value="Identity(57008,236669)" />
+            <Identity value="Identity(57008,266015)" />
+            <Identity value="Identity(57008,266079)" />
         </Array>
         <Array name="item_pos">
             <IPoint value="IPoint(0,1)" />
@@ -24,7 +27,10 @@
             <IPoint value="IPoint(2,1)" />
             <IPoint value="IPoint(1,2)" />
             <IPoint value="IPoint(0,2)" />
+            <IPoint value="IPoint(3,2)" />
             <IPoint value="IPoint(3,1)" />
+            <IPoint value="IPoint(0,3)" />
+            <IPoint value="IPoint(1,3)" />
         </Array>
     </Archive>
     <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />

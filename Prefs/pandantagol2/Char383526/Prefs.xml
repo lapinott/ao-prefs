@@ -71,7 +71,6 @@
             <Identity value="Identity(102,25)" />
             <Identity value="Identity(102,27)" />
             <Identity value="Identity(102,30)" />
-            <Identity value="Identity(102,18)" />
             <Identity value="Identity(102,26)" />
             <Identity value="Identity(102,28)" />
             <Identity value="Identity(101,3)" />
@@ -82,6 +81,7 @@
             <Identity value="Identity(101,13)" />
             <Identity value="Identity(101,14)" />
             <Identity value="Identity(101,15)" />
+            <Identity value="Identity(102,18)" />
         </Array>
     </Archive>
     <Archive name="FactionWindowConfig" code="0">
@@ -130,7 +130,7 @@
         <String name="DockableViewDockName" value='&quot;DockArea1&quot;' />
     </Archive>
     <Archive name="InspectViewConfig" code="0">
-        <Int32 name="selected_tab" value="0" />
+        <Int32 name="selected_tab" value="3" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;DockArea7&quot;' />
     </Archive>
@@ -1490,7 +1490,7 @@
     <Value name="VisualFlags" value="639" />
     <Value name="VoiceSndFxType" value="0" />
     <Archive name="WearViewConfig" code="0">
-        <Int32 name="selected_tab" value="0" />
+        <Int32 name="selected_tab" value="3" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
     </Archive>
@@ -1523,7 +1523,7 @@
     <Value name="control_center_active" value="true" />
     <Value name="faction_window" value="false" />
     <Value name="friends_window" value="false" />
-    <Value name="inventory_window" value="true" />
+    <Value name="inventory_window" value="false" />
     <Value name="itemshop_window" value="false" />
     <Value name="knowledge_window" value="false" />
     <Value name="lasertarget_window" value="false" />

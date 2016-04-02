@@ -1,7 +1,4 @@
 <Root>
-    <TextLine text="logged wrong toon" />
-    <TextLine text="and client down" />
-    <TextLine text="need to wait =(" />
     <TextLine text="hello" />
     <TextLine text="calm zod ?" />
     <TextLine text="oops" />
@@ -199,4 +196,7 @@
     <TextLine text="forgot OS ??" />
     <TextLine text="what is it agian lol :p" />
     <TextLine text="think OS is sold?" />
+    <TextLine text="/tell helpbot lvl 41" />
+    <TextLine text="/tell Dnet  !pvm pocketing Core hecklers first come first served no reservation NT lvl 45" />
+    <TextLine text="/tell Osakujimo yes move a bit north" />
 </Root>
