@@ -1,16 +1,16 @@
 <Archive code="0">
     <Archive code="0" name="dock_config">
-        <Array name="dock_node_configs">
-            <Archive code="0" />
-            <Archive code="0" />
-        </Array>
+        <Int32 name="selected_tab" value="-1" />
+        <Rect name="WindowFrame" value="Rect(433.000000,302.000000,608.000000,709.000000)" />
+        <Bool name="WindowPinButtonState" value="true" />
         <Array name="docked_view_identities">
             <String value='&quot;Container_51017x43919291.xml&quot;' />
             <String value='&quot;Container_51017x43917589.xml&quot;' />
         </Array>
-        <Bool name="WindowPinButtonState" value="true" />
-        <Rect name="WindowFrame" value="Rect(433.000000,302.000000,608.000000,709.000000)" />
-        <Int32 name="selected_tab" value="-1" />
+        <Array name="dock_node_configs">
+            <Archive code="0" />
+            <Archive code="0" />
+        </Array>
     </Archive>
     <String name="dock_type" value='&quot;DockTabbedWindow&quot;' />
     <String name="dock_name" value='&quot;DockArea30&quot;' />

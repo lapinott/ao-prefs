@@ -31,4 +31,6 @@
     <TextLine text="I feel like having a dive" />
     <TextLine text="/Wave" />
     <TextLine text="/tell helpbot oifhq" />
+    <TextLine text="/tell itemsbot hi" />
+    <TextLine text="/tell itemsbot volcanic e" />
 </Root>

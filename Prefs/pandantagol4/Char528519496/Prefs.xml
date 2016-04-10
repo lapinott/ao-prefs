@@ -22,7 +22,7 @@
         <Rect name="WindowFrame" value="Rect(13.000000,0.000000,23.000000,124.000000)" />
     </Archive>
     <Archive name="ChatGroupWindowConfig" code="0" />
-    <Value name="ChatLastActiveWindow" value='&quot;Window3&quot;' />
+    <Value name="ChatLastActiveWindow" value='&quot;Window4&quot;' />
     <Value name="ChatPGInviteAction" value="1" />
     <Value name="ChatTextShadowOffset" value="1" />
     <Value name="ChatWarnWhenSpeakingToUnsubGroups" value="true" />
@@ -899,13 +899,19 @@
         </Archive>
         <Archive code="0" name="item_position_map">
             <Array name="item_id">
+                <Identity value="Identity(53019,28593)" />
+                <Identity value="Identity(53019,45250)" />
+                <Identity value="Identity(53019,45939)" />
                 <Identity value="Identity(53019,45227)" />
                 <Identity value="Identity(53019,45935)" />
                 <Identity value="Identity(53019,45246)" />
                 <Identity value="Identity(53019,45940)" />
                 <Identity value="Identity(53019,28612)" />
+                <Identity value="Identity(53019,95414)" />
                 <Identity value="Identity(53019,95415)" />
                 <Identity value="Identity(53019,223372)" />
+                <Identity value="Identity(53019,117679)" />
+                <Identity value="Identity(53019,83962)" />
                 <Identity value="Identity(53019,83958)" />
                 <Identity value="Identity(53019,29294)" />
                 <Identity value="Identity(53019,223364)" />
@@ -916,16 +922,23 @@
                 <Identity value="Identity(53019,287040)" />
                 <Identity value="Identity(53019,302158)" />
                 <Identity value="Identity(53019,287046)" />
+                <Identity value="Identity(53019,95445)" />
                 <Identity value="Identity(53019,95444)" />
                 <Identity value="Identity(53019,90404)" />
             </Array>
             <Array name="item_pos">
-                <IPoint value="IPoint(0,1)" />
-                <IPoint value="IPoint(3,0)" />
-                <IPoint value="IPoint(2,0)" />
-                <IPoint value="IPoint(1,0)" />
                 <IPoint value="IPoint(0,0)" />
                 <IPoint value="IPoint(1,0)" />
+                <IPoint value="IPoint(2,0)" />
+                <IPoint value="IPoint(0,1)" />
+                <IPoint value="IPoint(3,0)" />
+                <IPoint value="IPoint(1,1)" />
+                <IPoint value="IPoint(2,1)" />
+                <IPoint value="IPoint(0,2)" />
+                <IPoint value="IPoint(0,0)" />
+                <IPoint value="IPoint(1,0)" />
+                <IPoint value="IPoint(2,0)" />
+                <IPoint value="IPoint(0,0)" />
                 <IPoint value="IPoint(0,0)" />
                 <IPoint value="IPoint(1,2)" />
                 <IPoint value="IPoint(0,2)" />
@@ -935,10 +948,11 @@
                 <IPoint value="IPoint(0,1)" />
                 <IPoint value="IPoint(3,0)" />
                 <IPoint value="IPoint(2,0)" />
+                <IPoint value="IPoint(1,0)" />
+                <IPoint value="IPoint(2,2)" />
                 <IPoint value="IPoint(0,0)" />
                 <IPoint value="IPoint(1,0)" />
-                <IPoint value="IPoint(1,0)" />
-                <IPoint value="IPoint(0,0)" />
+                <IPoint value="IPoint(2,0)" />
             </Array>
             <Array name="item_school">
                 <Int32 value="0" />
@@ -946,8 +960,13 @@
                 <Int32 value="0" />
                 <Int32 value="0" />
                 <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
                 <Int32 value="1" />
                 <Int32 value="1" />
+                <Int32 value="1" />
+                <Int32 value="2" />
                 <Int32 value="3" />
                 <Int32 value="3" />
                 <Int32 value="3" />
@@ -958,6 +977,8 @@
                 <Int32 value="3" />
                 <Int32 value="3" />
                 <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="4" />
                 <Int32 value="4" />
                 <Int32 value="4" />
             </Array>
@@ -965,7 +986,7 @@
     </Archive>
     <Archive name="NotificationWindowConfig" code="0">
         <Bool name="ClickableLinks" value="true" />
-        <Rect name="WindowFrame" value="Rect(4.000000,25.000000,1914.000000,355.000000)" />
+        <Rect name="WindowFrame" value="Rect(5.000000,25.000000,1915.000000,355.000000)" />
     </Archive>
     <Value name="NotificationWindowVisibility" value="false" />
     <Value name="NumHotbars" value="1" />
@@ -1010,7 +1031,7 @@
     <Archive name="RaidConfig" code="0" />
     <Archive name="ResearchConfig" code="0">
         <Rect name="WindowFrame" value="Rect(203.000000,223.000000,762.000000,743.000000)" />
-        <Bool name="WindowPinButtonState" value="false" />
+        <Bool name="WindowPinButtonState" value="true" />
     </Archive>
     <Archive name="ShopViewConfig" code="0">
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
@@ -1093,7 +1114,7 @@
     <Value name="VisualFlags" value="127" />
     <Value name="VoiceSndFxType" value="0" />
     <Archive name="WearViewConfig" code="0">
-        <Int32 name="selected_tab" value="1" />
+        <Int32 name="selected_tab" value="0" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
     </Archive>

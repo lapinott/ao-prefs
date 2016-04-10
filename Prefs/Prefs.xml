@@ -23,9 +23,10 @@
     <Value name="GroundTextureQuality" value="2" />
     <Value name="HardwareSurvey" value="0" />
     <Archive name="LauncherConfig" code="0">
-        <Int16 name="DisplayYPos" value="220" />
-        <Int16 name="DisplayXPos" value="556" />
+        <Bool name="FirstLaunch" value="false" />
         <String name="SelectedDimension" value='&quot;&quot;' />
+        <Int16 name="DisplayXPos" value="556" />
+        <Int16 name="DisplayYPos" value="220" />
         <Int16 name="NumAccounts" value="6" />
         <String name="Account0" value='&quot;pandantagol&quot;' />
         <String name="Account1" value='&quot;pandantagol2&quot;' />
@@ -33,8 +34,7 @@
         <String name="Account3" value='&quot;thrangor&quot;' />
         <String name="Account4" value='&quot;cerro1&quot;' />
         <String name="Account5" value='&quot;pandantagol4&quot;' />
-        <Int16 name="SelectedAccount" value="1" />
-        <Bool name="FirstLaunch" value="false" />
+        <Int16 name="SelectedAccount" value="5" />
     </Archive>
     <Value name="PlayIntro" value="0" />
     <Value name="SendDisconnectInfo" value="1" />

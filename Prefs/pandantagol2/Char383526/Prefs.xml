@@ -1310,7 +1310,7 @@
     </Archive>
     <Archive name="NotificationWindowConfig" code="0">
         <Bool name="ClickableLinks" value="true" />
-        <Rect name="WindowFrame" value="Rect(4.000000,25.000000,1914.000000,355.000000)" />
+        <Rect name="WindowFrame" value="Rect(5.000000,25.000000,1915.000000,355.000000)" />
     </Archive>
     <Value name="NotificationWindowVisibility" value="false" />
     <Value name="NumHotbars" value="3.933544" />
@@ -1533,7 +1533,7 @@
     <Value name="map_window" value="false" />
     <Value name="mechselect_window" value="false" />
     <Value name="mission_window" value="false" />
-    <Value name="nano_window" value="true" />
+    <Value name="nano_window" value="false" />
     <Value name="ncu_window" value="true" />
     <Value name="notification_window" value="true" />
     <Value name="perk_window" value="false" />
@@ -1545,7 +1545,7 @@
     <Value name="shortcutbar_window" value="true" />
     <Value name="signupterminal_window" value="false" />
     <Value name="skill_window" value="false" />
-    <Value name="specialaction_window" value="false" />
+    <Value name="specialaction_window" value="true" />
     <Value name="stat_window" value="false" />
     <Value name="team_menu" value="false" />
     <Value name="team_view" value="false" />
