@@ -93,6 +93,6 @@
             <IPoint value="IPoint(6,0)" />
         </Array>
     </Archive>
-    <Int32 name="selected_bar" value="9" />
+    <Int32 name="selected_bar" value="0" />
     <Int32 name="bar_orientation" value="0" />
 </Archive>

@@ -9,13 +9,13 @@
         <Rect name="WindowFrame" value="Rect(13.000000,144.000000,23.000000,268.000000)" />
     </Archive>
     <Archive name="CCFriendlyHealthBarConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(311.000000,37.000000,1124.000000,97.000000)" />
+        <Rect name="WindowFrame" value="Rect(311.000000,37.000000,1124.000000,60.000000)" />
     </Archive>
     <Archive name="CCHealthBarConfig" code="0">
         <Rect name="WindowFrame" value="Rect(0.000000,0.000000,10.000000,124.000000)" />
     </Archive>
     <Archive name="CCHostileHealthBarConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(322.000000,45.000000,1135.000000,92.000000)" />
+        <Rect name="WindowFrame" value="Rect(322.000000,45.000000,1135.000000,103.000000)" />
     </Archive>
     <Archive name="CCNanoBarConfig" code="0">
         <Rect name="WindowFrame" value="Rect(0.000000,144.000000,10.000000,268.000000)" />

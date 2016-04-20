@@ -3,7 +3,7 @@
         <Archive code="0" name="dock_node_configs" />
         <String name="docked_view_identities" value='&quot;inventory_window&quot;' />
         <Bool name="WindowPinButtonState" value="true" />
-        <Rect name="WindowFrame" value="Rect(1249.000000,403.000000,1551.000000,694.000000)" />
+        <Rect name="WindowFrame" value="Rect(1206.000000,380.000000,1508.000000,671.000000)" />
         <Int32 name="selected_tab" value="-1" />
     </Archive>
     <String name="dock_type" value='&quot;DockTabbedWindow&quot;' />

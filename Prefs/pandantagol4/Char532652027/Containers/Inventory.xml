@@ -1,0 +1,49 @@
+<Archive code="0">
+    <String name="DockableViewDockName" value='&quot;DockArea0&quot;' />
+    <Point name="scroll_offset" value="Point(0.000000,0.000000)" />
+    <Archive code="0" name="listview_config">
+        <Array name="col_id">
+            <Int32 value="0" />
+            <Int32 value="1" />
+            <Int32 value="2" />
+            <Int32 value="4" />
+        </Array>
+        <Array name="col_flags">
+            <Int32 value="8" />
+            <Int32 value="14" />
+            <Int32 value="14" />
+            <Int32 value="14" />
+        </Array>
+        <Array name="col_width">
+            <Float value="16.000000" />
+            <Float value="200.000000" />
+            <Float value="30.000000" />
+            <Float value="100.000000" />
+        </Array>
+        <Int32 name="list_sort_column" value="1" />
+        <Int32 name="list_sort_order" value="0" />
+        <Bool name="listview_mode" value="false" />
+    </Archive>
+    <Archive code="0" name="item_position_map">
+        <Array name="item_id">
+            <Identity value="Identity(104,71)" />
+            <Identity value="Identity(104,69)" />
+            <Identity value="Identity(104,72)" />
+            <Identity value="Identity(104,73)" />
+            <Identity value="Identity(104,78)" />
+            <Identity value="Identity(104,64)" />
+            <Identity value="Identity(104,65)" />
+            <Identity value="Identity(104,66)" />
+        </Array>
+        <Array name="item_pos">
+            <IPoint value="IPoint(2,0)" />
+            <IPoint value="IPoint(0,1)" />
+            <IPoint value="IPoint(3,0)" />
+            <IPoint value="IPoint(4,0)" />
+            <IPoint value="IPoint(1,0)" />
+            <IPoint value="IPoint(0,0)" />
+            <IPoint value="IPoint(2,1)" />
+            <IPoint value="IPoint(1,1)" />
+        </Array>
+    </Archive>
+</Archive>

@@ -8,5 +8,5 @@ displayname     =       Rubi-Ka
 connect         =       cm.d1.funcom.com
 ports           =       7505
 url             =       
-version         =       18.8.12
+version         =       18.8.13
 ENDINFO
