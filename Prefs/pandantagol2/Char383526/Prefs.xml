@@ -9,7 +9,7 @@
         <Rect name="WindowFrame" value="Rect(13.000000,144.000000,23.000000,268.000000)" />
     </Archive>
     <Archive name="CCFriendlyHealthBarConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(23.000000,5.000000,836.000000,65.000000)" />
+        <Rect name="WindowFrame" value="Rect(23.000000,5.000000,836.000000,28.000000)" />
     </Archive>
     <Archive name="CCHealthBarConfig" code="0">
         <Rect name="WindowFrame" value="Rect(0.000000,0.000000,10.000000,124.000000)" />
@@ -1523,7 +1523,7 @@
     <Value name="control_center_active" value="true" />
     <Value name="faction_window" value="false" />
     <Value name="friends_window" value="true" />
-    <Value name="inventory_window" value="true" />
+    <Value name="inventory_window" value="false" />
     <Value name="itemshop_window" value="false" />
     <Value name="knowledge_window" value="false" />
     <Value name="lasertarget_window" value="false" />
@@ -1551,5 +1551,5 @@
     <Value name="team_view" value="false" />
     <Value name="teleport_target_window" value="false" />
     <Value name="tradeskill_window" value="false" />
-    <Value name="wear_window" value="true" />
+    <Value name="wear_window" value="false" />
 </Root>

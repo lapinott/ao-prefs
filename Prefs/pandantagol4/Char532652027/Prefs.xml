@@ -1014,7 +1014,7 @@
     </Archive>
     <Archive name="NotificationWindowConfig" code="0">
         <Bool name="ClickableLinks" value="true" />
-        <Rect name="WindowFrame" value="Rect(5.000000,25.000000,1915.000000,355.000000)" />
+        <Rect name="WindowFrame" value="Rect(4.000000,25.000000,1914.000000,355.000000)" />
     </Archive>
     <Value name="NotificationWindowVisibility" value="false" />
     <Value name="NumHotbars" value="1" />
@@ -1038,8 +1038,8 @@
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
     </Archive>
     <Archive name="PerkWindowConfig" code="0">
-        <Int32 name="SelectedTab" value="1" />
-        <Rect name="WindowFrame" value="Rect(591.000000,391.000000,1327.000000,682.000000)" />
+        <Int32 name="SelectedTab" value="2" />
+        <Rect name="WindowFrame" value="Rect(592.000000,390.000000,1328.000000,682.000000)" />
         <Bool name="WindowPinButtonState" value="false" />
     </Archive>
     <Value name="PetName1" value='&quot;&quot;' />
@@ -1059,7 +1059,7 @@
     <Archive name="RaidBarConfig" code="0" />
     <Archive name="RaidConfig" code="0" />
     <Archive name="ResearchConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(125.000000,245.000000,684.000000,765.000000)" />
+        <Rect name="WindowFrame" value="Rect(127.000000,243.000000,686.000000,763.000000)" />
         <Bool name="WindowPinButtonState" value="true" />
     </Archive>
     <Archive name="ShopViewConfig" code="0">

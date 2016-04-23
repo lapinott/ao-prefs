@@ -1,2 +1,20 @@
-[00:07:10] Abort() was called
-[00:07:10] Abort() was called
+[02:16:22] Process token elevation type is: TokenElevationTypeLimited
+[02:16:22] TokenIsElevated: false
+[02:16:22] Running un-elevated, proceeding normally.
+[02:16:24] Checking integrity of files:
+[02:16:24] No problems found.
+
+[02:16:24] Cleaning folder 'C:/Users/jumat/AppData/Local/Funcom/Anarchy Online/70dad3e6/Anarchy Online/PatchesUndo\*.*'
+[02:16:25] Setting timeout to 30 seconds
+[02:16:25] Setting timeout to 30 seconds
+[02:16:25] Getting filecontents for dimensions.anarchy-online.com:80/new-dimensions/dimensions_v2.txt
+[02:16:25] Successfully downloaded file /new-dimensions/dimensions_v2.txt
+[02:16:25] Setting timeout to 30 seconds
+[02:16:25] Testing connection to cm.d1.funcom.com:7505
+[02:16:26] Setting timeout to 30 seconds
+[02:16:26] Looking up aliases for cm.d1.funcom.com
+[02:16:26] Added alias: 37.18.192.41
+[02:16:26] Connected successfully to server 37.18.192.41 : 7505!
+
+[02:16:26] Abort() was called
+[02:16:26] Abort() was called
