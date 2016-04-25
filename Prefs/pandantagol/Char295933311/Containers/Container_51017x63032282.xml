@@ -28,14 +28,10 @@
         <Array name="item_id">
             <Identity value="Identity(107,6881283)" />
             <Identity value="Identity(107,6881284)" />
-            <Identity value="Identity(107,6881280)" />
-            <Identity value="Identity(107,6881281)" />
         </Array>
         <Array name="item_pos">
             <IPoint value="IPoint(0,1)" />
             <IPoint value="IPoint(1,1)" />
-            <IPoint value="IPoint(0,0)" />
-            <IPoint value="IPoint(1,0)" />
         </Array>
     </Archive>
 </Archive>

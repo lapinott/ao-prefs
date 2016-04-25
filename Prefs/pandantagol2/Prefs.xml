@@ -13,8 +13,16 @@
     <Value name="ChatTextFadeDelay" value="8.000000" />
     <Value name="ChatTextFadeTime" value="0.300000" />
     <Value name="DisplayCharViewDistance" value="80" />
+    <Value name="DisplayEnableGrass" value="true" />
+    <Value name="DisplayEnableGrassPhysics" value="true" />
+    <Value name="DisplayEnableMeshGrass" value="true" />
+    <Value name="DisplayGrassRange" value="100" />
     <Value name="DisplayGroundFullQualityRadius" value="44" />
     <Value name="DisplayGroundQuality" value="200" />
+    <Value name="DisplayHQCharRange" value="25" />
+    <Value name="DisplayHQGrassRange" value="50" />
+    <Value name="DisplayHQMeshRange" value="150" />
+    <Value name="DisplayTextureLOD" value="2.000000" />
     <Value name="DisplayXPos" value="0" />
     <Value name="DisplayYPos" value="0" />
     <Value name="DoubleclickAction" value="true" />
@@ -23,7 +31,7 @@
     <Value name="IsTipEnabled" value="false" />
     <Value name="ItemDescriptionTooltips" value="true" />
     <Value name="LMBMouseLook" value="true" />
-    <Value name="MasterVolume" value="0.247278" />
+    <Value name="MasterVolume" value="0.502333" />
     <Value name="MouseButtonHoldDelay" value="0.300000" />
     <Value name="MouseCursorMode" value="2" />
     <Value name="MouseTurnSensitivity" value="6.004594" />

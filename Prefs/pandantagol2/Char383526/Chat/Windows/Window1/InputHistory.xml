@@ -1,77 +1,4 @@
 <Root>
-    <TextLine text="ill sell mine lol :p" />
-    <TextLine text="im sick of waiting :(" />
-    <TextLine text="stim plz" />
-    <TextLine text="sorry didnt see them coming =(" />
-    <TextLine text="hide behind big pointy teeth" />
-    <TextLine text="lets go" />
-    <TextLine text="agent root balls when u here" />
-    <TextLine text="crat too" />
-    <TextLine text="r?" cursor_pos="3" />
-    <TextLine text="yeah fukit" />
-    <TextLine text=":(" />
-    <TextLine text="doesnt count when boss pops in middle" />
-    <TextLine text="im sick been way too long anyways :(" />
-    <TextLine text="i know what you mean lol" />
-    <TextLine text="bye" />
-    <TextLine text="/tell Paraid !leave" />
-    <TextLine text="/tell Siberia thx =)" />
-    <TextLine text="/tell Siberia I forgot about the eremites lol" />
-    <TextLine text="hey guys" />
-    <TextLine text="hey" />
-    <TextLine text="what do you need to do so the yutto talks to you ?" />
-    <TextLine text="hmmk :/" />
-    <TextLine text="/petition" />
-    <TextLine text="/tell Dunhill420 YOOOOOOOOOOOOOOOOOOOO" />
-    <TextLine text="/tell Dunhill420 sup nigga ????!" />
-    <TextLine text="/tell Shishkebab np" />
-    <TextLine text="hi need ost ?" />
-    <TextLine text="I have a toon too" />
-    <TextLine text="need NT :)" />
-    <TextLine text="ok lemme bring toon here" />
-    <TextLine text="and relog quick" />
-    <TextLine text="/tell Neutnet !pvm Nascence hecks lf NT got enfo" />
-    <TextLine text="nano buffs plz" />
-    <TextLine text="r ?" />
-    <TextLine text="lets see :P" />
-    <TextLine text="/Disco" />
-    <TextLine text="cost plz" />
-    <TextLine text="ty" />
-    <TextLine text="/s r" />
-    <TextLine text="/s dont root em plz" />
-    <TextLine text="/s FFS!!!!!!!!!!!" cursor_pos="18" />
-    <TextLine text="gtfo lol" />
-    <TextLine text="come  north" />
-    <TextLine text="hi" />
-    <TextLine text="/tell Dnet !pvm ost looking for 100ish NT  @ nascence hecks" />
-    <TextLine text="/tell Neutnet !pvm ost looking for 100ish NT  @ nascence hecks" cursor_pos="13" />
-    <TextLine text="got NT ?" />
-    <TextLine text="where are the empty implants now ?" />
-    <TextLine text="found thx" />
-    <TextLine text="wtf lol" />
-    <TextLine text="wtf are you doing" />
-    <TextLine text="can you stop messing with that door  ?" />
-    <TextLine text="lol" />
-    <TextLine text="/tell Mainstage if you stop messing with that door yes" />
-    <TextLine text="%t" />
-    <TextLine text="/tell Atomkraft np" />
-    <TextLine text="/tell %t thx" />
-    <TextLine text="/tell Dnet !shopping WTB Filligree Ring set with a Diamond +3 PST" />
-    <TextLine text="/tell Neutnet !shopping WTB Filligree Ring set with a Diamond +3 PST" cursor_pos="13" />
-    <TextLine text="/tell Kontiky hi" />
-    <TextLine text="/tell Kontiky yes got ?" />
-    <TextLine text='/tell Kontiky can you tradeskill it ? got &lt;a href=&quot;itemref://151363/151363/250&quot;&gt;Small Platinum Ingot&lt;/a&gt; &lt;a href=&quot;itemref://232730/232731/340&quot;&gt;Diamond&lt;/a&gt;' />
-    <TextLine text="/tell Kontiky time and space" />
-    <TextLine text="/tell Kontiky h mnice" />
-    <TextLine text="/tell Kontiky nice" />
-    <TextLine text="/tell Kontiky how much ?" />
-    <TextLine text="/tell Kontiky 30m ?" />
-    <TextLine text="/tell Kontiky ok cool :)" />
-    <TextLine text="/tell Kontiky where u at ?" />
-    <TextLine text="/tell Kontiky brt" />
-    <TextLine text="/tell Kontiky meet at ICC ? guards are attacking me :p" />
-    <TextLine text="/tell Kontiky yus :p" />
-    <TextLine text="/tell Kontiky :p" />
     <TextLine text="/tell Kontiky waiting  at ICC grid" />
     <TextLine text="/bow" />
     <TextLine text="/tell Kontiky nice ring =D" />
@@ -134,7 +61,6 @@
     <TextLine text="/tell Lagsalot not sure I equipped before rebalance and stuff..." />
     <TextLine text="/tell Dnet !shopping WTB ql250 Small Platinum ingot PST" />
     <TextLine text="/tell Neutnet !shopping WTB ql250 Small Platinum ingot PST" cursor_pos="13" />
-    <TextLine text="/wave" />
     <TextLine text="sup :&amp;gt;" />
     <TextLine text="/tell Dunhillbaky stuff" />
     <TextLine text="/tell Dunhillbaky :P" />
@@ -199,4 +125,78 @@
     <TextLine text="/tell Bloxer kk" />
     <TextLine text='/tell  Dnet !shopping WTB &lt;a href=&quot;itemref://244331/244332/207&quot;&gt;Perfectly Cut Black opal&lt;/a&gt; ql212+' />
     <TextLine text='/tell  Neutnet !shopping WTB &lt;a href=&quot;itemref://244331/244332/207&quot;&gt;Perfectly Cut Black opal&lt;/a&gt; ql212+' cursor_pos="14" />
+    <TextLine text="/tell Dnet !shopping WTB ql212+ Black Opal" />
+    <TextLine text="/tell Neutnet !shopping WTB ql212+ Black Opal" cursor_pos="13" />
+    <TextLine text="/tell helpbot !calc weofjhwf" />
+    <TextLine text="is spec 1 book still tradable ?" />
+    <TextLine text="cant find on GMI" />
+    <TextLine text="ok found :p" />
+    <TextLine text="/tell Zoreftharam not now sry" />
+    <TextLine text="/tell Blurftw hi" />
+    <TextLine text="/tell %t lol" />
+    <TextLine text="/tell Motomoto rofl" />
+    <TextLine text="/tell Motomoto yeah well" />
+    <TextLine text="/tell Motomoto I can root tho" />
+    <TextLine text="/tell Motomoto didnt even hit you brah" />
+    <TextLine text="/tell Motomoto ^^" />
+    <TextLine text="/tell Motomoto hmk" />
+    <TextLine text="/tell Motomoto they just did" />
+    <TextLine text="/tell Motomoto yus" />
+    <TextLine text="/tell Blurftw wut?" />
+    <TextLine text="/tell Blurftw wtf lol" />
+    <TextLine text="/tell Blurftw i take 148 creds for service" />
+    <TextLine text="/backflip" />
+    <TextLine text="/tell Agentilusion hi" />
+    <TextLine text="/tell Agentilusion ?" />
+    <TextLine text="/tell Agentilusion what for ?" />
+    <TextLine text="/tell Agentilusion ely ?" />
+    <TextLine text="/tell Agentilusion got NT need some research" />
+    <TextLine text="/tell Agentilusion going now actually" />
+    <TextLine text="/tell Agentilusion going ely sry :(" />
+    <TextLine text="/tell Dnet !events lvl 1-5 PVP tournament PST to subscribe!" />
+    <TextLine text="/tell Neutnet lvl 1-5 PVP tournament PST to subscribe! 35m to win" />
+    <TextLine text="/tell Neutnet !general lvl 1-5 PVP tournament PST to subscribe! 35m to win" cursor_pos="23" />
+    <TextLine text="/tell Neutnet !events lvl 1-5 PVP tournament @Borealis PST to subscribe! 35m to win" cursor_pos="54" />
+    <TextLine text="/tell Razna in an hour or so" />
+    <TextLine text="/tell Razna nope I just wanted to do that" />
+    <TextLine text="/tell Razna rules will come :p" />
+    <TextLine text="/tell Razna ?" />
+    <TextLine text="/played" />
+    <TextLine text="/tell Neutnet !shopping Anyone have a black opal for sale ?" />
+    <TextLine text="/tell Malik1 sure" />
+    <TextLine text="/tell Malik1 not sure I wanna come lol" />
+    <TextLine text="/tell Malik1 do jewels drop in pande ? cant remember" />
+    <TextLine text="/tell Malik1 black opal" />
+    <TextLine text="/tell Crawl no regular inf sry" />
+    <TextLine text="/tell Pataditas yes I can" />
+    <TextLine text="/tell Pataditas im in jove" />
+    <TextLine text="/tell Pataditas you know jove is nowhere right ?" />
+    <TextLine text="/tell Pataditas yes" />
+    <TextLine text="/tell Pataditas im at the doors" />
+    <TextLine text="/tell Pataditas ffs come ICC then" />
+    <TextLine text="/tell Pataditas grid" />
+    <TextLine text="/tell Pataditas np [:" />
+    <TextLine text="/tell Neutnet !events offering 30m to the first toon who can hug me .. Im hiding in the ruins North of Archbile sanctuary stone West Elysium 1hr left" />
+    <TextLine text="/tell Whassup cheater" />
+    <TextLine text="/tell Whassup you didnt physically hug me" />
+    <TextLine text="/tell Sanngrithr what is that ?" />
+    <TextLine text="/tell Whassup bring your lazy a** to ely instead :P" />
+    <TextLine text="/tell Whassup it&apos;s fun to watch those people running around lol" />
+    <TextLine text="/s hellooooooooooooooooooo!" />
+    <TextLine text="/s keep looking! &amp;lt;3 :)" />
+    <TextLine text="/tell Whassup that&apos;s where I hide" />
+    <TextLine text="/tell Whassup come hug me" />
+    <TextLine text="/tell Wrongbutton mt" />
+    <TextLine text="/tell Whassup mt" />
+    <TextLine text="/tell Wrongbutton what?" />
+    <TextLine text="/sleep" />
+    <TextLine text="/s lul" />
+    <TextLine text="/s %t gonna win" />
+    <TextLine text="/s huhuhu" />
+    <TextLine text="/tell Neutnet !events offering 30m to the first toon who can hug me .. Im hiding in the ruins North of Archbile sanctuary stone West Elysium 45min left" cursor_pos="146" />
+    <TextLine text="/s im there!" />
+    <TextLine text="/tell Sanngrithr did you give up ?" />
+    <TextLine text="/tell Sanngrithr yes you can" />
+    <TextLine text="/tell Sanngrithr you cant jump up here from where you were" />
+    <TextLine text="/wave" />
 </Root>

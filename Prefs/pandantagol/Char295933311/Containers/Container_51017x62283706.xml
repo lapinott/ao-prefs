@@ -24,8 +24,5 @@
         <Int32 name="list_sort_order" value="0" />
         <Bool name="listview_mode" value="false" />
     </Archive>
-    <Archive code="0" name="item_position_map">
-        <Identity name="item_id" value="Identity(107,7077888)" />
-        <IPoint name="item_pos" value="IPoint(2,0)" />
-    </Archive>
+    <Archive code="0" name="item_position_map" />
 </Archive>

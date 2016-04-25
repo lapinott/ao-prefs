@@ -3,7 +3,7 @@
         <Archive code="0" name="dock_node_configs" />
         <String name="docked_view_identities" value='&quot;planetmap_window&quot;' />
         <Bool name="WindowPinButtonState" value="true" />
-        <Rect name="WindowFrame" value="Rect(373.000000,120.000000,1114.000000,826.000000)" />
+        <Rect name="WindowFrame" value="Rect(34.000000,133.000000,782.000000,839.000000)" />
         <Int32 name="selected_tab" value="-1" />
     </Archive>
     <String name="dock_type" value='&quot;DockTabbedWindow&quot;' />

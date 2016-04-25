@@ -42,11 +42,11 @@
             <Identity value="Identity(107,6881293)" />
             <Identity value="Identity(107,6881298)" />
             <Identity value="Identity(107,6881285)" />
-            <Identity value="Identity(107,6881287)" />
             <Identity value="Identity(107,6881299)" />
             <Identity value="Identity(107,6881288)" />
             <Identity value="Identity(107,6881282)" />
             <Identity value="Identity(107,6881289)" />
+            <Identity value="Identity(107,6881287)" />
         </Array>
         <Array name="item_pos">
             <IPoint value="IPoint(2,6)" />
@@ -65,11 +65,11 @@
             <IPoint value="IPoint(0,4)" />
             <IPoint value="IPoint(2,5)" />
             <IPoint value="IPoint(1,1)" />
-            <IPoint value="IPoint(0,1)" />
             <IPoint value="IPoint(0,6)" />
             <IPoint value="IPoint(2,2)" />
             <IPoint value="IPoint(1,5)" />
             <IPoint value="IPoint(0,0)" />
+            <IPoint value="IPoint(0,1)" />
         </Array>
     </Archive>
 </Archive>

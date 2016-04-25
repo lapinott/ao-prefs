@@ -1,6 +1,6 @@
 <Archive code="0">
     <String name="DockableViewDockName" value='&quot;DockArea13&quot;' />
-    <Point name="scroll_offset" value="Point(0.000000,-638.000000)" />
+    <Point name="scroll_offset" value="Point(0.000000,-522.000000)" />
     <Archive code="0" name="listview_config">
         <Array name="col_id">
             <Int32 value="0" />
@@ -54,8 +54,6 @@
             <Identity value="Identity(105,25)" />
             <Identity value="Identity(105,10)" />
             <Identity value="Identity(105,43)" />
-            <Identity value="Identity(105,30)" />
-            <Identity value="Identity(105,29)" />
             <Identity value="Identity(105,53)" />
             <Identity value="Identity(105,54)" />
             <Identity value="Identity(105,55)" />
@@ -71,7 +69,6 @@
             <Identity value="Identity(105,47)" />
             <Identity value="Identity(105,9)" />
             <Identity value="Identity(105,41)" />
-            <Identity value="Identity(105,50)" />
             <Identity value="Identity(105,39)" />
             <Identity value="Identity(105,19)" />
             <Identity value="Identity(105,31)" />
@@ -83,9 +80,11 @@
             <Identity value="Identity(105,40)" />
             <Identity value="Identity(105,44)" />
             <Identity value="Identity(105,46)" />
-            <Identity value="Identity(105,48)" />
-            <Identity value="Identity(105,49)" />
             <Identity value="Identity(105,52)" />
+            <Identity value="Identity(105,50)" />
+            <Identity value="Identity(105,30)" />
+            <Identity value="Identity(105,29)" />
+            <Identity value="Identity(105,48)" />
         </Array>
         <Array name="item_pos">
             <IPoint value="IPoint(0,13)" />
@@ -116,8 +115,6 @@
             <IPoint value="IPoint(1,9)" />
             <IPoint value="IPoint(0,17)" />
             <IPoint value="IPoint(1,17)" />
-            <IPoint value="IPoint(2,10)" />
-            <IPoint value="IPoint(1,10)" />
             <IPoint value="IPoint(0,18)" />
             <IPoint value="IPoint(1,18)" />
             <IPoint value="IPoint(2,18)" />
@@ -133,7 +130,6 @@
             <IPoint value="IPoint(1,16)" />
             <IPoint value="IPoint(2,16)" />
             <IPoint value="IPoint(2,14)" />
-            <IPoint value="IPoint(0,11)" />
             <IPoint value="IPoint(0,15)" />
             <IPoint value="IPoint(0,14)" />
             <IPoint value="IPoint(2,1)" />
@@ -145,9 +141,11 @@
             <IPoint value="IPoint(1,7)" />
             <IPoint value="IPoint(0,7)" />
             <IPoint value="IPoint(1,15)" />
-            <IPoint value="IPoint(2,9)" />
-            <IPoint value="IPoint(0,10)" />
             <IPoint value="IPoint(2,20)" />
+            <IPoint value="IPoint(0,11)" />
+            <IPoint value="IPoint(2,10)" />
+            <IPoint value="IPoint(1,10)" />
+            <IPoint value="IPoint(2,9)" />
         </Array>
     </Archive>
 </Archive>
