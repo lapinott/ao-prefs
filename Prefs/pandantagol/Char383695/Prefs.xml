@@ -9,7 +9,7 @@
         <Rect name="WindowFrame" value="Rect(13.000000,144.000000,23.000000,268.000000)" />
     </Archive>
     <Archive name="CCFriendlyHealthBarConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(311.000000,37.000000,1124.000000,97.000000)" />
+        <Rect name="WindowFrame" value="Rect(311.000000,37.000000,1124.000000,60.000000)" />
     </Archive>
     <Archive name="CCHealthBarConfig" code="0">
         <Rect name="WindowFrame" value="Rect(0.000000,0.000000,10.000000,124.000000)" />
@@ -813,7 +813,7 @@
     </Archive>
     <Archive name="NanoViewConfig" code="0">
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
-        <Int32 name="selected_school" value="4" />
+        <Int32 name="selected_school" value="5" />
         <Bool name="listview_mode" value="false" />
         <Archive code="0" name="listview_config0">
             <Array name="col_id">
@@ -1203,7 +1203,6 @@
                 <Identity value="Identity(53019,270356)" />
                 <Identity value="Identity(53019,117678)" />
                 <Identity value="Identity(53019,117679)" />
-                <Identity value="Identity(53019,302540)" />
                 <Identity value="Identity(53019,302548)" />
                 <Identity value="Identity(53019,302274)" />
                 <Identity value="Identity(53019,300850)" />
@@ -1278,6 +1277,7 @@
                 <Identity value="Identity(53019,95447)" />
                 <Identity value="Identity(53019,90405)" />
                 <Identity value="Identity(53019,90400)" />
+                <Identity value="Identity(53019,302540)" />
                 <Identity value="Identity(53019,294174)" />
                 <Identity value="Identity(53019,150502)" />
                 <Identity value="Identity(53019,202262)" />
@@ -1389,7 +1389,6 @@
                 <IPoint value="IPoint(2,1)" />
                 <IPoint value="IPoint(0,1)" />
                 <IPoint value="IPoint(0,2)" />
-                <IPoint value="IPoint(0,0)" />
                 <IPoint value="IPoint(1,0)" />
                 <IPoint value="IPoint(3,6)" />
                 <IPoint value="IPoint(2,0)" />
@@ -1464,6 +1463,7 @@
                 <IPoint value="IPoint(2,6)" />
                 <IPoint value="IPoint(0,7)" />
                 <IPoint value="IPoint(1,7)" />
+                <IPoint value="IPoint(0,1)" />
                 <IPoint value="IPoint(2,0)" />
                 <IPoint value="IPoint(1,0)" />
                 <IPoint value="IPoint(0,0)" />
@@ -1626,7 +1626,6 @@
                 <Int32 value="3" />
                 <Int32 value="3" />
                 <Int32 value="3" />
-                <Int32 value="3" />
                 <Int32 value="4" />
                 <Int32 value="4" />
                 <Int32 value="4" />
@@ -1650,6 +1649,7 @@
                 <Int32 value="4" />
                 <Int32 value="4" />
                 <Int32 value="4" />
+                <Int32 value="5" />
                 <Int32 value="5" />
                 <Int32 value="5" />
                 <Int32 value="5" />
@@ -1885,7 +1885,7 @@
     <Value name="control_center_active" value="true" />
     <Value name="faction_window" value="false" />
     <Value name="friends_window" value="false" />
-    <Value name="inventory_window" value="true" />
+    <Value name="inventory_window" value="false" />
     <Value name="itemshop_window" value="false" />
     <Value name="knowledge_window" value="false" />
     <Value name="lasertarget_window" value="false" />
@@ -1907,11 +1907,11 @@
     <Value name="shortcutbar_window" value="true" />
     <Value name="signupterminal_window" value="false" />
     <Value name="skill_window" value="false" />
-    <Value name="specialaction_window" value="false" />
+    <Value name="specialaction_window" value="true" />
     <Value name="stat_window" value="false" />
     <Value name="team_menu" value="true" />
     <Value name="team_view" value="false" />
     <Value name="teleport_target_window" value="false" />
     <Value name="tradeskill_window" value="false" />
-    <Value name="wear_window" value="true" />
+    <Value name="wear_window" value="false" />
 </Root>

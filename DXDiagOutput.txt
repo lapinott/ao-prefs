@@ -1,7 +1,7 @@
 ------------------
 System Information
 ------------------
-      Time of this report: 4/19/2016, 23:47:17
+      Time of this report: 4/27/2016, 19:27:02
              Machine name: DESKTOP-HI302K3
          Operating System: Windows 10 Professionnel 64-bit (10.0, Build 10586) (10586.th2_release_sec.160328-1908)
                  Language: French (Regional Setting: French)
@@ -11,7 +11,7 @@ System Information
                 Processor: Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz (4 CPUs), ~2.4GHz
                    Memory: 8192MB RAM
       Available OS Memory: 7894MB RAM
-                Page File: 2079MB used, 7093MB available
+                Page File: 2411MB used, 6761MB available
               Windows Dir: C:\WINDOWS
           DirectX Version: 
       DX Setup Parameters: Not found
@@ -241,73 +241,11 @@ Vendor/Product ID: 0x06CB, 0x75BF
 Vendor/Product ID: 0x413C, 0xABCE
         FF Driver: n/a
 
-      Device Name: Alienware TactX Mouse
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x187C, 0x0515
-        FF Driver: n/a
-
-      Device Name: Alienware TactX Mouse
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x187C, 0x0515
-        FF Driver: n/a
-
-      Device Name: Alienware TactX Mouse
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x187C, 0x0515
-        FF Driver: n/a
-
-      Device Name: Alienware TactX Mouse
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x187C, 0x0515
-        FF Driver: n/a
-
-      Device Name: Alienware TactX Mouse
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x187C, 0x0515
-        FF Driver: n/a
-
 Poll w/ Interrupt: No
 
 -----------
 USB Devices
 -----------
-+ Concentrateur USB racine (xHCI)
-| Vendor/Product ID: 0x8086, 0x9D2F
-| Matching Device ID: USB\ROOT_HUB30
-| Service: USBHUB3
-| 
-+-+ Périphérique USB composite
-| | Vendor/Product ID: 0x187C, 0x0515
-| | Location: Port_#0001.Hub_#0001
-| | Matching Device ID: USB\COMPOSITE
-| | Service: usbccgp
-| | 
-| +-+ Périphérique d’entrée USB
-| | | Vendor/Product ID: 0x187C, 0x0515
-| | | Location: 0000.0014.0000.001.000.000.000.000.000
-| | | Matching Device ID: USB\Class_03&SubClass_01
-| | | Service: HidUsb
-| | | 
-| | +-+ Souris HID
-| | | | Vendor/Product ID: 0x187C, 0x0515
-| | | | Matching Device ID: HID_DEVICE_SYSTEM_MOUSE
-| | | | Service: mouhid
-| | | 
-| +-+ Périphérique d’entrée USB
-| | | Vendor/Product ID: 0x187C, 0x0515
-| | | Location: 0000.0014.0000.001.000.000.000.000.000
-| | | Matching Device ID: USB\Class_03
-| | | Service: HidUsb
-| | | 
-| | +-+ Périphérique clavier PIH
-| | | | Vendor/Product ID: 0x187C, 0x0515
-| | | | Matching Device ID: HID_DEVICE_SYSTEM_KEYBOARD
-| | | | Service: kbdhid
 
 ----------------
 Gameport Devices
@@ -951,6 +889,156 @@ Diagnostics
 
 Windows Error Reporting:
 +++ WER0 +++:
+Récipient d’erreurs 128950946396, type 5
+Nom d’événement : RADAR_PRE_LEAK_WOW64
+Réponse : Non disponible
+ID de CAB : 0
+
+Signature du problème : 
+P1 : AnarchyOnline.exe
+P2 : 1.0.0.1
+P3 : 10.0.10586.2.0.0
+P4 : 
+P5 : 
+P6 : 
+P7 : 
+P8 : 
+P9 : 
+P10 : 
+
+Fichiers joints :
+C:\Users\jumat\AppData\Local\Temp\RDR879.tmp\empty.txt
+C:\Users\jumat\AppData\Local\Temp\WER8C8.tmp.WERInternalMetadata.xml
+
+Ces fichiers sont peut-être disponibles ici :
+
+
+Symbole d’analyse : 
+Nouvelle recherche de la solution : 0
+ID de rapport : f2bf3925-0bdd-11e6-8dac-34de1aa6eba3
+Statut du rapport : 0
+Récipient avec hachage : 3df4f27984074c981c302d362016df39
++++ WER1 +++:
+Récipient d’erreurs 125874804149, type 5
+Nom d’événement : WindowsWcpOtherFailure3
+Réponse : Non disponible
+ID de CAB : 0
+
+Signature du problème : 
+P1 : 10.0.10586.168:1
+P2 : sil\merged\ntu\ntsystem.cpp
+P3 : Windows::Rtl::SystemImplementation::DirectFileSystemProvider::SysCreateFile
+P4 : 3003
+P5 : c0190001
+P6 : 0xd22be80f
+P7 : 
+P8 : 
+P9 : 
+P10 : 
+
+Fichiers joints :
+C:\Windows\Logs\CBS\CBS.log
+C:\Windows\Logs\CBS\CbsPersist_20160415201052.cab
+C:\Windows\Logs\CBS\CbsPersist_20160413233157.cab
+C:\Windows\Logs\CBS\CbsPersist_20160327223306.cab
+C:\Windows\Logs\CBS\CbsPersist_20160313113856.cab
+C:\Windows\Logs\CBS\CbsPersist_20160311223641.cab
+C:\Windows\servicing\Sessions\Sessions.xml
+C:\Windows\WinSxS\poqexec.log
+C:\Windows\Logs\CBS\FilterList.log
+C:\Windows\WinSxS\Temp\LogFiles\NtfsLog.etl
+C:\Windows\Temp\WER5067.tmp.WERInternalMetadata.xml
+C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Critical_10.0.10586.168_1_54feb7f0a1decf2316df786576235c89a09e32c0_00000000_cab_35725077\memory.hdmp
+C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Critical_10.0.10586.168_1_54feb7f0a1decf2316df786576235c89a09e32c0_00000000_cab_35725077\minidump.mdmp
+
+Ces fichiers sont peut-être disponibles ici :
+C:\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_10.0.10586.168_1_54feb7f0a1decf2316df786576235c89a09e32c0_00000000_070e5b74
+
+Symbole d’analyse : 
+Nouvelle recherche de la solution : 0
+ID de rapport : 6985f9e0-0900-11e6-8dab-34de1aa6eba3
+Statut du rapport : 0
+Récipient avec hachage : a6b1af18e545e6e25dc710022d3407f7
++++ WER2 +++:
+Récipient d’erreurs , type 0
+Nom d’événement : WindowsWcpOtherFailure3
+Réponse : Non disponible
+ID de CAB : 0
+
+Signature du problème : 
+P1 : 10.0.10586.168:1
+P2 : sil\merged\ntu\ntsystem.cpp
+P3 : Windows::Rtl::SystemImplementation::DirectFileSystemProvider::SysCreateFile
+P4 : 3003
+P5 : c0190001
+P6 : 0xd22be80f
+P7 : 
+P8 : 
+P9 : 
+P10 : 
+
+Fichiers joints :
+C:\Windows\Logs\CBS\CBS.log
+C:\Windows\Logs\CBS\CbsPersist_20160415201052.cab
+C:\Windows\Logs\CBS\CbsPersist_20160413233157.cab
+C:\Windows\Logs\CBS\CbsPersist_20160327223306.cab
+C:\Windows\Logs\CBS\CbsPersist_20160313113856.cab
+C:\Windows\Logs\CBS\CbsPersist_20160311223641.cab
+C:\Windows\servicing\Sessions\Sessions.xml
+C:\Windows\WinSxS\poqexec.log
+C:\Windows\Logs\CBS\FilterList.log
+C:\Windows\WinSxS\Temp\LogFiles\NtfsLog.etl
+
+Ces fichiers sont peut-être disponibles ici :
+
+
+Symbole d’analyse : 
+Nouvelle recherche de la solution : 0
+ID de rapport : 6985f9e0-0900-11e6-8dab-34de1aa6eba3
+Statut du rapport : 262144
+Récipient avec hachage : 
++++ WER3 +++:
+Récipient d’erreurs , type 0
+Nom d’événement : WindowsWcpOtherFailure3
+Réponse : Non disponible
+ID de CAB : 0
+
+Signature du problème : 
+P1 : 10.0.10586.168:1
+P2 : sil\merged\ntu\ntsystem.cpp
+P3 : Windows::Rtl::SystemImplementation::DirectFileSystemProvider::SysCreateFile
+P4 : 3003
+P5 : c0190001
+P6 : 0xd22be80f
+P7 : 
+P8 : 
+P9 : 
+P10 : 
+
+Fichiers joints :
+C:\Windows\Logs\CBS\CBS.log
+C:\Windows\Logs\CBS\CbsPersist_20160415201052.cab
+C:\Windows\Logs\CBS\CbsPersist_20160413233157.cab
+C:\Windows\Logs\CBS\CbsPersist_20160327223306.cab
+C:\Windows\Logs\CBS\CbsPersist_20160313113856.cab
+C:\Windows\Logs\CBS\CbsPersist_20160311223641.cab
+C:\Windows\servicing\Sessions\Sessions.xml
+C:\Windows\WinSxS\poqexec.log
+C:\Windows\Logs\CBS\FilterList.log
+C:\Windows\WinSxS\Temp\LogFiles\NtfsLog.etl
+C:\Windows\Temp\WER5067.tmp.WERInternalMetadata.xml
+C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Critical_10.0.10586.168_1_54feb7f0a1decf2316df786576235c89a09e32c0_00000000_cab_35725077\memory.hdmp
+C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Critical_10.0.10586.168_1_54feb7f0a1decf2316df786576235c89a09e32c0_00000000_cab_35725077\minidump.mdmp
+
+Ces fichiers sont peut-être disponibles ici :
+C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Critical_10.0.10586.168_1_54feb7f0a1decf2316df786576235c89a09e32c0_00000000_cab_35725077
+
+Symbole d’analyse : 
+Nouvelle recherche de la solution : 0
+ID de rapport : 6985f9e0-0900-11e6-8dab-34de1aa6eba3
+Statut du rapport : 4
+Récipient avec hachage : 
++++ WER4 +++:
 Récipient d’erreurs 129065554233, type 5
 Nom d’événement : RADAR_PRE_LEAK_WOW64
 Réponse : Non disponible
@@ -980,7 +1068,7 @@ Nouvelle recherche de la solution : 0
 ID de rapport : de7dc75e-05b5-11e6-8dab-34de1aa6eba3
 Statut du rapport : 0
 Récipient avec hachage : 9ebb02eb230e146d8ab7258f8c02f256
-+++ WER1 +++:
++++ WER5 +++:
 Récipient d’erreurs 133277356564, type 5
 Nom d’événement : MoAppCrash
 Réponse : Non disponible
@@ -1009,7 +1097,7 @@ Nouvelle recherche de la solution : 0
 ID de rapport : 01dfb804-3df4-4ad3-bdd4-4e9e24c55aee
 Statut du rapport : 0
 Récipient avec hachage : 3326ae7d791beea69b011d8c3f8a60bc
-+++ WER2 +++:
++++ WER6 +++:
 Récipient d’erreurs , type 0
 Nom d’événement : PnPRequestAdditionalSoftware
 Réponse : Non disponible
@@ -1038,7 +1126,7 @@ Nouvelle recherche de la solution : 0
 ID de rapport : 7ef4aa7f-05b0-11e6-8dab-34de1aa6eba3
 Statut du rapport : 8192
 Récipient avec hachage : 
-+++ WER3 +++:
++++ WER7 +++:
 Récipient d’erreurs , type 0
 Nom d’événement : PnPGenericDriverFound
 Réponse : Non disponible
@@ -1067,7 +1155,7 @@ Nouvelle recherche de la solution : 0
 ID de rapport : 7ef4aa7e-05b0-11e6-8dab-34de1aa6eba3
 Statut du rapport : 8192
 Récipient avec hachage : 
-+++ WER4 +++:
++++ WER8 +++:
 Récipient d’erreurs , type 0
 Nom d’événement : PnPRequestAdditionalSoftware
 Réponse : Non disponible
@@ -1096,7 +1184,7 @@ Nouvelle recherche de la solution : 0
 ID de rapport : 7ef4aa7d-05b0-11e6-8dab-34de1aa6eba3
 Statut du rapport : 8192
 Récipient avec hachage : 
-+++ WER5 +++:
++++ WER9 +++:
 Récipient d’erreurs , type 0
 Nom d’événement : PnPGenericDriverFound
 Réponse : Non disponible
@@ -1123,121 +1211,5 @@ C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_x64_4623f97f5096d
 Symbole d’analyse : 
 Nouvelle recherche de la solution : 0
 ID de rapport : 7ef4aa7c-05b0-11e6-8dab-34de1aa6eba3
-Statut du rapport : 8192
-Récipient avec hachage : 
-+++ WER6 +++:
-Récipient d’erreurs , type 0
-Nom d’événement : PnPGenericDriverFound
-Réponse : Non disponible
-ID de CAB : 0
-
-Signature du problème : 
-P1 : x64
-P2 : HID\VID_187C&PID_0515&REV_6101&MI_01&Col02
-P3 : 
-P4 : 
-P5 : 
-P6 : 
-P7 : 
-P8 : 
-P9 : 
-P10 : 
-
-Fichiers joints :
-C:\Users\jumat\AppData\Local\Temp\WER8EF1.tmp.WERInternalMetadata.xml
-
-Ces fichiers sont peut-être disponibles ici :
-C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_x64_64fb556f4dd089f53d93e61b36ad917475da916_00000000_1ca6dc3d
-
-Symbole d’analyse : 
-Nouvelle recherche de la solution : 0
-ID de rapport : 7ef4aa7b-05b0-11e6-8dab-34de1aa6eba3
-Statut du rapport : 8192
-Récipient avec hachage : 
-+++ WER7 +++:
-Récipient d’erreurs , type 0
-Nom d’événement : PnPRequestAdditionalSoftware
-Réponse : Non disponible
-ID de CAB : 0
-
-Signature du problème : 
-P1 : x64
-P2 : HID\VID_187C&PID_0515&REV_6101&MI_01&Col03
-P3 : 10.0.0.0
-P4 : 040C
-P5 : input.inf
-P6 : *
-P7 : 
-P8 : 
-P9 : 
-P10 : 
-
-Fichiers joints :
-C:\Users\jumat\AppData\Local\Temp\WER8ED0.tmp.WERInternalMetadata.xml
-
-Ces fichiers sont peut-être disponibles ici :
-C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_x64_c5af538019ba9e68451a750a47444e498c5229_00000000_1ca6db72
-
-Symbole d’analyse : 
-Nouvelle recherche de la solution : 0
-ID de rapport : 7ef4aa7a-05b0-11e6-8dab-34de1aa6eba3
-Statut du rapport : 8192
-Récipient avec hachage : 
-+++ WER8 +++:
-Récipient d’erreurs , type 0
-Nom d’événement : PnPRequestAdditionalSoftware
-Réponse : Non disponible
-ID de CAB : 0
-
-Signature du problème : 
-P1 : x64
-P2 : USB\VID_187C&PID_0515&REV_6101&MI_01
-P3 : 10.0.0.0
-P4 : 040C
-P5 : input.inf
-P6 : *
-P7 : 
-P8 : 
-P9 : 
-P10 : 
-
-Fichiers joints :
-C:\Users\jumat\AppData\Local\Temp\WER8ED1.tmp.WERInternalMetadata.xml
-
-Ces fichiers sont peut-être disponibles ici :
-C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_x64_f47f7492239849c4f96f74f29d3bf54c0d483_00000000_1ca6daa6
-
-Symbole d’analyse : 
-Nouvelle recherche de la solution : 0
-ID de rapport : 7ef24821-05b0-11e6-8dab-34de1aa6eba3
-Statut du rapport : 8192
-Récipient avec hachage : 
-+++ WER9 +++:
-Récipient d’erreurs , type 0
-Nom d’événement : PnPGenericDriverFound
-Réponse : Non disponible
-ID de CAB : 0
-
-Signature du problème : 
-P1 : x64
-P2 : HID\VID_187C&PID_0515&REV_6101&MI_01&Col03
-P3 : 
-P4 : 
-P5 : 
-P6 : 
-P7 : 
-P8 : 
-P9 : 
-P10 : 
-
-Fichiers joints :
-C:\Users\jumat\AppData\Local\Temp\WER8EC1.tmp.WERInternalMetadata.xml
-
-Ces fichiers sont peut-être disponibles ici :
-C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_x64_5b183d7b9d10f793f140cb945a9481c362f7bf4_00000000_15399e8d
-
-Symbole d’analyse : 
-Nouvelle recherche de la solution : 0
-ID de rapport : 7ef4aa79-05b0-11e6-8dab-34de1aa6eba3
 Statut du rapport : 8192
 Récipient avec hachage : 

@@ -1,73 +1,73 @@
 <Archive code="0">
     <Array name="selected_group_ids">
-        <Int64 value="1107296279" />
-        <Int64 value="60129857564" />
-        <Int64 value="60361798669" />
-        <Int64 value="60129617989" />
+        <Int64 value="1107296259" />
+        <Int64 value="1107296258" />
+        <Int64 value="1107296262" />
+        <Int64 value="1107296260" />
+        <Int64 value="1090519041" />
+        <Int64 value="1107296261" />
+        <Int64 value="1107296273" />
+        <Int64 value="1107296274" />
+        <Int64 value="1107296266" />
         <Int64 value="1107296283" />
+        <Int64 value="1107296265" />
+        <Int64 value="1107296277" />
         <Int64 value="1107296280" />
         <Int64 value="63341908725" />
+        <Int64 value="1107296264" />
+        <Int64 value="60129617989" />
+        <Int64 value="1107296278" />
+        <Int64 value="1107296279" />
+        <Int64 value="60361798669" />
+        <Int64 value="1107296276" />
+        <Int64 value="60129857564" />
         <Int64 value="60130761451" />
+        <Int64 value="1107296257" />
+        <Int64 value="1107296263" />
+        <Int64 value="1107296275" />
         <Int64 value="61640879525" />
         <Int64 value="63341908729" />
-        <Int64 value="60129928848" />
+        <Int64 value="63341908731" />
         <Int64 value="60375310493" />
         <Int64 value="60194768481" />
-        <Int64 value="63063725052" />
-        <Int64 value="63341908731" />
         <Int64 value="60130760820" />
-        <Int64 value="1107296258" />
-        <Int64 value="1107296260" />
-        <Int64 value="1107296262" />
-        <Int64 value="1107296264" />
-        <Int64 value="1090519041" />
-        <Int64 value="1107296259" />
-        <Int64 value="1107296261" />
-        <Int64 value="1107296263" />
-        <Int64 value="1107296265" />
-        <Int64 value="1107296266" />
-        <Int64 value="1107296275" />
-        <Int64 value="1107296276" />
-        <Int64 value="1107296277" />
-        <Int64 value="1107296273" />
-        <Int64 value="1107296278" />
-        <Int64 value="1107296257" />
-        <Int64 value="1107296274" />
+        <Int64 value="60129928848" />
+        <Int64 value="63063725052" />
     </Array>
     <Array name="selected_group_names">
-        <String value='&quot;You gave nano&quot;' />
-        <String value='&quot;Coreraid&quot;' />
-        <String value='&quot;Smallvillee&quot;' />
-        <String value='&quot;Hellcom&quot;' />
+        <String value='&quot;Your pet hit by nano&quot;' />
+        <String value='&quot;Me hit by nano&quot;' />
+        <String value='&quot;Me hit by monster&quot;' />
+        <String value='&quot;Other hit by nano&quot;' />
+        <String value='&quot;Other Pets&quot;' />
+        <String value='&quot;You hit other with nano&quot;' />
+        <String value='&quot;Your pet hit by monster&quot;' />
+        <String value='&quot;Your misses&quot;' />
+        <String value='&quot;Other hit by other&quot;' />
         <String value='&quot;Vicinity Loot Messages&quot;' />
+        <String value='&quot;Your pet hit by other&quot;' />
+        <String value='&quot;Me got health&quot;' />
         <String value='&quot;Me Cast Nano&quot;' />
         <String value='&quot;Hcnorth&quot;' />
+        <String value='&quot;You hit other&quot;' />
+        <String value='&quot;Hellcom&quot;' />
+        <String value='&quot;Me got nano&quot;' />
+        <String value='&quot;You gave nano&quot;' />
+        <String value='&quot;Smallvillee&quot;' />
+        <String value='&quot;You gave health&quot;' />
+        <String value='&quot;Coreraid&quot;' />
         <String value='&quot;Iraid&quot;' />
+        <String value='&quot;Me hit by environment&quot;' />
+        <String value='&quot;Me hit by player&quot;' />
+        <String value='&quot;Other misses&quot;' />
         <String value='&quot;Hellcom&quot;' />
         <String value='&quot;Hceast&quot;' />
-        <String value='&quot;Kittlebot&quot;' />
+        <String value='&quot;Hcwest&quot;' />
         <String value='&quot;Lootius&quot;' />
         <String value='&quot;Marketwatch&quot;' />
-        <String value='&quot;Iraid&quot;' />
-        <String value='&quot;Hcwest&quot;' />
         <String value='&quot;Iraid2&quot;' />
-        <String value='&quot;Me hit by nano&quot;' />
-        <String value='&quot;Other hit by nano&quot;' />
-        <String value='&quot;Me hit by monster&quot;' />
-        <String value='&quot;You hit other&quot;' />
-        <String value='&quot;Other Pets&quot;' />
-        <String value='&quot;Your pet hit by nano&quot;' />
-        <String value='&quot;You hit other with nano&quot;' />
-        <String value='&quot;Me hit by player&quot;' />
-        <String value='&quot;Your pet hit by other&quot;' />
-        <String value='&quot;Other hit by other&quot;' />
-        <String value='&quot;Other misses&quot;' />
-        <String value='&quot;You gave health&quot;' />
-        <String value='&quot;Me got health&quot;' />
-        <String value='&quot;Your pet hit by monster&quot;' />
-        <String value='&quot;Me got nano&quot;' />
-        <String value='&quot;Me hit by environment&quot;' />
-        <String value='&quot;Your misses&quot;' />
+        <String value='&quot;Kittlebot&quot;' />
+        <String value='&quot;Iraid&quot;' />
     </Array>
     <Archive code="0" name="log_window_config" />
     <Archive code="0" name="chat_window_config">
@@ -77,7 +77,7 @@
     </Archive>
     <Archive code="0" name="chat_view_config" />
     <Int32 name="visual_mode" value="2" />
-    <String name="output_group" value='&quot;OT OOC&quot;' />
+    <String name="output_group" value='&quot;#0000000040000002#&quot;' />
     <Float name="window_transparency_inactive" value="0.300000" />
     <Float name="window_transparency_active" value="0.800000" />
     <Bool name="show_timestamps" value="false" />

@@ -1,7 +1,7 @@
 <Archive code="0">
     <Archive code="0" name="dock_config">
         <Int32 name="selected_tab" value="-1" />
-        <Rect name="WindowFrame" value="Rect(100.000000,100.000000,500.000000,500.000000)" />
+        <Rect name="WindowFrame" value="Rect(100.000000,100.000000,1010.000000,747.000000)" />
         <Bool name="WindowPinButtonState" value="false" />
         <String name="docked_view_identities" value='&quot;planetmap_window&quot;' />
         <Archive code="0" name="dock_node_configs" />

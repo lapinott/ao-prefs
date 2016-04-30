@@ -13,16 +13,8 @@
     <Value name="ChatTextFadeDelay" value="8.000000" />
     <Value name="ChatTextFadeTime" value="0.300000" />
     <Value name="DisplayCharViewDistance" value="80.000000" />
-    <Value name="DisplayEnableGrass" value="true" />
-    <Value name="DisplayEnableGrassPhysics" value="true" />
-    <Value name="DisplayEnableMeshGrass" value="true" />
-    <Value name="DisplayGrassRange" value="200.000000" />
     <Value name="DisplayGroundFullQualityRadius" value="44" />
     <Value name="DisplayGroundQuality" value="200" />
-    <Value name="DisplayHQCharRange" value="80.000000" />
-    <Value name="DisplayHQGrassRange" value="200.000000" />
-    <Value name="DisplayHQMeshRange" value="500.000000" />
-    <Value name="DisplayTextureLOD" value="4.000000" />
     <Value name="DisplayXPos" value="0" />
     <Value name="DisplayYPos" value="0" />
     <Value name="DoubleclickAction" value="true" />

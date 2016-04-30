@@ -1,52 +1,4 @@
 <Root>
-    <TextLine text="/tell Kontiky waiting  at ICC grid" />
-    <TextLine text="/bow" />
-    <TextLine text="/tell Kontiky nice ring =D" />
-    <TextLine text="/tell Kontiky gonna give that to my lowbie, laters!" />
-    <TextLine text="/tell Kontiky wut? :p" />
-    <TextLine text="/tell Kontiky ty" />
-    <TextLine text="np" />
-    <TextLine text="/tell Dnet !general WTH Filigree ring tradeskiller (got materials) PST" />
-    <TextLine text="/tell Neutnet !general WTH Filigree ring tradeskiller (got materials) PST" cursor_pos="13" />
-    <TextLine text="/tell Neutnet !shopping WTH Filigree ring tradeskiller (got materials) PST" cursor_pos="23" />
-    <TextLine text="/list trad" />
-    <TextLine text="/tell  Tertua hi" />
-    <TextLine text="how id your twink doing ? :p" />
-    <TextLine text="is*" />
-    <TextLine text="i wanted to ask you..." />
-    <TextLine text="what&apos;s the best ql imp you put ?" />
-    <TextLine text="/tell %t hey did you finish imps ? Zuuut here" />
-    <TextLine text="/tell Healfordays oh yeah" />
-    <TextLine text="/tell Healfordays lol" />
-    <TextLine text="/tell Healfordays didnt do imps yet ?" />
-    <TextLine text="/tell Healfordays max ql ?" />
-    <TextLine text="/tell Healfordays I just redid them  on  Zuuut" />
-    <TextLine text="/tell Healfordays best I could is 75" />
-    <TextLine text="/tell Kadabr np" />
-    <TextLine text="/s any TSer wanna make a tip ?!" />
-    <TextLine text="/list eng" />
-    <TextLine text="/tell  Neutnet !shopping WTH tradeskiller ~10 min  PST" />
-    <TextLine text="/tell  Dnet !shopping WTH tradeskiller ~10 min  PST" cursor_pos="11" />
-    <TextLine text="/tell Timba hai :)" />
-    <TextLine text="/tell Lettuge need more sry :P" />
-    <TextLine text="/tell Timba got 10 minutes ?" />
-    <TextLine text="/tell Timba awesome =)" />
-    <TextLine text="/tell Timba I need a ql250 ring made" />
-    <TextLine text="/tell Timba bore then" />
-    <TextLine text="/WAve" />
-    <TextLine text="/tell Timbats u know the thing  ?" />
-    <TextLine text="/tell Timbats hmm" />
-    <TextLine text="/tell Timbats yeah sry" />
-    <TextLine text="/tell Timbats yus" />
-    <TextLine text="/tell Timbats perfect :)" />
-    <TextLine text="/tell Timbats yay =)" />
-    <TextLine text="/tell Timbats ty :)" />
-    <TextLine text="/tell Timbats hehe will do :p" />
-    <TextLine text="/angry" />
-    <TextLine text="/strong1" />
-    <TextLine text="/sa  nomnom" />
-    <TextLine text="/Say nomnom" />
-    <TextLine text="/Say x[" />
     <TextLine text="pop" />
     <TextLine text="nomnomnom" />
     <TextLine text="gsf off :&amp;gt;" />
@@ -99,7 +51,6 @@
     <TextLine text="/tell Dunhillbaky lul" />
     <TextLine text="cool" />
     <TextLine text="gief" />
-    <TextLine text="/hug" />
     <TextLine text="/tell Zakamuskas hai" />
     <TextLine text="/tell Zakamuskas what?" />
     <TextLine text="/tell Zakamuskas what? im going to ely right now" />
@@ -199,4 +150,53 @@
     <TextLine text="/tell Sanngrithr yes you can" />
     <TextLine text="/tell Sanngrithr you cant jump up here from where you were" />
     <TextLine text="/wave" />
+    <TextLine text="/Disco" />
+    <TextLine text="/tell Dunhillbaccy yo" />
+    <TextLine text="/tell Dunhillbaccy ely" />
+    <TextLine text="/tell Dunhillbaccy killing hecks" />
+    <TextLine text="/tell Dunhillbaccy my engi!" />
+    <TextLine text="/tell Dunhillbaccy :p" />
+    <TextLine text="/tell Dunhillbaccy 132 now" />
+    <TextLine text="/tell Dunhillbaccy dunno" />
+    <TextLine text="/tell Dunhillbaccy im pretty bored" />
+    <TextLine text="/tell Dunhillbaccy yes  ok just finishing this wave then" />
+    <TextLine text="/tell Dunhillbaccy kk" />
+    <TextLine text="/tell Tipmepleasee srsly??" />
+    <TextLine text="/tell Tipmepleasee u dunhill ?" />
+    <TextLine text="/tell Tipmepleasee maybe you were stoned all the way and forgot about it" />
+    <TextLine text="/tell Tipmepleasee who was your froob guy ?" />
+    <TextLine text="/tell Tipmepleasee duel me" />
+    <TextLine text="naice" />
+    <TextLine text="gg" />
+    <TextLine text="lol" />
+    <TextLine text="didnt mean to th" />
+    <TextLine text="tho" />
+    <TextLine text="u too squishy" />
+    <TextLine text="/hug" />
+    <TextLine text='/tell Tipmepleasee doyou have  &lt;a href=&quot;itemref://244331/244332/207&quot;&gt;Perfectly Cut Black opal&lt;/a&gt; ?' />
+    <TextLine text="/tell Tipmepleasee need 212+" />
+    <TextLine text="/tell Tipmepleasee not sure where" />
+    <TextLine text="/tell Tipmepleasee sounds like inf mish chests farming" />
+    <TextLine text="/tell Tipmepleasee the most boring thing in AO" />
+    <TextLine text="/scratch" />
+    <TextLine text="/tell Tipmepleasee you should make a lvl 5 twink" />
+    <TextLine text="/tell Tipmepleasee you can borrow my twink gear" />
+    <TextLine text="/tell Tipmepleasee yeah" />
+    <TextLine text="/tell Tipmepleasee seen a blue boc yet ?" />
+    <TextLine text="/tell Tipmepleasee they rox" />
+    <TextLine text="/tell Tipmepleasee yus" />
+    <TextLine text="/tell Tipmepleasee bringing that biatch" />
+    <TextLine text="blue/black" />
+    <TextLine text="150% healing" />
+    <TextLine text="you need the whole set tho :P" />
+    <TextLine text="whole blue beast armor" />
+    <TextLine text="yus" />
+    <TextLine text="only NP" />
+    <TextLine text="got shitloads NP" />
+    <TextLine text="all TS then" />
+    <TextLine text="int" />
+    <TextLine text="?" />
+    <TextLine text="they are just reqs" />
+    <TextLine text="for combining stuff :P" />
+    <TextLine text='u can make &lt;a href=&quot;itemref://151373/151373/250&quot;&gt;Platinum Filigree Ring&lt;/a&gt; + &lt;a href=&quot;itemref://244331/244332/207&quot;&gt;Perfectly Cut Black opal&lt;/a&gt;' />
 </Root>

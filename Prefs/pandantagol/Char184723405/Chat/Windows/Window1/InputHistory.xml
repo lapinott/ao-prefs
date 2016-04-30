@@ -1,18 +1,4 @@
 <Root>
-    <TextLine text="may I get gsf hnq plz ?" />
-    <TextLine text="tyvm" />
-    <TextLine text="/WAve" />
-    <TextLine text="/tell  helpbot !calc 138 / 0.8" />
-    <TextLine text="/tell  helpbot lvl 25" />
-    <TextLine text="/strong2" />
-    <TextLine text="/flamenco" />
-    <TextLine text="/shrug" />
-    <TextLine text="/rocky" />
-    <TextLine text="/bow" />
-    <TextLine text="/pulp" />
-    <TextLine text="wanna duel my 25 trader ?" />
-    <TextLine text="ok brb" />
-    <TextLine text="/tell Bcsquibby ah k no thx" />
     <TextLine text="/tell itemsbot ofab nano" />
     <TextLine text="/tell Morphin3 got a 60 twink thats it" />
     <TextLine text="/tell Morphin3 who&apos;s dropping that ?" />
@@ -154,7 +140,6 @@
     <TextLine text="why" />
     <TextLine text="grab some osbs %t" />
     <TextLine text="pvping lvl 1-5 FT" />
-    <TextLine text="/duel" />
     <TextLine text="%t" />
     <TextLine text="get osb and duel me ?" />
     <TextLine text=";(" />
@@ -199,4 +184,19 @@
     <TextLine text="if you kick my ass" />
     <TextLine text="u way too high" />
     <TextLine text="fuck ill make another game then :(" />
+    <TextLine text="offering 5m to any lvl1-5 you can beat me in duel" />
+    <TextLine text="/tell Ghibsie 1" />
+    <TextLine text="/tell Ghibsie crap" />
+    <TextLine text="/tell Neutnet !pvp offering 5m to any lvl 1-5 who can beat me in a duel -  hanging @ FT" />
+    <TextLine text="/tell Dnet !pvp offering 5m to any lvl 1-5 who can beat me in a duel -  hanging @ FT" cursor_pos="10" />
+    <TextLine text="/tell Dnet !register" />
+    <TextLine text="offering 5m if you can beat me in duel - im lvl 1" />
+    <TextLine text="yeah" />
+    <TextLine text="anyone for NS ?" />
+    <TextLine text="/tell Companeros nope" />
+    <TextLine text="/tell Companeros omw" />
+    <TextLine text="/tell Companeros tyvm" />
+    <TextLine text="/bow" />
+    <TextLine text="want to make 5m ? beat me in duel im lvl 1" />
+    <TextLine text="/duel" />
 </Root>

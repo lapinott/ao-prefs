@@ -37,6 +37,7 @@
     <Archive name="FactionWindowConfig" code="0" />
     <Archive name="FightTargetNCUWindowConfig" code="0">
         <Archive code="0" name="listview_config">
+            <Int32 name="ncu_listview_flags" value="1" />
             <Array name="col_id">
                 <Int32 value="0" />
                 <Int32 value="1" />
@@ -562,6 +563,7 @@
     <Archive name="MutedChatGroups" code="0" />
     <Archive name="NCUWindowConfig" code="0">
         <Archive code="0" name="listview_config">
+            <Int32 name="ncu_listview_flags" value="0" />
             <Array name="col_id">
                 <Int32 value="0" />
                 <Int32 value="1" />
@@ -616,6 +618,7 @@
     </Archive>
     <Archive name="NanoTargetNCUWindowConfig" code="0">
         <Archive code="0" name="listview_config">
+            <Int32 name="ncu_listview_flags" value="1" />
             <Array name="col_id">
                 <Int32 value="0" />
                 <Int32 value="1" />
@@ -1048,7 +1051,7 @@
     <Archive name="PetWindowConfig" code="0" />
     <Archive name="PetitionWindowConfig" code="0" />
     <Archive name="PlanetMapViewConfig" code="0">
-        <Int32 name="ZoomLev" value="2" />
+        <Int32 name="ZoomLev" value="1" />
         <Bool name="FirstTime" value="false" />
         <Bool name="ShowButtons" value="true" />
         <String name="DockableViewDockName" value='&quot;PlanetMapViewConfig&quot;' />
@@ -1094,9 +1097,8 @@
     <Value name="ShowNanoTargetNCU" value="false" />
     <Archive name="SignupTerminalConfig" code="0" />
     <Archive name="SkillConfig" code="0">
-        <Bool name="ShowDetails" value="true" />
         <Bool name="Minimized" value="false" />
-        <Rect name="WindowFrame" value="Rect(200.000000,180.000000,896.000000,700.000000)" />
+        <Rect name="WindowFrame" value="Rect(200.000000,180.000000,902.000000,700.000000)" />
         <Bool name="WindowPinButtonState" value="false" />
     </Archive>
     <Archive name="StatViewConfig" code="0" />
@@ -1143,7 +1145,7 @@
     <Value name="VisualFlags" value="127" />
     <Value name="VoiceSndFxType" value="0" />
     <Archive name="WearViewConfig" code="0">
-        <Int32 name="selected_tab" value="1" />
+        <Int32 name="selected_tab" value="0" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
     </Archive>
@@ -1176,7 +1178,7 @@
     <Value name="control_center_active" value="true" />
     <Value name="faction_window" value="false" />
     <Value name="friends_window" value="true" />
-    <Value name="inventory_window" value="true" />
+    <Value name="inventory_window" value="false" />
     <Value name="itemshop_window" value="false" />
     <Value name="knowledge_window" value="false" />
     <Value name="lasertarget_window" value="false" />
