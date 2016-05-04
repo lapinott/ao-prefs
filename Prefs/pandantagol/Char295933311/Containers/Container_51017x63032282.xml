@@ -26,8 +26,8 @@
     </Archive>
     <Archive code="0" name="item_position_map">
         <Array name="item_id">
-            <Identity value="Identity(107,6881283)" />
-            <Identity value="Identity(107,6881284)" />
+            <Identity value="Identity(107,7143427)" />
+            <Identity value="Identity(107,7143428)" />
         </Array>
         <Array name="item_pos">
             <IPoint value="IPoint(0,1)" />

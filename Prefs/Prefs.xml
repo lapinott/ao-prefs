@@ -34,7 +34,7 @@
         <String name="Account3" value='&quot;thrangor&quot;' />
         <String name="Account4" value='&quot;cerro1&quot;' />
         <String name="Account5" value='&quot;pandantagol4&quot;' />
-        <Int16 name="SelectedAccount" value="1" />
+        <Int16 name="SelectedAccount" value="0" />
     </Archive>
     <Value name="PlayIntro" value="0" />
     <Value name="SendDisconnectInfo" value="1" />

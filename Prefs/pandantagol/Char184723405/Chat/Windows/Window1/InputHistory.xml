@@ -1,15 +1,4 @@
 <Root>
-    <TextLine text="/tell itemsbot ofab nano" />
-    <TextLine text="/tell Morphin3 got a 60 twink thats it" />
-    <TextLine text="/tell Morphin3 who&apos;s dropping that ?" />
-    <TextLine text="/tell Morphin3 dont rly got time for that now sry :(" />
-    <TextLine text="xping ?" />
-    <TextLine text="let them die on flects :p" />
-    <TextLine text="no just for fun :p" />
-    <TextLine text="wanna go to boss" />
-    <TextLine text="lol :p" />
-    <TextLine text="oh shit :(" />
-    <TextLine text="didnt see it coming :[" />
     <TextLine text="any fixer for gsf hnq `" />
     <TextLine text="?" />
     <TextLine text="hai" />
@@ -199,4 +188,15 @@
     <TextLine text="/bow" />
     <TextLine text="want to make 5m ? beat me in duel im lvl 1" />
     <TextLine text="/duel" />
+    <TextLine text="/say team me ?" />
+    <TextLine text="wanna try aby ?" />
+    <TextLine text="team me" />
+    <TextLine text="i wont leach xp" />
+    <TextLine text="/t :p" />
+    <TextLine text="only self buffs" />
+    <TextLine text="can you tank it ?" />
+    <TextLine text="lets kite a bit then" />
+    <TextLine text="lol so close" />
+    <TextLine text="i wanna do abby on my 25 trader" />
+    <TextLine text="reloging see you here again maybe :p" />
 </Root>

@@ -106,7 +106,7 @@
         <String name="DockableViewDockName" value='&quot;DockArea4&quot;' />
     </Archive>
     <Archive name="InspectViewConfig" code="0">
-        <Int32 name="selected_tab" value="0" />
+        <Int32 name="selected_tab" value="3" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;DockArea9&quot;' />
     </Archive>
@@ -1162,8 +1162,8 @@
         <String name="DockableViewDockName" value='&quot;DockArea22&quot;' />
     </Archive>
     <Archive name="PerkWindowConfig" code="0">
-        <Int32 name="SelectedTab" value="2" />
-        <Rect name="WindowFrame" value="Rect(472.000000,467.000000,1208.000000,759.000000)" />
+        <Int32 name="SelectedTab" value="1" />
+        <Rect name="WindowFrame" value="Rect(471.000000,468.000000,1207.000000,760.000000)" />
         <Bool name="WindowPinButtonState" value="true" />
     </Archive>
     <Value name="PetName1" value='&quot;&quot;' />
@@ -1248,7 +1248,9 @@
     </Archive>
     <Archive name="TipViewConfig" code="0" />
     <Archive name="TowerBuildMenuViewConfig" code="0" />
-    <Archive name="TradeSkillViewConfig" code="0" />
+    <Archive name="TradeSkillViewConfig" code="0">
+        <String name="DockableViewDockName" value='&quot;DockArea30&quot;' />
+    </Archive>
     <Archive name="TradeViewConfig" code="0">
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
         <Archive code="0" name="partner_listview_config">
@@ -1282,7 +1284,7 @@
     <Value name="VisualFlags" value="639" />
     <Value name="VoiceSndFxType" value="0" />
     <Archive name="WearViewConfig" code="0">
-        <Int32 name="selected_tab" value="3" />
+        <Int32 name="selected_tab" value="0" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
     </Archive>
@@ -1314,7 +1316,7 @@
     <Value name="command_menu" value="false" />
     <Value name="control_center_active" value="true" />
     <Value name="faction_window" value="false" />
-    <Value name="friends_window" value="false" />
+    <Value name="friends_window" value="true" />
     <Value name="inventory_window" value="false" />
     <Value name="itemshop_window" value="false" />
     <Value name="knowledge_window" value="false" />
@@ -1325,7 +1327,7 @@
     <Value name="map_window" value="true" />
     <Value name="mechselect_window" value="false" />
     <Value name="mission_window" value="true" />
-    <Value name="nano_window" value="true" />
+    <Value name="nano_window" value="false" />
     <Value name="ncu_window" value="true" />
     <Value name="notification_window" value="true" />
     <Value name="perk_window" value="false" />
@@ -1340,7 +1342,7 @@
     <Value name="specialaction_window" value="false" />
     <Value name="stat_window" value="false" />
     <Value name="team_menu" value="false" />
-    <Value name="team_view" value="true" />
+    <Value name="team_view" value="false" />
     <Value name="teleport_target_window" value="false" />
     <Value name="tradeskill_window" value="false" />
     <Value name="wear_window" value="false" />

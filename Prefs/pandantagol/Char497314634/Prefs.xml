@@ -75,7 +75,7 @@
         <String name="DockableViewDockName" value='&quot;DockArea9&quot;' />
     </Archive>
     <Archive name="ItemShopWindowConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(570.000000,238.000000,1349.000000,840.000000)" />
+        <Rect name="WindowFrame" value="Rect(543.000000,153.000000,1322.000000,755.000000)" />
         <Bool name="WindowPinButtonState" value="false" />
     </Archive>
     <Archive name="KeyBindings" code="0">
@@ -524,7 +524,7 @@
                 <Float value="96.000000" />
                 <Float value="96.000000" />
             </Array>
-            <Int32 name="sort_column" value="0" />
+            <Int32 name="sort_column" value="2" />
             <Int32 name="sort_order" value="0" />
         </Archive>
         <Rect name="WindowFrame" value="Rect(784.000000,278.000000,1134.000000,799.000000)" />
@@ -1020,7 +1020,7 @@
     </Archive>
     <Archive name="NotificationWindowConfig" code="0">
         <Bool name="ClickableLinks" value="true" />
-        <Rect name="WindowFrame" value="Rect(5.000000,25.000000,1915.000000,355.000000)" />
+        <Rect name="WindowFrame" value="Rect(4.000000,25.000000,1914.000000,355.000000)" />
     </Archive>
     <Value name="NotificationWindowVisibility" value="false" />
     <Value name="NumHotbars" value="1" />
@@ -1047,7 +1047,7 @@
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
     </Archive>
     <Archive name="PerkWindowConfig" code="0">
-        <Int32 name="SelectedTab" value="1" />
+        <Int32 name="SelectedTab" value="2" />
         <Rect name="WindowFrame" value="Rect(617.000000,393.000000,1305.000000,685.000000)" />
         <Bool name="WindowPinButtonState" value="false" />
     </Archive>
@@ -1154,7 +1154,7 @@
     <Value name="VisualFlags" value="639" />
     <Value name="VoiceSndFxType" value="0" />
     <Archive name="WearViewConfig" code="0">
-        <Int32 name="selected_tab" value="0" />
+        <Int32 name="selected_tab" value="1" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
     </Archive>
