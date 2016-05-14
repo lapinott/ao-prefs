@@ -1,11 +1,11 @@
 <Archive code="0">
     <Array name="selected_group_ids">
-        <Int64 value="1073741826" />
         <Int64 value="60391547858" />
+        <Int64 value="1073741826" />
     </Array>
     <Array name="selected_group_names">
-        <String value='&quot;Vicinity&quot;' />
         <String value='&quot;Sojustream&quot;' />
+        <String value='&quot;Vicinity&quot;' />
     </Array>
     <Archive code="0" name="log_window_config" />
     <Archive code="0" name="chat_window_config">

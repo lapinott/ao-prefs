@@ -13,7 +13,7 @@
         <Rect name="WindowFrame" value="Rect(0.000000,0.000000,10.000000,124.000000)" />
     </Archive>
     <Archive name="CCHostileHealthBarConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(888.000000,5.000000,1701.000000,52.000000)" />
+        <Rect name="WindowFrame" value="Rect(888.000000,5.000000,1701.000000,63.000000)" />
     </Archive>
     <Archive name="CCNanoBarConfig" code="0">
         <Rect name="WindowFrame" value="Rect(0.000000,144.000000,10.000000,268.000000)" />
@@ -42,7 +42,6 @@
             <Identity value="Identity(101,2)" />
             <Identity value="Identity(101,5)" />
             <Identity value="Identity(101,4)" />
-            <Identity value="Identity(101,6)" />
             <Identity value="Identity(101,7)" />
             <Identity value="Identity(101,9)" />
             <Identity value="Identity(101,10)" />
@@ -62,6 +61,7 @@
             <Identity value="Identity(102,27)" />
             <Identity value="Identity(102,28)" />
             <Identity value="Identity(102,30)" />
+            <Identity value="Identity(101,6)" />
         </Array>
     </Archive>
     <Archive name="FactionWindowConfig" code="0" />
@@ -106,7 +106,7 @@
         <String name="DockableViewDockName" value='&quot;DockArea4&quot;' />
     </Archive>
     <Archive name="InspectViewConfig" code="0">
-        <Int32 name="selected_tab" value="3" />
+        <Int32 name="selected_tab" value="1" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;DockArea9&quot;' />
     </Archive>
@@ -1143,13 +1143,13 @@
     <Archive name="OptionWindowConfig" code="0">
         <Rect name="WindowFrame" value="Rect(147.000000,265.000000,837.000000,757.000000)" />
         <Bool name="WindowPinButtonState" value="true" />
-        <String name="selected_panel" value='&quot;GUIControl Center&quot;' />
         <Array name="open_panel_folders">
             <String value='&quot;Video&quot;' />
             <String value='&quot;GUI&quot;' />
             <String value='&quot;Controls&quot;' />
             <String value='&quot;Behaviour&quot;' />
         </Array>
+        <String name="selected_panel" value='&quot;BehaviourBehaviour Settings&quot;' />
         <Int32 name="selected_tab" value="0" />
         <Float name="panel_list_scroll_offset" value="0.000000" />
         <Archive code="0" name="hotkey_config">
@@ -1284,7 +1284,7 @@
     <Value name="VisualFlags" value="639" />
     <Value name="VoiceSndFxType" value="0" />
     <Archive name="WearViewConfig" code="0">
-        <Int32 name="selected_tab" value="0" />
+        <Int32 name="selected_tab" value="1" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
     </Archive>
@@ -1327,7 +1327,7 @@
     <Value name="map_window" value="true" />
     <Value name="mechselect_window" value="false" />
     <Value name="mission_window" value="true" />
-    <Value name="nano_window" value="false" />
+    <Value name="nano_window" value="true" />
     <Value name="ncu_window" value="true" />
     <Value name="notification_window" value="true" />
     <Value name="perk_window" value="false" />

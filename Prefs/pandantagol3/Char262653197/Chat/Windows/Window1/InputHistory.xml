@@ -1,9 +1,4 @@
 <Root>
-    <TextLine text="it&apos;s crazy" />
-    <TextLine text="we&apos;re are mid summer" />
-    <TextLine text="and it&apos;s cold" />
-    <TextLine text="yoooo" />
-    <TextLine text="can I has inv ?" />
     <TextLine text="10m ???????????????" />
     <TextLine text="thats a crazy lot" />
     <TextLine text="I can pull with my enf" />
@@ -199,4 +194,9 @@
     <TextLine text="/tell Fattybombm OOPS" />
     <TextLine text="/tell Fattybombm NP" />
     <TextLine text="/wAVE" />
+    <TextLine text="/name" />
+    <TextLine text="/name help" />
+    <TextLine text="/name nick Spykonaut" />
+    <TextLine text="/name Spykonaut" />
+    <TextLine text="/name status" />
 </Root>

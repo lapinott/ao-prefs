@@ -7,13 +7,13 @@
         <Rect name="WindowFrame" value="Rect(13.000000,144.000000,23.000000,268.000000)" />
     </Archive>
     <Archive name="CCFriendlyHealthBarConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(25.000000,5.000000,838.000000,65.000000)" />
+        <Rect name="WindowFrame" value="Rect(25.000000,5.000000,838.000000,28.000000)" />
     </Archive>
     <Archive name="CCHealthBarConfig" code="0">
         <Rect name="WindowFrame" value="Rect(0.000000,0.000000,10.000000,124.000000)" />
     </Archive>
     <Archive name="CCHostileHealthBarConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(888.000000,5.000000,1701.000000,63.000000)" />
+        <Rect name="WindowFrame" value="Rect(888.000000,5.000000,1701.000000,52.000000)" />
     </Archive>
     <Archive name="CCNanoBarConfig" code="0">
         <Rect name="WindowFrame" value="Rect(0.000000,144.000000,10.000000,268.000000)" />
@@ -22,7 +22,7 @@
         <Rect name="WindowFrame" value="Rect(13.000000,0.000000,23.000000,124.000000)" />
     </Archive>
     <Archive name="ChatGroupWindowConfig" code="0" />
-    <Value name="ChatLastActiveWindow" value='&quot;Window4&quot;' />
+    <Value name="ChatLastActiveWindow" value='&quot;Window3&quot;' />
     <Value name="ChatPGInviteAction" value="1" />
     <Value name="ChatTextShadowOffset" value="1" />
     <Value name="ChatWarnWhenSpeakingToUnsubGroups" value="true" />
@@ -88,7 +88,11 @@
     <Archive name="InfoViewConfig" code="0">
         <String name="DockableViewDockName" value='&quot;DockArea1&quot;' />
     </Archive>
-    <Archive name="InspectViewConfig" code="0" />
+    <Archive name="InspectViewConfig" code="0">
+        <Int32 name="selected_tab" value="1" />
+        <Bool name="labels_on_top" value="true" />
+        <String name="DockableViewDockName" value='&quot;DockArea9&quot;' />
+    </Archive>
     <Archive name="ItemShopWindowConfig" code="0" />
     <Archive name="KeyBindings" code="0">
         <Int32 name="Version" value="7" />
@@ -588,7 +592,7 @@
     </Archive>
     <Archive name="NanoTargetNCUWindowConfig" code="0">
         <Archive code="0" name="listview_config">
-            <Int32 name="ncu_listview_flags" value="1" />
+            <Int32 name="ncu_listview_flags" value="0" />
             <Array name="col_id">
                 <Int32 value="0" />
                 <Int32 value="1" />
@@ -610,7 +614,7 @@
             <Int32 name="list_sort_order" value="0" />
             <Bool name="listview_mode" value="true" />
         </Archive>
-        <Rect name="WindowFrame" value="Rect(876.000000,483.000000,1043.000000,595.000000)" />
+        <Rect name="WindowFrame" value="Rect(1379.000000,636.000000,1696.000000,823.000000)" />
         <Bool name="borderless" value="false" />
     </Archive>
     <Archive name="NanoViewConfig" code="0">
@@ -986,13 +990,14 @@
     </Archive>
     <Archive name="NotificationWindowConfig" code="0">
         <Bool name="ClickableLinks" value="true" />
-        <Rect name="WindowFrame" value="Rect(5.000000,25.000000,1915.000000,355.000000)" />
+        <Rect name="WindowFrame" value="Rect(4.000000,25.000000,1914.000000,355.000000)" />
     </Archive>
     <Value name="NotificationWindowVisibility" value="false" />
     <Value name="NumHotbars" value="1" />
     <Archive name="OptionWindowConfig" code="0">
         <Rect name="WindowFrame" value="Rect(131.000000,213.000000,817.000000,705.000000)" />
         <Bool name="WindowPinButtonState" value="false" />
+        <String name="selected_panel" value='&quot;GUIControl Center&quot;' />
         <Array name="open_panel_folders">
             <String value='&quot;Audio&quot;' />
             <String value='&quot;Video&quot;' />
@@ -1000,7 +1005,6 @@
             <String value='&quot;Controls&quot;' />
             <String value='&quot;Behaviour&quot;' />
         </Array>
-        <String name="selected_panel" value='&quot;BehaviourBehaviour Settings&quot;' />
         <Int32 name="selected_tab" value="0" />
         <Float name="panel_list_scroll_offset" value="0.000000" />
         <Archive code="0" name="hotkey_config">
@@ -1065,11 +1069,11 @@
         </Archive>
     </Archive>
     <Value name="ShowFightTargetNCU" value="false" />
-    <Value name="ShowNanoTargetNCU" value="false" />
+    <Value name="ShowNanoTargetNCU" value="true" />
     <Archive name="SignupTerminalConfig" code="0" />
     <Archive name="SkillConfig" code="0">
         <Bool name="Minimized" value="false" />
-        <Rect name="WindowFrame" value="Rect(200.000000,180.000000,920.000000,710.000000)" />
+        <Rect name="WindowFrame" value="Rect(247.000000,237.000000,967.000000,767.000000)" />
         <Bool name="WindowPinButtonState" value="true" />
     </Archive>
     <Archive name="StatViewConfig" code="0" />
@@ -1114,7 +1118,7 @@
     <Value name="VisualFlags" value="127" />
     <Value name="VoiceSndFxType" value="0" />
     <Archive name="WearViewConfig" code="0">
-        <Int32 name="selected_tab" value="0" />
+        <Int32 name="selected_tab" value="1" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
     </Archive>
@@ -1147,7 +1151,7 @@
     <Value name="control_center_active" value="true" />
     <Value name="faction_window" value="false" />
     <Value name="friends_window" value="false" />
-    <Value name="inventory_window" value="true" />
+    <Value name="inventory_window" value="false" />
     <Value name="itemshop_window" value="false" />
     <Value name="knowledge_window" value="false" />
     <Value name="lasertarget_window" value="false" />
@@ -1158,7 +1162,7 @@
     <Value name="mechselect_window" value="false" />
     <Value name="mission_window" value="false" />
     <Value name="nano_window" value="false" />
-    <Value name="ncu_window" value="false" />
+    <Value name="ncu_window" value="true" />
     <Value name="notification_window" value="true" />
     <Value name="perk_window" value="false" />
     <Value name="pet_window" value="false" />
@@ -1172,7 +1176,7 @@
     <Value name="specialaction_window" value="false" />
     <Value name="stat_window" value="false" />
     <Value name="team_menu" value="false" />
-    <Value name="team_view" value="false" />
+    <Value name="team_view" value="true" />
     <Value name="teleport_target_window" value="false" />
     <Value name="tradeskill_window" value="false" />
     <Value name="wear_window" value="false" />

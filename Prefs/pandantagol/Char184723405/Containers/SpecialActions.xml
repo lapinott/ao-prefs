@@ -4,8 +4,8 @@
             <Identity value="Identity(57008,49570)" />
             <Identity value="Identity(57008,49571)" />
             <Identity value="Identity(57008,49573)" />
+            <Identity value="Identity(57008,49574)" />
             <Identity value="Identity(57008,49575)" />
-            <Identity value="Identity(57008,49576)" />
             <Identity value="Identity(57008,49578)" />
             <Identity value="Identity(57008,82208)" />
             <Identity value="Identity(57008,82210)" />
@@ -22,8 +22,8 @@
             <IPoint value="IPoint(1,1)" />
             <IPoint value="IPoint(0,0)" />
             <IPoint value="IPoint(2,0)" />
-            <IPoint value="IPoint(2,1)" />
             <IPoint value="IPoint(0,1)" />
+            <IPoint value="IPoint(2,1)" />
             <IPoint value="IPoint(1,0)" />
             <IPoint value="IPoint(2,3)" />
             <IPoint value="IPoint(1,3)" />

@@ -940,10 +940,15 @@
         </Archive>
         <Archive code="0" name="item_position_map">
             <Array name="item_id">
+                <Identity value="Identity(53019,85856)" />
+                <Identity value="Identity(53019,85857)" />
+                <Identity value="Identity(53019,85858)" />
+                <Identity value="Identity(53019,85859)" />
                 <Identity value="Identity(53019,81942)" />
                 <Identity value="Identity(53019,56218)" />
                 <Identity value="Identity(53019,42400)" />
                 <Identity value="Identity(53019,223372)" />
+                <Identity value="Identity(53019,121319)" />
                 <Identity value="Identity(53019,32033)" />
                 <Identity value="Identity(53019,29327)" />
                 <Identity value="Identity(53019,32036)" />
@@ -979,18 +984,23 @@
                 <Identity value="Identity(53019,43367)" />
             </Array>
             <Array name="item_pos">
-                <IPoint value="IPoint(1,0)" />
                 <IPoint value="IPoint(0,0)" />
                 <IPoint value="IPoint(1,0)" />
+                <IPoint value="IPoint(2,0)" />
+                <IPoint value="IPoint(0,1)" />
+                <IPoint value="IPoint(1,1)" />
+                <IPoint value="IPoint(2,1)" />
+                <IPoint value="IPoint(1,0)" />
                 <IPoint value="IPoint(0,0)" />
                 <IPoint value="IPoint(0,0)" />
+                <IPoint value="IPoint(1,0)" />
                 <IPoint value="IPoint(1,7)" />
                 <IPoint value="IPoint(0,7)" />
                 <IPoint value="IPoint(3,6)" />
                 <IPoint value="IPoint(2,6)" />
                 <IPoint value="IPoint(1,6)" />
                 <IPoint value="IPoint(3,5)" />
-                <IPoint value="IPoint(1,0)" />
+                <IPoint value="IPoint(2,0)" />
                 <IPoint value="IPoint(2,5)" />
                 <IPoint value="IPoint(1,5)" />
                 <IPoint value="IPoint(0,5)" />
@@ -1011,17 +1021,22 @@
                 <IPoint value="IPoint(1,1)" />
                 <IPoint value="IPoint(0,1)" />
                 <IPoint value="IPoint(3,0)" />
-                <IPoint value="IPoint(2,0)" />
                 <IPoint value="IPoint(0,6)" />
                 <IPoint value="IPoint(2,7)" />
+                <IPoint value="IPoint(0,8)" />
                 <IPoint value="IPoint(1,0)" />
                 <IPoint value="IPoint(0,0)" />
             </Array>
             <Array name="item_school">
                 <Int32 value="0" />
                 <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
+                <Int32 value="0" />
                 <Int32 value="1" />
                 <Int32 value="1" />
+                <Int32 value="3" />
                 <Int32 value="3" />
                 <Int32 value="3" />
                 <Int32 value="3" />
@@ -1137,9 +1152,8 @@
     <Value name="ShowNanoTargetNCU" value="false" />
     <Archive name="SignupTerminalConfig" code="0" />
     <Archive name="SkillConfig" code="0">
-        <Bool name="ShowDetails" value="false" />
         <Bool name="Minimized" value="false" />
-        <Rect name="WindowFrame" value="Rect(255.000000,221.000000,951.000000,741.000000)" />
+        <Rect name="WindowFrame" value="Rect(255.000000,221.000000,957.000000,741.000000)" />
         <Bool name="WindowPinButtonState" value="false" />
     </Archive>
     <Archive name="StatViewConfig" code="0" />
@@ -1186,7 +1200,7 @@
     <Value name="VisualFlags" value="639" />
     <Value name="VoiceSndFxType" value="0" />
     <Archive name="WearViewConfig" code="0">
-        <Int32 name="selected_tab" value="0" />
+        <Int32 name="selected_tab" value="3" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
     </Archive>
@@ -1229,8 +1243,8 @@
     <Value name="map_window" value="false" />
     <Value name="mechselect_window" value="false" />
     <Value name="mission_window" value="true" />
-    <Value name="nano_window" value="true" />
-    <Value name="ncu_window" value="true" />
+    <Value name="nano_window" value="false" />
+    <Value name="ncu_window" value="false" />
     <Value name="notification_window" value="true" />
     <Value name="perk_window" value="true" />
     <Value name="pet_window" value="false" />
@@ -1241,10 +1255,10 @@
     <Value name="shortcutbar_window" value="true" />
     <Value name="signupterminal_window" value="false" />
     <Value name="skill_window" value="false" />
-    <Value name="specialaction_window" value="true" />
+    <Value name="specialaction_window" value="false" />
     <Value name="stat_window" value="false" />
     <Value name="team_menu" value="false" />
-    <Value name="team_view" value="false" />
+    <Value name="team_view" value="true" />
     <Value name="teleport_target_window" value="false" />
     <Value name="tradeskill_window" value="false" />
     <Value name="wear_window" value="false" />

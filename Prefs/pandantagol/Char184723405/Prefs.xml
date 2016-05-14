@@ -7,7 +7,7 @@
         <Rect name="WindowFrame" value="Rect(13.000000,144.000000,23.000000,268.000000)" />
     </Archive>
     <Archive name="CCFriendlyHealthBarConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(25.000000,5.000000,838.000000,65.000000)" />
+        <Rect name="WindowFrame" value="Rect(25.000000,5.000000,838.000000,28.000000)" />
     </Archive>
     <Archive name="CCHealthBarConfig" code="0">
         <Rect name="WindowFrame" value="Rect(0.000000,0.000000,10.000000,124.000000)" />
@@ -83,6 +83,7 @@
             <Identity value="Identity(102,30)" />
             <Identity value="Identity(102,25)" />
             <Identity value="Identity(102,23)" />
+            <Identity value="Identity(102,31)" />
         </Array>
     </Archive>
     <Archive name="FactionWindowConfig" code="0" />
@@ -127,7 +128,7 @@
         <String name="DockableViewDockName" value='&quot;DockArea1&quot;' />
     </Archive>
     <Archive name="InspectViewConfig" code="0">
-        <Int32 name="selected_tab" value="0" />
+        <Int32 name="selected_tab" value="3" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;DockArea6&quot;' />
     </Archive>
@@ -1463,7 +1464,7 @@
     <Value name="VisualFlags" value="615" />
     <Value name="VoiceSndFxType" value="0" />
     <Archive name="WearViewConfig" code="0">
-        <Int32 name="selected_tab" value="0" />
+        <Int32 name="selected_tab" value="2" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
     </Archive>
@@ -1506,7 +1507,7 @@
     <Value name="map_window" value="false" />
     <Value name="mechselect_window" value="false" />
     <Value name="mission_window" value="false" />
-    <Value name="nano_window" value="false" />
+    <Value name="nano_window" value="true" />
     <Value name="ncu_window" value="true" />
     <Value name="notification_window" value="true" />
     <Value name="perk_window" value="false" />
@@ -1521,7 +1522,7 @@
     <Value name="specialaction_window" value="false" />
     <Value name="stat_window" value="false" />
     <Value name="team_menu" value="false" />
-    <Value name="team_view" value="true" />
+    <Value name="team_view" value="false" />
     <Value name="teleport_target_window" value="false" />
     <Value name="tradeskill_window" value="false" />
     <Value name="wear_window" value="false" />
