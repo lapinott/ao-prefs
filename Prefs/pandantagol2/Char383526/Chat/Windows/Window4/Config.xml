@@ -1,17 +1,17 @@
 <Archive code="0">
     <Array name="selected_group_ids">
-        <Int64 value="60391547858" />
         <Int64 value="1073741826" />
+        <Int64 value="60391547858" />
     </Array>
     <Array name="selected_group_names">
-        <String value='&quot;Sojustream&quot;' />
         <String value='&quot;Vicinity&quot;' />
+        <String value='&quot;Sojustream&quot;' />
     </Array>
     <Archive code="0" name="log_window_config" />
     <Archive code="0" name="chat_window_config">
-        <Bool name="is_frontmost" value="false" />
-        <Bool name="is_backmost" value="false" />
         <Rect name="WindowFrame" value="Rect(717.000000,726.000000,1196.000000,821.000000)" />
+        <Bool name="is_backmost" value="false" />
+        <Bool name="is_frontmost" value="false" />
     </Archive>
     <Archive code="0" name="chat_view_config" />
     <Int32 name="visual_mode" value="2" />

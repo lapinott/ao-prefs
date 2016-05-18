@@ -1,6 +1,6 @@
 <Archive code="0">
     <String name="DockableViewDockName" value='&quot;DockArea103&quot;' />
-    <Point name="scroll_offset" value="Point(0.000000,-232.000000)" />
+    <Point name="scroll_offset" value="Point(0.000000,0.000000)" />
     <Archive code="0" name="listview_config">
         <Array name="col_id">
             <Int32 value="0" />
@@ -26,36 +26,33 @@
     </Archive>
     <Archive code="0" name="item_position_map">
         <Array name="item_id">
-            <Identity value="Identity(107,7012352)" />
-            <Identity value="Identity(107,7012353)" />
-            <Identity value="Identity(107,7012354)" />
-            <Identity value="Identity(107,7012355)" />
-            <Identity value="Identity(107,7012356)" />
-            <Identity value="Identity(107,7012357)" />
-            <Identity value="Identity(107,7012358)" />
-            <Identity value="Identity(107,7012359)" />
-            <Identity value="Identity(107,7012360)" />
-            <Identity value="Identity(107,7012361)" />
-            <Identity value="Identity(107,7012362)" />
-            <Identity value="Identity(107,7012363)" />
-            <Identity value="Identity(107,7012364)" />
-            <Identity value="Identity(107,7012365)" />
-            <Identity value="Identity(107,7012366)" />
-            <Identity value="Identity(107,7012367)" />
-            <Identity value="Identity(107,7012368)" />
-            <Identity value="Identity(107,7012369)" />
-            <Identity value="Identity(107,7012370)" />
-            <Identity value="Identity(107,7012371)" />
-            <Identity value="Identity(107,7012372)" />
+            <Identity value="Identity(107,7274496)" />
+            <Identity value="Identity(107,7274498)" />
+            <Identity value="Identity(107,7274499)" />
+            <Identity value="Identity(107,7274500)" />
+            <Identity value="Identity(107,7274501)" />
+            <Identity value="Identity(107,7274503)" />
+            <Identity value="Identity(107,7274504)" />
+            <Identity value="Identity(107,7274505)" />
+            <Identity value="Identity(107,7274506)" />
+            <Identity value="Identity(107,7274507)" />
+            <Identity value="Identity(107,7274508)" />
+            <Identity value="Identity(107,7274509)" />
+            <Identity value="Identity(107,7274510)" />
+            <Identity value="Identity(107,7274512)" />
+            <Identity value="Identity(107,7274514)" />
+            <Identity value="Identity(107,7274515)" />
+            <Identity value="Identity(107,7274497)" />
+            <Identity value="Identity(107,7274502)" />
+            <Identity value="Identity(107,7274511)" />
+            <Identity value="Identity(107,7274513)" />
         </Array>
         <Array name="item_pos">
             <IPoint value="IPoint(0,0)" />
-            <IPoint value="IPoint(1,0)" />
             <IPoint value="IPoint(2,0)" />
             <IPoint value="IPoint(0,1)" />
             <IPoint value="IPoint(1,1)" />
             <IPoint value="IPoint(2,1)" />
-            <IPoint value="IPoint(0,2)" />
             <IPoint value="IPoint(1,2)" />
             <IPoint value="IPoint(2,2)" />
             <IPoint value="IPoint(0,3)" />
@@ -64,11 +61,12 @@
             <IPoint value="IPoint(0,4)" />
             <IPoint value="IPoint(1,4)" />
             <IPoint value="IPoint(2,4)" />
-            <IPoint value="IPoint(0,5)" />
             <IPoint value="IPoint(1,5)" />
-            <IPoint value="IPoint(2,5)" />
             <IPoint value="IPoint(0,6)" />
             <IPoint value="IPoint(1,6)" />
+            <IPoint value="IPoint(1,0)" />
+            <IPoint value="IPoint(0,2)" />
+            <IPoint value="IPoint(2,5)" />
             <IPoint value="IPoint(2,6)" />
         </Array>
     </Archive>

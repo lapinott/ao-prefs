@@ -499,7 +499,7 @@
     <Value name="LockHotbars" value="false" />
     <Value name="LockRaidBars" value="false" />
     <Archive name="MailIconWindowConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(0.000000,0.000000,31.000000,19.000000)" />
+        <Rect name="WindowFrame" value="Rect(138.000000,23.000000,169.000000,42.000000)" />
     </Archive>
     <Archive name="MailWindowConfig" code="0">
         <Archive code="0" name="listview_config">
@@ -940,6 +940,7 @@
         </Archive>
         <Archive code="0" name="item_position_map">
             <Array name="item_id">
+                <Identity value="Identity(53019,85850)" />
                 <Identity value="Identity(53019,85856)" />
                 <Identity value="Identity(53019,85857)" />
                 <Identity value="Identity(53019,85858)" />
@@ -948,6 +949,9 @@
                 <Identity value="Identity(53019,56218)" />
                 <Identity value="Identity(53019,42400)" />
                 <Identity value="Identity(53019,223372)" />
+                <Identity value="Identity(53019,117222)" />
+                <Identity value="Identity(53019,32060)" />
+                <Identity value="Identity(53019,32059)" />
                 <Identity value="Identity(53019,121319)" />
                 <Identity value="Identity(53019,32033)" />
                 <Identity value="Identity(53019,29327)" />
@@ -984,6 +988,7 @@
                 <Identity value="Identity(53019,43367)" />
             </Array>
             <Array name="item_pos">
+                <IPoint value="IPoint(3,0)" />
                 <IPoint value="IPoint(0,0)" />
                 <IPoint value="IPoint(1,0)" />
                 <IPoint value="IPoint(2,0)" />
@@ -994,13 +999,16 @@
                 <IPoint value="IPoint(0,0)" />
                 <IPoint value="IPoint(0,0)" />
                 <IPoint value="IPoint(1,0)" />
+                <IPoint value="IPoint(2,0)" />
+                <IPoint value="IPoint(0,1)" />
+                <IPoint value="IPoint(1,1)" />
                 <IPoint value="IPoint(1,7)" />
                 <IPoint value="IPoint(0,7)" />
                 <IPoint value="IPoint(3,6)" />
                 <IPoint value="IPoint(2,6)" />
                 <IPoint value="IPoint(1,6)" />
                 <IPoint value="IPoint(3,5)" />
-                <IPoint value="IPoint(2,0)" />
+                <IPoint value="IPoint(2,1)" />
                 <IPoint value="IPoint(2,5)" />
                 <IPoint value="IPoint(1,5)" />
                 <IPoint value="IPoint(0,5)" />
@@ -1017,13 +1025,13 @@
                 <IPoint value="IPoint(1,2)" />
                 <IPoint value="IPoint(0,2)" />
                 <IPoint value="IPoint(3,1)" />
-                <IPoint value="IPoint(2,1)" />
-                <IPoint value="IPoint(1,1)" />
-                <IPoint value="IPoint(0,1)" />
-                <IPoint value="IPoint(3,0)" />
                 <IPoint value="IPoint(0,6)" />
                 <IPoint value="IPoint(2,7)" />
                 <IPoint value="IPoint(0,8)" />
+                <IPoint value="IPoint(3,0)" />
+                <IPoint value="IPoint(1,8)" />
+                <IPoint value="IPoint(2,8)" />
+                <IPoint value="IPoint(0,9)" />
                 <IPoint value="IPoint(1,0)" />
                 <IPoint value="IPoint(0,0)" />
             </Array>
@@ -1034,8 +1042,12 @@
                 <Int32 value="0" />
                 <Int32 value="0" />
                 <Int32 value="0" />
+                <Int32 value="0" />
                 <Int32 value="1" />
                 <Int32 value="1" />
+                <Int32 value="3" />
+                <Int32 value="3" />
+                <Int32 value="3" />
                 <Int32 value="3" />
                 <Int32 value="3" />
                 <Int32 value="3" />
@@ -1153,7 +1165,7 @@
     <Archive name="SignupTerminalConfig" code="0" />
     <Archive name="SkillConfig" code="0">
         <Bool name="Minimized" value="false" />
-        <Rect name="WindowFrame" value="Rect(255.000000,221.000000,957.000000,741.000000)" />
+        <Rect name="WindowFrame" value="Rect(255.000000,221.000000,965.000000,741.000000)" />
         <Bool name="WindowPinButtonState" value="false" />
     </Archive>
     <Archive name="StatViewConfig" code="0" />
@@ -1243,8 +1255,8 @@
     <Value name="map_window" value="false" />
     <Value name="mechselect_window" value="false" />
     <Value name="mission_window" value="true" />
-    <Value name="nano_window" value="false" />
-    <Value name="ncu_window" value="false" />
+    <Value name="nano_window" value="true" />
+    <Value name="ncu_window" value="true" />
     <Value name="notification_window" value="true" />
     <Value name="perk_window" value="true" />
     <Value name="pet_window" value="false" />
@@ -1261,5 +1273,5 @@
     <Value name="team_view" value="true" />
     <Value name="teleport_target_window" value="false" />
     <Value name="tradeskill_window" value="false" />
-    <Value name="wear_window" value="false" />
+    <Value name="wear_window" value="true" />
 </Root>

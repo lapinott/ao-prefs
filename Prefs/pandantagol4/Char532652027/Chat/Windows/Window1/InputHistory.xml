@@ -1,5 +1,4 @@
 <Root>
-    <TextLine text="tipping 2m for EP" />
     <TextLine text="/moobn" />
     <TextLine text="/Say yus" />
     <TextLine text="/tell Marksmain yes" />
@@ -199,4 +198,5 @@
     <TextLine text="that means  peace :)" />
     <TextLine text="gotta bail" />
     <TextLine text="/wave" />
+    <TextLine text="/cc addbuddy Piif Paaf Puuf" />
 </Root>

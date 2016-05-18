@@ -1,9 +1,15 @@
 <Archive code="0">
     <Archive code="0" name="dock_config">
-        <Archive code="0" name="dock_node_configs" />
-        <String name="docked_view_identities" value='&quot;Container_51017x86735256.xml&quot;' />
+        <Array name="dock_node_configs">
+            <Archive code="0" />
+            <Archive code="0" />
+        </Array>
+        <Array name="docked_view_identities">
+            <String value='&quot;Container_51017x86735256.xml&quot;' />
+            <String value='&quot;TempContainer_5.xml&quot;' />
+        </Array>
         <Bool name="WindowPinButtonState" value="false" />
-        <Rect name="WindowFrame" value="Rect(872.000000,238.000000,1058.000000,413.000000)" />
+        <Rect name="WindowFrame" value="Rect(872.000000,238.000000,1047.000000,413.000000)" />
         <Int32 name="selected_tab" value="-1" />
     </Archive>
     <String name="dock_type" value='&quot;DockTabbedWindow&quot;' />

@@ -49,7 +49,7 @@
             <String value='&quot;specialaction_window&quot;' />
             <String value='&quot;friends_window&quot;' />
         </Array>
-        <Float name="scroll_offset" value="0.000000" />
+        <Float name="scroll_offset" value="-266.000000" />
     </Archive>
     <String name="dock_type" value='&quot;RollupController&quot;' />
     <String name="dock_name" value='&quot;RollupArea&quot;' />

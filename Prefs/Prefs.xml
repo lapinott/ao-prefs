@@ -5,22 +5,25 @@
     <Value name="ChatFontSize" value="140" />
     <Value name="ChatFontStyle" value='&quot;Regular&quot;' />
     <Value name="DimensionNetworkTimeout" value="30" />
+    <Value name="DisplayAnisotropicQuality" value="16" />
     <Value name="DisplayBitsPerPixel" value="32" />
     <Value name="DisplayBorderless" value="1" />
-    <Value name="DisplayCompressedTextures" value="false" />
+    <Value name="DisplayBrightness" value="1.000000" />
+    <Value name="DisplayContrast" value="1.000000" />
     <Value name="DisplayDeviceGUID" value='&quot;f5049e78-4861-11d2-a407-00a0c90629a8&quot;' />
     <Value name="DisplayDriverGUID" value='&quot;67685559-3106-11d0-b971-00aa00342f9f&quot;' />
+    <Value name="DisplayFXAAMode" value="2" />
+    <Value name="DisplayFilterMode" value="2" />
     <Value name="DisplayFullscreen" value="false" />
+    <Value name="DisplayGamma" value="1.000000" />
     <Value name="DisplayHeight" value="1080" />
-    <Value name="DisplayOtherTextureQuality" value="3" />
-    <Value name="DisplayTextureResolution" value="2" />
+    <Value name="DisplayStripMIPs" value="0" />
     <Value name="DisplayWBuffer" value="false" />
     <Value name="DisplayWidth" value="1920" />
     <Value name="EnableWebBrowser" value="false" />
-    <Value name="ExpansionFlags" value="171" />
+    <Value name="ExpansionFlags" value="1" />
     <Value name="GUIName" value='&quot;Default&quot;' />
     <Value name="GeneralNetworkTimeout" value="90" />
-    <Value name="GroundTextureQuality" value="2" />
     <Value name="HardwareSurvey" value="0" />
     <Archive name="LauncherConfig" code="0">
         <Bool name="FirstLaunch" value="false" />
@@ -34,7 +37,7 @@
         <String name="Account3" value='&quot;thrangor&quot;' />
         <String name="Account4" value='&quot;cerro1&quot;' />
         <String name="Account5" value='&quot;pandantagol4&quot;' />
-        <Int16 name="SelectedAccount" value="0" />
+        <Int16 name="SelectedAccount" value="2" />
     </Archive>
     <Value name="PlayIntro" value="0" />
     <Value name="SendDisconnectInfo" value="1" />

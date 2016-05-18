@@ -1,13 +1,107 @@
-VIRTUAL: 0 0 1920 1080
-MONITOR1: 0 0 1920 1040
-MONITOR2: 0 0 1920 1080
+VIRTUAL: 0 0 3840 1080
+DEFAULT: 0 0 1920 1080
 Error-string from Randy_t::Initialize: No error
-ACE_Dirent::ACE_Dirent: No such file Using RAW mouse wheel.
-mouse wheel.
-Alloc/DeAlloc mismatch Spell_t: 5968!=5636
-Alloc/DeAlloc Quests ok.. 0
+ACE_Dirent::ACE_Dirent: File exists
+Using RAW mousUsing RAW mouse wheel.
+Alloc/DeAlloc mismatch Spell_t: 29588!=29326
+Alloc/DeAlloc Quests ok.. 1
 Alloc/DeAlloc Expressions ok.. 0
 Alloc/DeAlloc Expressions ok.. 0
 Alloc/DeAlloc SkillDatas ok.. 1
-Alloc/DeAlloc Chest ok.. 158
+Alloc/DeAlloc Chest ok.. 183
+Alloc/DeAlloc Triggers ok.. 2
+be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for rot-key 38 must be > 3299.000000, but was 3299.000000
+broken keyframe data in stream, time for trans-key 38 must be > 3299.000000, but was 3299.000000
+Alloc/DeAlloc mismatch Spell_t: 28747!=26494
+Alloc/DeAlloc Quests ok.. 3
+Alloc/DeAlloc Expressions ok.. 0
+Alloc/DeAlloc Expressions ok.. 0
+Alloc/DeAlloc SkillDatas ok.. 1
+Alloc/DeAlloc Chest ok.. 221
 Alloc/DeAlloc Triggers ok.. 2

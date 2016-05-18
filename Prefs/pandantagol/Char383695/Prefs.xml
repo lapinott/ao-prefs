@@ -9,7 +9,7 @@
         <Rect name="WindowFrame" value="Rect(13.000000,144.000000,23.000000,268.000000)" />
     </Archive>
     <Archive name="CCFriendlyHealthBarConfig" code="0">
-        <Rect name="WindowFrame" value="Rect(311.000000,37.000000,1124.000000,60.000000)" />
+        <Rect name="WindowFrame" value="Rect(311.000000,37.000000,1124.000000,71.000000)" />
     </Archive>
     <Archive name="CCHealthBarConfig" code="0">
         <Rect name="WindowFrame" value="Rect(0.000000,0.000000,10.000000,124.000000)" />
@@ -119,7 +119,7 @@
         <String name="DockableViewDockName" value='&quot;DockArea2&quot;' />
     </Archive>
     <Archive name="InspectViewConfig" code="0">
-        <Int32 name="selected_tab" value="1" />
+        <Int32 name="selected_tab" value="3" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;DockArea17&quot;' />
     </Archive>
@@ -1665,7 +1665,7 @@
     <Archive name="OptionWindowConfig" code="0">
         <Rect name="WindowFrame" value="Rect(295.000000,296.000000,1216.000000,747.000000)" />
         <Bool name="WindowPinButtonState" value="false" />
-        <String name="selected_panel" value='&quot;VideoVideo Settings&quot;' />
+        <String name="selected_panel" value='&quot;AudioAudio Settings&quot;' />
         <Array name="open_panel_folders">
             <String value='&quot;Audio&quot;' />
             <String value='&quot;Video&quot;' />
@@ -1707,7 +1707,7 @@
         <Bool name="WindowPinButtonState" value="false" />
     </Archive>
     <Archive name="PlanetMapViewConfig" code="0">
-        <Int32 name="ZoomLev" value="1" />
+        <Int32 name="ZoomLev" value="3" />
         <Bool name="FirstTime" value="false" />
         <Bool name="ShowButtons" value="true" />
         <String name="DockableViewDockName" value='&quot;PlanetMapViewConfig&quot;' />
@@ -1852,7 +1852,7 @@
     <Value name="VisualFlags" value="575" />
     <Value name="VoiceSndFxType" value="0" />
     <Archive name="WearViewConfig" code="0">
-        <Int32 name="selected_tab" value="0" />
+        <Int32 name="selected_tab" value="1" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
     </Archive>
@@ -1884,7 +1884,7 @@
     <Value name="command_menu" value="false" />
     <Value name="control_center_active" value="true" />
     <Value name="faction_window" value="false" />
-    <Value name="friends_window" value="false" />
+    <Value name="friends_window" value="true" />
     <Value name="inventory_window" value="false" />
     <Value name="itemshop_window" value="false" />
     <Value name="knowledge_window" value="false" />
@@ -1907,9 +1907,9 @@
     <Value name="shortcutbar_window" value="true" />
     <Value name="signupterminal_window" value="false" />
     <Value name="skill_window" value="false" />
-    <Value name="specialaction_window" value="true" />
+    <Value name="specialaction_window" value="false" />
     <Value name="stat_window" value="false" />
-    <Value name="team_menu" value="true" />
+    <Value name="team_menu" value="false" />
     <Value name="team_view" value="false" />
     <Value name="teleport_target_window" value="false" />
     <Value name="tradeskill_window" value="false" />

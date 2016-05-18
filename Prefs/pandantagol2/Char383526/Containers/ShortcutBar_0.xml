@@ -38,10 +38,7 @@
             <Identity value="Identity(53019,287046)" />
             <Identity value="Identity(53019,26451)" />
             <Identity value="Identity(53019,27177)" />
-            <Identity value="Identity(115,58)" />
             <Identity value="Identity(104,86)" />
-            <Identity value="Identity(115,60)" />
-            <Identity value="Identity(101,1)" />
             <Identity value="Identity(51081,224)" />
         </Array>
         <Array name="item_pos">
@@ -80,10 +77,7 @@
             <IPoint value="IPoint(9,8)" />
             <IPoint value="IPoint(8,8)" />
             <IPoint value="IPoint(7,8)" />
-            <IPoint value="IPoint(4,1)" />
             <IPoint value="IPoint(7,0)" />
-            <IPoint value="IPoint(8,0)" />
-            <IPoint value="IPoint(9,0)" />
             <IPoint value="IPoint(5,1)" />
         </Array>
     </Archive>

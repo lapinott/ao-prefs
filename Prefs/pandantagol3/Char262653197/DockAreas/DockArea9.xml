@@ -1,7 +1,7 @@
 <Archive code="0">
     <Archive code="0" name="dock_config">
         <Int32 name="selected_tab" value="-1" />
-        <Rect name="WindowFrame" value="Rect(876.000000,456.000000,1062.000000,631.000000)" />
+        <Rect name="WindowFrame" value="Rect(682.000000,604.000000,868.000000,779.000000)" />
         <Bool name="WindowPinButtonState" value="false" />
         <String name="docked_view_identities" value='&quot;Container_51017x53976631.xml&quot;' />
         <Archive code="0" name="dock_node_configs" />

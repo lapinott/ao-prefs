@@ -1,6 +1,6 @@
 <Archive code="0">
     <String name="DockableViewDockName" value='&quot;DockArea106&quot;' />
-    <Point name="scroll_offset" value="Point(0.000000,-232.000000)" />
+    <Point name="scroll_offset" value="Point(0.000000,0.000000)" />
     <Archive code="0" name="listview_config">
         <Array name="col_id">
             <Int32 value="0" />
@@ -26,22 +26,22 @@
     </Archive>
     <Archive code="0" name="item_position_map">
         <Array name="item_id">
-            <Identity value="Identity(107,6946816)" />
-            <Identity value="Identity(107,6946817)" />
-            <Identity value="Identity(107,6946818)" />
-            <Identity value="Identity(107,6946819)" />
-            <Identity value="Identity(107,6946820)" />
-            <Identity value="Identity(107,6946821)" />
-            <Identity value="Identity(107,6946822)" />
-            <Identity value="Identity(107,6946823)" />
-            <Identity value="Identity(107,6946824)" />
-            <Identity value="Identity(107,6946825)" />
-            <Identity value="Identity(107,6946826)" />
-            <Identity value="Identity(107,6946829)" />
-            <Identity value="Identity(107,6946830)" />
-            <Identity value="Identity(107,6946831)" />
-            <Identity value="Identity(107,6946827)" />
-            <Identity value="Identity(107,6946828)" />
+            <Identity value="Identity(107,12582912)" />
+            <Identity value="Identity(107,12582913)" />
+            <Identity value="Identity(107,12582914)" />
+            <Identity value="Identity(107,12582915)" />
+            <Identity value="Identity(107,12582916)" />
+            <Identity value="Identity(107,12582917)" />
+            <Identity value="Identity(107,12582918)" />
+            <Identity value="Identity(107,12582919)" />
+            <Identity value="Identity(107,12582920)" />
+            <Identity value="Identity(107,12582921)" />
+            <Identity value="Identity(107,12582922)" />
+            <Identity value="Identity(107,12582925)" />
+            <Identity value="Identity(107,12582926)" />
+            <Identity value="Identity(107,12582927)" />
+            <Identity value="Identity(107,12582923)" />
+            <Identity value="Identity(107,12582924)" />
         </Array>
         <Array name="item_pos">
             <IPoint value="IPoint(0,0)" />

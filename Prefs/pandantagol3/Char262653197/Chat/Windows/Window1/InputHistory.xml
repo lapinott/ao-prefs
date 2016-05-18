@@ -1,13 +1,4 @@
 <Root>
-    <TextLine text="10m ???????????????" />
-    <TextLine text="thats a crazy lot" />
-    <TextLine text="I can pull with my enf" />
-    <TextLine text="are you the one nuking ?" />
-    <TextLine text="just inv me" />
-    <TextLine text="ill pull or pay we" />
-    <TextLine text="where are you mates then ?" />
-    <TextLine text="/s 220 ENFO FOR HIRE PST!!!" />
-    <TextLine text="do you have room yes or no ?" />
     <TextLine text="/s rofl" />
     <TextLine text="100m/lvl" />
     <TextLine text="/tell Sakra how much does excalibur go for ?" />
@@ -152,7 +143,6 @@
     <TextLine text="/tell Halloffame grid" />
     <TextLine text="ftw" />
     <TextLine text="Glasses ffa ?" />
-    <TextLine text="/terminate" />
     <TextLine text="/petition" />
     <TextLine text="/tell Dmzsoldier-1 np" />
     <TextLine text="/tell Futti hi yes" />
@@ -198,5 +188,15 @@
     <TextLine text="/name help" />
     <TextLine text="/name nick Spykonaut" />
     <TextLine text="/name Spykonaut" />
+    <TextLine text="/name First The Last Naut" />
+    <TextLine text="/name First The" />
+    <TextLine text='/name last &quot;Naut&quot;' />
     <TextLine text="/name status" />
+    <TextLine text="/follow" />
+    <TextLine text="/terminate" />
+    <TextLine text="/tell aquest !calc 1700 * 0.8" />
+    <TextLine text="/tell aquest !calc 1700 * 0.6" />
+    <TextLine text="/greet" />
+    <TextLine text="/Say np" />
+    <TextLine text="/say thx" />
 </Root>

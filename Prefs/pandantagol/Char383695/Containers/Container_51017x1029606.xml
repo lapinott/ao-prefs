@@ -26,23 +26,23 @@
     </Archive>
     <Archive code="0" name="item_position_map">
         <Array name="item_id">
-            <Identity value="Identity(107,7143424)" />
-            <Identity value="Identity(107,7143425)" />
-            <Identity value="Identity(107,7143426)" />
-            <Identity value="Identity(107,7143427)" />
-            <Identity value="Identity(107,7143428)" />
-            <Identity value="Identity(107,7143429)" />
-            <Identity value="Identity(107,7143430)" />
-            <Identity value="Identity(107,7143431)" />
-            <Identity value="Identity(107,7143433)" />
-            <Identity value="Identity(107,7143434)" />
-            <Identity value="Identity(107,7143435)" />
-            <Identity value="Identity(107,7143436)" />
-            <Identity value="Identity(107,7143437)" />
-            <Identity value="Identity(107,7143439)" />
-            <Identity value="Identity(107,7143442)" />
-            <Identity value="Identity(107,7143443)" />
-            <Identity value="Identity(107,7143444)" />
+            <Identity value="Identity(107,8781824)" />
+            <Identity value="Identity(107,8781825)" />
+            <Identity value="Identity(107,8781826)" />
+            <Identity value="Identity(107,8781827)" />
+            <Identity value="Identity(107,8781828)" />
+            <Identity value="Identity(107,8781829)" />
+            <Identity value="Identity(107,8781830)" />
+            <Identity value="Identity(107,8781831)" />
+            <Identity value="Identity(107,8781833)" />
+            <Identity value="Identity(107,8781834)" />
+            <Identity value="Identity(107,8781835)" />
+            <Identity value="Identity(107,8781836)" />
+            <Identity value="Identity(107,8781837)" />
+            <Identity value="Identity(107,8781839)" />
+            <Identity value="Identity(107,8781842)" />
+            <Identity value="Identity(107,8781843)" />
+            <Identity value="Identity(107,8781844)" />
         </Array>
         <Array name="item_pos">
             <IPoint value="IPoint(0,0)" />

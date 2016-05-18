@@ -734,7 +734,7 @@
     </Archive>
     <Archive name="NanoViewConfig" code="0">
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
-        <Int32 name="selected_school" value="3" />
+        <Int32 name="selected_school" value="5" />
         <Bool name="listview_mode" value="false" />
         <Archive code="0" name="listview_config0">
             <Array name="col_id">
@@ -1105,6 +1105,7 @@
                 <Identity value="Identity(53019,27109)" />
                 <Identity value="Identity(53019,26364)" />
                 <Identity value="Identity(53019,85872)" />
+                <Identity value="Identity(53019,303146)" />
                 <Identity value="Identity(53019,27189)" />
                 <Identity value="Identity(53019,30713)" />
                 <Identity value="Identity(53019,27188)" />
@@ -1203,9 +1204,10 @@
                 <IPoint value="IPoint(0,12)" />
                 <IPoint value="IPoint(1,12)" />
                 <IPoint value="IPoint(0,0)" />
-                <IPoint value="IPoint(2,0)" />
                 <IPoint value="IPoint(1,0)" />
+                <IPoint value="IPoint(2,0)" />
                 <IPoint value="IPoint(0,1)" />
+                <IPoint value="IPoint(1,1)" />
                 <IPoint value="IPoint(2,0)" />
                 <IPoint value="IPoint(1,0)" />
                 <IPoint value="IPoint(0,1)" />
@@ -1299,6 +1301,7 @@
                 <Int32 value="3" />
                 <Int32 value="3" />
                 <Int32 value="3" />
+                <Int32 value="4" />
                 <Int32 value="4" />
                 <Int32 value="4" />
                 <Int32 value="4" />
@@ -1405,7 +1408,7 @@
     <Archive name="SignupTerminalConfig" code="0" />
     <Archive name="SkillConfig" code="0">
         <Bool name="Minimized" value="false" />
-        <Rect name="WindowFrame" value="Rect(328.000000,240.000000,1030.000000,760.000000)" />
+        <Rect name="WindowFrame" value="Rect(859.000000,270.000000,1561.000000,790.000000)" />
         <Bool name="WindowPinButtonState" value="true" />
     </Archive>
     <Archive name="StatViewConfig" code="0">
@@ -1464,7 +1467,7 @@
     <Value name="VisualFlags" value="615" />
     <Value name="VoiceSndFxType" value="0" />
     <Archive name="WearViewConfig" code="0">
-        <Int32 name="selected_tab" value="2" />
+        <Int32 name="selected_tab" value="0" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
     </Archive>

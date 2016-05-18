@@ -26,22 +26,22 @@
     </Archive>
     <Archive code="0" name="item_position_map">
         <Array name="item_id">
-            <Identity value="Identity(107,9437184)" />
-            <Identity value="Identity(107,9437185)" />
-            <Identity value="Identity(107,9437187)" />
-            <Identity value="Identity(107,9437188)" />
-            <Identity value="Identity(107,9437189)" />
-            <Identity value="Identity(107,9437190)" />
-            <Identity value="Identity(107,9437194)" />
-            <Identity value="Identity(107,9437202)" />
-            <Identity value="Identity(107,9437204)" />
-            <Identity value="Identity(107,9437186)" />
-            <Identity value="Identity(107,9437191)" />
-            <Identity value="Identity(107,9437192)" />
-            <Identity value="Identity(107,9437193)" />
-            <Identity value="Identity(107,9437195)" />
-            <Identity value="Identity(107,9437196)" />
-            <Identity value="Identity(107,9437197)" />
+            <Identity value="Identity(107,8257536)" />
+            <Identity value="Identity(107,8257537)" />
+            <Identity value="Identity(107,8257539)" />
+            <Identity value="Identity(107,8257540)" />
+            <Identity value="Identity(107,8257541)" />
+            <Identity value="Identity(107,8257542)" />
+            <Identity value="Identity(107,8257546)" />
+            <Identity value="Identity(107,8257554)" />
+            <Identity value="Identity(107,8257556)" />
+            <Identity value="Identity(107,8257538)" />
+            <Identity value="Identity(107,8257543)" />
+            <Identity value="Identity(107,8257544)" />
+            <Identity value="Identity(107,8257545)" />
+            <Identity value="Identity(107,8257547)" />
+            <Identity value="Identity(107,8257548)" />
+            <Identity value="Identity(107,8257549)" />
         </Array>
         <Array name="item_pos">
             <IPoint value="IPoint(0,0)" />

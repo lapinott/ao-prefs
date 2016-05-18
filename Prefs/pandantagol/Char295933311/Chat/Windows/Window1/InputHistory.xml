@@ -1,5 +1,4 @@
 <Root>
-    <TextLine text="np :]" />
     <TextLine text="any 25ers wanna try some duels ?" />
     <TextLine text="/tell Ruthiell how much for webbing ?" />
     <TextLine text="/tell Ruthiell 15m" />
@@ -199,4 +198,5 @@
     <TextLine text="you dont duel  me with all your osb ?" />
     <TextLine text="hmm not osb after all :)" />
     <TextLine text="/duel" />
+    <TextLine text="/pet terminate" />
 </Root>
