@@ -26,26 +26,26 @@
     </Archive>
     <Archive code="0" name="item_position_map">
         <Array name="item_id">
-            <Identity value="Identity(107,7274496)" />
-            <Identity value="Identity(107,7274498)" />
-            <Identity value="Identity(107,7274499)" />
-            <Identity value="Identity(107,7274500)" />
-            <Identity value="Identity(107,7274501)" />
-            <Identity value="Identity(107,7274503)" />
-            <Identity value="Identity(107,7274504)" />
-            <Identity value="Identity(107,7274505)" />
-            <Identity value="Identity(107,7274506)" />
-            <Identity value="Identity(107,7274507)" />
-            <Identity value="Identity(107,7274508)" />
-            <Identity value="Identity(107,7274509)" />
-            <Identity value="Identity(107,7274510)" />
-            <Identity value="Identity(107,7274512)" />
-            <Identity value="Identity(107,7274514)" />
-            <Identity value="Identity(107,7274515)" />
-            <Identity value="Identity(107,7274497)" />
-            <Identity value="Identity(107,7274502)" />
-            <Identity value="Identity(107,7274511)" />
-            <Identity value="Identity(107,7274513)" />
+            <Identity value="Identity(107,6881280)" />
+            <Identity value="Identity(107,6881282)" />
+            <Identity value="Identity(107,6881283)" />
+            <Identity value="Identity(107,6881284)" />
+            <Identity value="Identity(107,6881285)" />
+            <Identity value="Identity(107,6881287)" />
+            <Identity value="Identity(107,6881288)" />
+            <Identity value="Identity(107,6881289)" />
+            <Identity value="Identity(107,6881290)" />
+            <Identity value="Identity(107,6881291)" />
+            <Identity value="Identity(107,6881292)" />
+            <Identity value="Identity(107,6881293)" />
+            <Identity value="Identity(107,6881294)" />
+            <Identity value="Identity(107,6881296)" />
+            <Identity value="Identity(107,6881298)" />
+            <Identity value="Identity(107,6881299)" />
+            <Identity value="Identity(107,6881281)" />
+            <Identity value="Identity(107,6881286)" />
+            <Identity value="Identity(107,6881295)" />
+            <Identity value="Identity(107,6881297)" />
         </Array>
         <Array name="item_pos">
             <IPoint value="IPoint(0,0)" />

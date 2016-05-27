@@ -1,5 +1,4 @@
 <Root>
-    <TextLine text="/s rofl" />
     <TextLine text="100m/lvl" />
     <TextLine text="/tell Sakra how much does excalibur go for ?" />
     <TextLine text="/tell Sakra I rly dont know" />
@@ -199,4 +198,5 @@
     <TextLine text="/greet" />
     <TextLine text="/Say np" />
     <TextLine text="/say thx" />
+    <TextLine text="/Say better running" />
 </Root>

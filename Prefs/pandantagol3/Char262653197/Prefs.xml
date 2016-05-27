@@ -1267,7 +1267,7 @@
     <Value name="shortcutbar_window" value="true" />
     <Value name="signupterminal_window" value="false" />
     <Value name="skill_window" value="false" />
-    <Value name="specialaction_window" value="false" />
+    <Value name="specialaction_window" value="true" />
     <Value name="stat_window" value="false" />
     <Value name="team_menu" value="false" />
     <Value name="team_view" value="true" />

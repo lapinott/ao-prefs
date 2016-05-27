@@ -1,5 +1,5 @@
 <Archive code="0">
-    <Rect name="WindowFrame" value="Rect(1164.000000,63.000000,1566.000000,100.000000)" />
+    <Rect name="WindowFrame" value="Rect(1163.000000,62.000000,1565.000000,99.000000)" />
     <Bool name="IsPrimary" value="false" />
     <Archive code="0" name="position_map">
         <Array name="item_id">

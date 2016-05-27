@@ -1,20 +1,20 @@
-[23:51:01] Process token elevation type is: TokenElevationTypeLimited
-[23:51:01] TokenIsElevated: false
-[23:51:01] Running un-elevated, proceeding normally.
-[23:51:02] Checking integrity of files:
-[23:51:02] No problems found.
+[01:45:38] Process token elevation type is: TokenElevationTypeLimited
+[01:45:38] TokenIsElevated: false
+[01:45:38] Running un-elevated, proceeding normally.
+[01:45:39] Checking integrity of files:
+[01:45:40] No problems found.
 
-[23:51:02] Cleaning folder 'C:/Users/Julien/AppData/Local/Funcom/Anarchy Online/6daaf7c4/Anarchy Online New Engine/PatchesUndo\*.*'
-[23:51:02] Setting timeout to 30 seconds
-[23:51:03] Setting timeout to 30 seconds
-[23:51:03] Getting filecontents for dimensions.anarchy-online.com:80/new-dimensions/dimensions_v2.txt
-[23:51:03] Successfully downloaded file /new-dimensions/dimensions_v2.txt
-[23:51:03] Setting timeout to 30 seconds
-[23:51:03] Testing connection to cm.d1.funcom.com:7505
-[23:51:03] Setting timeout to 30 seconds
-[23:51:03] Looking up aliases for cm.d1.funcom.com
-[23:51:03] Added alias: 37.18.192.41
-[23:51:03] Connected successfully to server 37.18.192.41 : 7505!
+[01:45:40] Cleaning folder 'C:/Users/jumat/AppData/Local/Funcom/Anarchy Online/70dad3e6/Anarchy Online/PatchesUndo\*.*'
+[01:45:40] Setting timeout to 30 seconds
+[01:45:40] Setting timeout to 30 seconds
+[01:45:40] Getting filecontents for dimensions.anarchy-online.com:80/new-dimensions/dimensions_v2.txt
+[01:45:41] Successfully downloaded file /new-dimensions/dimensions_v2.txt
+[01:45:41] Setting timeout to 30 seconds
+[01:45:41] Testing connection to cm.d1.funcom.com:7505
+[01:45:41] Setting timeout to 30 seconds
+[01:45:41] Looking up aliases for cm.d1.funcom.com
+[01:45:41] Added alias: 37.18.192.41
+[01:45:41] Connected successfully to server 37.18.192.41 : 7505!
 
-[23:51:04] Abort() was called
-[23:51:04] Abort() was called
+[01:45:42] Abort() was called
+[01:45:42] Abort() was called

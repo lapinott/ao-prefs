@@ -2,7 +2,7 @@
     <Array name="Character">
         <Archive code="0">
             <Int32 name="ID" value="383526" />
-            <Int32 name="Time" value="1463522608" />
+            <Int32 name="Time" value="1464306426" />
             <Int32 name="MeshID" value="23366" />
             <Int32 name="HeadID" value="40114" />
             <Int32 name="Breed" value="4" />
@@ -15,35 +15,35 @@
                     <Int32 name="BodyPart" value="0" />
                     <Int32 name="EnvTextureId" value="0" />
                     <Int32 name="Priority" value="0" />
-                    <Int32 name="TextureID" value="0" />
+                    <Int32 name="TextureID" value="9418" />
                 </Archive>
                 <Archive code="0">
                     <Int32 name="AlphaMode" value="0" />
                     <Int32 name="BodyPart" value="1" />
                     <Int32 name="EnvTextureId" value="0" />
                     <Int32 name="Priority" value="0" />
-                    <Int32 name="TextureID" value="0" />
+                    <Int32 name="TextureID" value="258544" />
                 </Archive>
                 <Archive code="0">
                     <Int32 name="AlphaMode" value="0" />
                     <Int32 name="BodyPart" value="2" />
                     <Int32 name="EnvTextureId" value="0" />
                     <Int32 name="Priority" value="0" />
-                    <Int32 name="TextureID" value="0" />
+                    <Int32 name="TextureID" value="9450" />
                 </Archive>
                 <Archive code="0">
                     <Int32 name="AlphaMode" value="0" />
                     <Int32 name="BodyPart" value="3" />
                     <Int32 name="EnvTextureId" value="0" />
                     <Int32 name="Priority" value="0" />
-                    <Int32 name="TextureID" value="0" />
+                    <Int32 name="TextureID" value="37036" />
                 </Archive>
                 <Archive code="0">
                     <Int32 name="AlphaMode" value="0" />
                     <Int32 name="BodyPart" value="4" />
                     <Int32 name="EnvTextureId" value="0" />
                     <Int32 name="Priority" value="0" />
-                    <Int32 name="TextureID" value="0" />
+                    <Int32 name="TextureID" value="30886" />
                 </Archive>
             </Array>
             <Array name="Mesh">
@@ -54,15 +54,45 @@
                     <Int32 name="TextureID" value="0" />
                 </Archive>
                 <Archive code="0">
-                    <Int8 name="Attractor" value="1" />
-                    <Int8 name="Flags" value="2" />
-                    <Int32 name="MeshID" value="7800" />
+                    <Int8 name="Attractor" value="0" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="296890" />
                     <Int32 name="TextureID" value="0" />
                 </Archive>
                 <Archive code="0">
-                    <Int8 name="Attractor" value="2" />
+                    <Int8 name="Attractor" value="1" />
                     <Int8 name="Flags" value="2" />
-                    <Int32 name="MeshID" value="7800" />
+                    <Int32 name="MeshID" value="158278" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="3" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="245097" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="3" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="292697" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="4" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="245097" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="4" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="292697" />
+                    <Int32 name="TextureID" value="0" />
+                </Archive>
+                <Archive code="0">
+                    <Int8 name="Attractor" value="5" />
+                    <Int8 name="Flags" value="0" />
+                    <Int32 name="MeshID" value="245098" />
                     <Int32 name="TextureID" value="0" />
                 </Archive>
             </Array>
@@ -191,7 +221,7 @@
         </Archive>
         <Archive code="0">
             <Int32 name="ID" value="383695" />
-            <Int32 name="Time" value="1463522610" />
+            <Int32 name="Time" value="1463863574" />
             <Int32 name="MeshID" value="23371" />
             <Int32 name="HeadID" value="40149" />
             <Int32 name="Breed" value="3" />
@@ -483,7 +513,7 @@
         </Archive>
         <Archive code="0">
             <Int32 name="ID" value="383699" />
-            <Int32 name="Time" value="1456668487" />
+            <Int32 name="Time" value="1463679904" />
             <Int32 name="MeshID" value="17530" />
             <Int32 name="HeadID" value="223858" />
             <Int32 name="Breed" value="1" />
@@ -2223,7 +2253,7 @@
         </Archive>
         <Archive code="0">
             <Int32 name="ID" value="262653197" />
-            <Int32 name="Time" value="1463522613" />
+            <Int32 name="Time" value="1463684231" />
             <Int32 name="MeshID" value="17534" />
             <Int32 name="HeadID" value="40701" />
             <Int32 name="Breed" value="1" />
@@ -2283,7 +2313,7 @@
                 <Archive code="0">
                     <Int8 name="Attractor" value="1" />
                     <Int8 name="Flags" value="2" />
-                    <Int32 name="MeshID" value="96328" />
+                    <Int32 name="MeshID" value="35547" />
                     <Int32 name="TextureID" value="0" />
                 </Archive>
                 <Archive code="0">

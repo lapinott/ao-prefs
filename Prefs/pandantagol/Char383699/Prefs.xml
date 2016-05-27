@@ -550,6 +550,7 @@
     <Archive name="MutedChatGroups" code="0" />
     <Archive name="NCUWindowConfig" code="0">
         <Archive code="0" name="listview_config">
+            <Int32 name="ncu_listview_flags" value="0" />
             <Array name="col_id">
                 <Int32 value="0" />
                 <Int32 value="1" />
@@ -1103,7 +1104,7 @@
     </Archive>
     <Archive name="NotificationWindowConfig" code="0">
         <Bool name="ClickableLinks" value="true" />
-        <Rect name="WindowFrame" value="Rect(5.000000,25.000000,1915.000000,355.000000)" />
+        <Rect name="WindowFrame" value="Rect(4.000000,25.000000,1914.000000,355.000000)" />
     </Archive>
     <Value name="NotificationWindowVisibility" value="false" />
     <Value name="NumHotbars" value="1" />
@@ -1225,7 +1226,7 @@
     <Value name="VisualFlags" value="63" />
     <Value name="VoiceSndFxType" value="0" />
     <Archive name="WearViewConfig" code="0">
-        <Int32 name="selected_tab" value="1" />
+        <Int32 name="selected_tab" value="3" />
         <Bool name="labels_on_top" value="true" />
         <String name="DockableViewDockName" value='&quot;RollupArea&quot;' />
     </Archive>
@@ -1269,7 +1270,7 @@
     <Value name="mechselect_window" value="false" />
     <Value name="mission_window" value="true" />
     <Value name="nano_window" value="true" />
-    <Value name="ncu_window" value="false" />
+    <Value name="ncu_window" value="true" />
     <Value name="notification_window" value="true" />
     <Value name="perk_window" value="false" />
     <Value name="pet_window" value="false" />
@@ -1286,5 +1287,5 @@
     <Value name="team_view" value="false" />
     <Value name="teleport_target_window" value="false" />
     <Value name="tradeskill_window" value="false" />
-    <Value name="wear_window" value="false" />
+    <Value name="wear_window" value="true" />
 </Root>
